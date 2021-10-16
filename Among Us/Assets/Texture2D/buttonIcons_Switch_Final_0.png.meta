@@ -1,0 +1,438 @@
+fileFormatVersion: 2
+guid: bc3aead68d08aa948a0cb7c42152e489
+timeCreated: 1634333963
+licenseType: Free
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: buttonIcons_Switch_Final_6
+  - first:
+      213: 21300002
+    second: buttonIcons_Switch_Final_0
+  - first:
+      213: 21300004
+    second: buttonIcons_Switch_Final_5
+  - first:
+      213: 21300006
+    second: buttonIcons_Switch_Final_7
+  - first:
+      213: 21300008
+    second: buttonIcons_Switch_Final_3
+  - first:
+      213: 21300010
+    second: buttonIcons_Switch_Final_2
+  - first:
+      213: 21300012
+    second: buttonIcons_Switch_Final_4
+  - first:
+      213: 21300014
+    second: buttonIcons_Switch_Final_16
+  - first:
+      213: 21300016
+    second: buttonIcons_Switch_Final_17
+  externalObjects: {}
+  usedFileIDs: []
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 400
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 125
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: buttonIcons_Switch_Final_6
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 250
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34, y: -34}
+        - {x: -34, y: -34}
+        - {x: -34, y: 21}
+        - {x: -26, y: 34}
+        - {x: 33, y: 34}
+        - {x: 34, y: 32}
+      physicsShape:
+      - - {x: -21.000002, y: 34}
+        - {x: -26, y: 33}
+        - {x: -34, y: 15.000001}
+        - {x: -34, y: -34}
+        - {x: 34, y: -34}
+        - {x: 34, y: 34}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ceaaa0f69914d2eab5c86756bd3619e
+      internalID: 21300000
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonIcons_Switch_Final_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 321
+        width: 65
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: -32.5}
+        - {x: -32.5, y: -22.5}
+        - {x: -32.5, y: 30.5}
+        - {x: -24.5, y: 32.5}
+        - {x: 21.5, y: 32.5}
+        - {x: 32.5, y: 16.5}
+        - {x: 32.5, y: -15.5}
+        - {x: 30.5, y: -21.5}
+        - {x: 18.5, y: -32.5}
+      physicsShape:
+      - - {x: 15.500001, y: 32.500004}
+        - {x: -20.5, y: 32.500004}
+        - {x: -32.500004, y: 26.500002}
+        - {x: -32.500004, y: -31.5}
+        - {x: -30.500002, y: -32.500004}
+        - {x: 20.5, y: -32.500004}
+        - {x: 32.500004, y: -28.500002}
+        - {x: 32.500004, y: 15.500001}
+        - {x: 22.5, y: 31.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554e20fe16584012bcbe103ce8fb119d
+      internalID: 21300002
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonIcons_Switch_Final_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 260
+        width: 68
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34, y: -29}
+        - {x: -34, y: -29}
+        - {x: -34, y: 29}
+        - {x: 32, y: 29}
+        - {x: 34, y: 24}
+      physicsShape:
+      - - {x: -34, y: 29.000002}
+        - {x: -34, y: -29.000002}
+        - {x: 34, y: -29.000002}
+        - {x: 34, y: 24}
+        - {x: 29.000002, y: 29.000002}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2faac2646da744eaad530c43aec70dd6
+      internalID: 21300004
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonIcons_Switch_Final_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 250
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34, y: -34}
+        - {x: -34, y: -34}
+        - {x: -34, y: 34}
+        - {x: 27, y: 34}
+        - {x: 34, y: 28}
+      physicsShape:
+      - - {x: -34, y: 34}
+        - {x: -34, y: -34}
+        - {x: 34, y: -34}
+        - {x: 34, y: 34}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f84419c442e49648adfd55623eeca0e
+      internalID: 21300006
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonIcons_Switch_Final_3
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 324
+        width: 65
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: -32.5}
+        - {x: -32.5, y: -22.5}
+        - {x: -32.5, y: 30.5}
+        - {x: -24.5, y: 32.5}
+        - {x: 21.5, y: 32.5}
+        - {x: 32.5, y: 16.5}
+        - {x: 32.5, y: -15.5}
+        - {x: 30.5, y: -21.5}
+        - {x: 18.5, y: -32.5}
+      physicsShape:
+      - - {x: 15.500001, y: 32.500004}
+        - {x: -20.5, y: 32.500004}
+        - {x: -32.500004, y: 26.500002}
+        - {x: -32.500004, y: -31.5}
+        - {x: -30.500002, y: -32.500004}
+        - {x: 20.5, y: -32.500004}
+        - {x: 32.500004, y: -28.500002}
+        - {x: 32.500004, y: 15.500001}
+        - {x: 22.5, y: 31.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720d1859999e4877864d126d3a745457
+      internalID: 21300008
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonIcons_Switch_Final_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 321
+        width: 65
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: -32.5}
+        - {x: -32.5, y: -22.5}
+        - {x: -32.5, y: 30.5}
+        - {x: -24.5, y: 32.5}
+        - {x: 21.5, y: 32.5}
+        - {x: 32.5, y: 16.5}
+        - {x: 32.5, y: -15.5}
+        - {x: 30.5, y: -21.5}
+        - {x: 18.5, y: -32.5}
+      physicsShape:
+      - - {x: 15.500001, y: 32.500004}
+        - {x: -20.5, y: 32.500004}
+        - {x: -32.500004, y: 26.500002}
+        - {x: -32.500004, y: -31.5}
+        - {x: -30.500002, y: -32.500004}
+        - {x: 20.5, y: -32.500004}
+        - {x: 32.500004, y: -28.500002}
+        - {x: 32.500004, y: 15.500001}
+        - {x: 22.5, y: 31.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b87ca75e254880a80ee88ddc9e1da6
+      internalID: 21300010
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonIcons_Switch_Final_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 260
+        width: 68
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34, y: -29}
+        - {x: -34, y: -29}
+        - {x: -34, y: 25}
+        - {x: -28, y: 29}
+        - {x: 34, y: 29}
+      physicsShape:
+      - - {x: -28, y: 29.000002}
+        - {x: -34, y: 24}
+        - {x: -34, y: -29.000002}
+        - {x: 34, y: -29.000002}
+        - {x: 34, y: 29.000002}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8759d9963a9f44039860acbefa86a805
+      internalID: 21300012
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonIcons_Switch_Final_16
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 25
+        width: 65
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: -32.5}
+        - {x: -32.5, y: -23.5}
+        - {x: -32.5, y: 22.5}
+        - {x: -24.5, y: 32.5}
+        - {x: 21.5, y: 32.5}
+        - {x: 32.5, y: 29.5}
+        - {x: 32.5, y: -28.5}
+        - {x: 21.5, y: -32.5}
+      physicsShape:
+      - - {x: -21.5, y: 32.500004}
+        - {x: -32.500004, y: 21.5}
+        - {x: -32.500004, y: -27.500002}
+        - {x: -18.5, y: -32.500004}
+        - {x: 29.500002, y: -32.500004}
+        - {x: 32.500004, y: -28.500002}
+        - {x: 32.500004, y: 23.500002}
+        - {x: 29.500002, y: 32.500004}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aed216142864710aa4d9f34ed485aab
+      internalID: 21300014
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonIcons_Switch_Final_17
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 25
+        width: 65
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: -32.5}
+        - {x: -32.5, y: -23.5}
+        - {x: -32.5, y: 22.5}
+        - {x: -24.5, y: 32.5}
+        - {x: 21.5, y: 32.5}
+        - {x: 32.5, y: 29.5}
+        - {x: 32.5, y: -28.5}
+        - {x: 21.5, y: -32.5}
+      physicsShape:
+      - - {x: -21.5, y: 32.500004}
+        - {x: -32.500004, y: 21.5}
+        - {x: -32.500004, y: -27.500002}
+        - {x: -18.5, y: -32.500004}
+        - {x: 29.500002, y: -32.500004}
+        - {x: 32.500004, y: -28.500002}
+        - {x: 32.500004, y: 23.500002}
+        - {x: 29.500002, y: 32.500004}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded6454b9c354802a2645f21616dec56
+      internalID: 21300016
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices:
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag:
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData:
+  assetBundleName:
+  assetBundleVariant:

@@ -1,0 +1,391 @@
+fileFormatVersion: 2
+guid: 84e4c77e9cf032048a7e8f49a3f18260
+timeCreated: 1634333952
+licenseType: Free
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: beforeVoting_deadBody
+  - first:
+      213: 21300002
+    second: beforeVoting_EMCrewHand
+  - first:
+      213: 21300004
+    second: beforeVoting_EMCrew
+  - first:
+      213: 21300006
+    second: beforeVoting_emergencyButton
+  - first:
+      213: 21300008
+    second: beforVoting_deadBodyBubble
+  externalObjects: {}
+  usedFileIDs: []
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 25
+  maxTextureSize: 2032
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: beforeVoting_deadBody
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 389
+        width: 212
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 56}
+        - {x: 105.99999, y: 56}
+        - {x: 105.99999, y: -9.999999}
+        - {x: 66.99999, y: -56}
+        - {x: -33, y: -56}
+        - {x: -105.99999, y: -41}
+        - {x: -105.99999, y: -6}
+        - {x: -102, y: 2}
+        - {x: -61, y: 51}
+      physicsShape:
+      - - {x: 72, y: -25}
+        - {x: 72.99999, y: -19}
+        - {x: 72.99999, y: -3}
+        - {x: 72, y: 4}
+        - {x: 83, y: 4}
+        - {x: 89, y: 9}
+        - {x: 104.99999, y: 34}
+        - {x: 104.99999, y: 47}
+        - {x: 104, y: 51}
+        - {x: 96, y: 48.999996}
+        - {x: 58.999996, y: 56}
+        - {x: -50, y: 56}
+        - {x: -56, y: 52.999996}
+        - {x: -65, y: 45}
+        - {x: -74, y: 31}
+        - {x: -77, y: 25}
+        - {x: -79.99999, y: 17}
+        - {x: -79.99999, y: -3}
+        - {x: -58.999996, y: -45.999996}
+        - {x: -26, y: -51}
+        - {x: 7, y: -51}
+        - {x: 17, y: -42}
+        - {x: 65, y: -41}
+        - {x: 70, y: -35}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3adb1d3b52548edaa2ff25bb13ff321
+      internalID: 21300000
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beforeVoting_EMCrewHand
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 536
+        width: 56
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 14.999999}
+        - {x: 28, y: 14.999999}
+        - {x: 28, y: -14.999999}
+        - {x: -13, y: -14.999999}
+        - {x: -28, y: -8}
+      physicsShape:
+      - - {x: -22, y: 14.999999}
+        - {x: -28, y: 4.9999995}
+        - {x: -28, y: -14.999999}
+        - {x: 26, y: -14.999999}
+        - {x: 28, y: -13}
+        - {x: 28, y: -3}
+        - {x: 9, y: 14.999999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f1d8ca0d5a446cbdb7826cca96b518
+      internalID: 21300002
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beforeVoting_EMCrew
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 639
+        width: 124
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 62, y: 20.5}
+        - {x: 62, y: -21.499998}
+        - {x: -44, y: -46.5}
+        - {x: -62, y: -46.5}
+        - {x: -62, y: -22.5}
+        - {x: -29.999998, y: 46.5}
+        - {x: 45, y: 46.5}
+      physicsShape:
+      - - {x: 62, y: -6.5}
+        - {x: 62, y: 17.5}
+        - {x: 52, y: 36.499996}
+        - {x: 44, y: 43.5}
+        - {x: 38, y: 46.5}
+        - {x: 11, y: 46.5}
+        - {x: 4, y: 45.5}
+        - {x: -4.9999995, y: 39.5}
+        - {x: -19, y: 43.5}
+        - {x: -33, y: 26.499998}
+        - {x: -42.999996, y: 11.499999}
+        - {x: -62, y: -24.499998}
+        - {x: -62, y: -37.5}
+        - {x: -55, y: -46.5}
+        - {x: -42.999996, y: -46.5}
+        - {x: -24, y: -38.5}
+        - {x: 39, y: -24.499998}
+        - {x: 52.999996, y: -23.5}
+        - {x: 58, y: -20.5}
+      - - {x: 7, y: -43.5}
+        - {x: 7, y: -46.5}
+        - {x: 62, y: -46.5}
+        - {x: 62, y: -36.499996}
+        - {x: 14.999999, y: -36.499996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b817d89f86ad4b8e9f92c45383fb23a7
+      internalID: 21300004
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beforeVoting_emergencyButton
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 395
+        width: 224
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 40.5}
+        - {x: 68, y: 40.5}
+        - {x: 112, y: 18.5}
+        - {x: 112, y: -40.5}
+        - {x: -112, y: -40.5}
+        - {x: -112, y: -3.5}
+        - {x: -64, y: 18.5}
+      physicsShape:
+      - - {x: 91.99999, y: 25.5}
+        - {x: 58.999996, y: 31.5}
+        - {x: 35, y: 31.5}
+        - {x: 4.9999995, y: 30.5}
+        - {x: -26, y: 28.5}
+        - {x: -52, y: 22.5}
+        - {x: -71, y: 14.5}
+        - {x: -97, y: 1.5}
+        - {x: -112, y: -11.499999}
+        - {x: -112, y: -40.5}
+        - {x: 112, y: -40.5}
+        - {x: 112, y: 18.5}
+        - {x: 103, y: 21.499998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7421d911b84afcad46080f8aaf9484
+      internalID: 21300006
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beforVoting_deadBodyBubble
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 253
+        width: 114
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 56}
+        - {x: 35, y: 56}
+        - {x: 57, y: 34}
+        - {x: 57, y: -19}
+        - {x: -9.999999, y: -56}
+        - {x: -16, y: -56}
+        - {x: -52, y: -16}
+        - {x: -57, y: -4}
+        - {x: -57, y: 29.999998}
+      physicsShape:
+      - - {x: 57, y: -9}
+        - {x: 57, y: 29}
+        - {x: 48, y: 42.999996}
+        - {x: 38, y: 52}
+        - {x: 29.999998, y: 56}
+        - {x: -22.999998, y: 56}
+        - {x: -42.999996, y: 45}
+        - {x: -53.999996, y: 33}
+        - {x: -57, y: 25}
+        - {x: -57, y: -4.9999995}
+        - {x: -50, y: -18}
+        - {x: -38, y: -28}
+        - {x: -24, y: -34}
+        - {x: -17, y: -56}
+        - {x: -9, y: -56}
+        - {x: 0, y: -36}
+        - {x: 21, y: -36}
+        - {x: 45.999996, y: -26}
+      - - {x: -12, y: -39}
+        - {x: -13, y: -38}
+        - {x: -13, y: -33}
+        - {x: -14.999999, y: -28}
+        - {x: -21, y: -22.999998}
+        - {x: -35, y: -18}
+        - {x: -45, y: -8}
+        - {x: -48.999996, y: 2}
+        - {x: -50, y: 16}
+        - {x: -48.999996, y: 16}
+        - {x: -45.999996, y: 26}
+        - {x: -39, y: 35}
+        - {x: -33, y: 39}
+        - {x: -19.999998, y: 45}
+        - {x: -2, y: 47}
+        - {x: -1, y: 48}
+        - {x: 24, y: 48}
+        - {x: 25, y: 47}
+        - {x: 35, y: 42}
+        - {x: 45, y: 31}
+        - {x: 45.999996, y: 26.999998}
+        - {x: 48.999996, y: 16}
+        - {x: 50, y: 4.9999995}
+        - {x: 48.999996, y: 4}
+        - {x: 47, y: -4}
+        - {x: 44, y: -9.999999}
+        - {x: 38, y: -16}
+        - {x: 28, y: -21}
+        - {x: 22.999998, y: -22}
+        - {x: 14, y: -25}
+        - {x: -4, y: -26}
+        - {x: -9, y: -29.999998}
+        - {x: -11, y: -35}
+        - {x: -11, y: -37}
+        - {x: -13, y: -39.999996}
+        - {x: -13, y: -41}
+        - {x: -12, y: -41}
+      - - {x: 22.999998, y: 38}
+        - {x: 16, y: 39}
+        - {x: -14, y: 39}
+        - {x: -32, y: 31}
+        - {x: -32, y: -4}
+        - {x: -9.999999, y: -18}
+        - {x: 9.999999, y: -18}
+        - {x: 29.999998, y: -2}
+        - {x: 31, y: 4}
+        - {x: 31, y: 26}
+      - - {x: -57, y: 48.999996}
+        - {x: -53.999996, y: 48.999996}
+        - {x: -45.999996, y: 52.999996}
+        - {x: -45.999996, y: 56}
+        - {x: -52, y: 56}
+        - {x: -57, y: 52.999996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5721330cc674f25a9cc35202a87e8eb
+      internalID: 21300008
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices:
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag:
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData:
+  assetBundleName:
+  assetBundleVariant:

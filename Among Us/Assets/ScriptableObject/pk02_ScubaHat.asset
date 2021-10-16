@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78c4b6061292e5f4c9874777335587a6, type: 3}
+  m_Name: pk02_ScubaHat
+  m_EditorClassIdentifier:
+  MainImage: {fileID: 21300334, guid: b68a97067a57dd24ea91807f416953c0, type: 3}
+  BackImage: {fileID: 0}
+  LeftMainImage: {fileID: 21300288, guid: b68a97067a57dd24ea91807f416953c0, type: 3}
+  LeftBackImage: {fileID: 0}
+  EpicId:
+  ClimbImage: {fileID: 21300020, guid: b68a97067a57dd24ea91807f416953c0, type: 3}
+  FloorImage: {fileID: 21300366, guid: b68a97067a57dd24ea91807f416953c0, type: 3}
+  LeftClimbImage: {fileID: 0}
+  LeftFloorImage: {fileID: 0}
+  InFront: 1
+  NoBounce: 1
+  NotInStore: 0
+  Free: 0
+  AltShader: {fileID: 0}
+  ChipOffset: {x: 0, y: 0}
+  LimitedMonth: 0
+  LimitedYear: 0
+  RelatedSkin: {fileID: 0}
+  StoreName: 1M Download Bundle! (Includes 8 hats)
+  ProductId: hats_bundle2
+  Order: 6

@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b2d28e5017d0d848921d2c59499fc79, type: 3}
+  m_Name: Astro
+  m_EditorClassIdentifier:
+  IdleFrame: {fileID: 21300284, guid: eb72887bded4ca843be8aed9f8b3a5b5, type: 3}
+  IdleAnim: {fileID: 7400000, guid: bc2c3db9087c5284e8fb3c3e81beb8a2, type: 2}
+  RunAnim: {fileID: 7400000, guid: f568978753f041b4d874fcbc282bf444, type: 2}
+  EnterVentAnim: {fileID: 7400000, guid: 7d79f8fe72ac19f419cb1bc1a975a6d7, type: 2}
+  ExitVentAnim: {fileID: 7400000, guid: 667123121d994c640a44ae9dafc21c0f, type: 2}
+  ClimbAnim: {fileID: 7400000, guid: cff467bc0efb35f40a006f3ddda71232, type: 2}
+  ClimbDownAnim: {fileID: 7400000, guid: 2069e594860226349b4c7e5494f54c9d, type: 2}
+  KillTongueImpostor: {fileID: 7400000, guid: 0d08d19482459314eadb1264432aeead, type: 2}
+  KillTongueVictim: {fileID: 7400000, guid: ee049b572b43bcb4c99574c8f3397103, type: 2}
+  KillShootImpostor: {fileID: 7400000, guid: 9bd1ddcefe3baba4fad047561d5b02bf, type: 2}
+  KillShootVictim: {fileID: 7400000, guid: 4e28b0aa6755dda439888b2be4e3489f, type: 2}
+  KillNeckImpostor: {fileID: 7400000, guid: b603782d0e4bdfa4a93ea14631c49001, type: 2}
+  KillStabImpostor: {fileID: 7400000, guid: 513064c2996e590498762c775a2e11f4, type: 2}
+  KillStabVictim: {fileID: 7400000, guid: b309b28523ee3c64c86b972d90c98684, type: 2}
+  KillNeckVictim: {fileID: 7400000, guid: ed05501f8f623964c8a40c00a4821146, type: 2}
+  KillRHMVictim: {fileID: 7400000, guid: ccaa4fc5016a8b04eb89ec363a7223b4, type: 2}
+  EjectFrame: {fileID: 21300646, guid: eb72887bded4ca843be8aed9f8b3a5b5, type: 3}
+  SpawnAnim: {fileID: 7400000, guid: d5b6839d79c7f1f42afea20e5763e2c7, type: 2}
+  IdleLeftAnim: {fileID: 0}
+  RunLeftAnim: {fileID: 0}
+  EnterLeftVentAnim: {fileID: 0}
+  ExitLeftVentAnim: {fileID: 0}
+  SpawnLeftAnim: {fileID: 0}
+  KillAnims: []
+  NotInStore: 0
+  Free: 0
+  RelatedHat: {fileID: 11400000, guid: 077bd8fa3c3106749918e47e31450015, type: 2}
+  StoreName: Astronaut (includes hat!)
+  ProductId:
+  Order: 0

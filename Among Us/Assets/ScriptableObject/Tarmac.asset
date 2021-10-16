@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b2d28e5017d0d848921d2c59499fc79, type: 3}
+  m_Name: Tarmac
+  m_EditorClassIdentifier:
+  IdleFrame: {fileID: 21300234, guid: 950dd4ccdee6a6046b6a385c27e170ea, type: 3}
+  IdleAnim: {fileID: 7400000, guid: 45bce9441dc601745a80fcf92fc69d8d, type: 2}
+  RunAnim: {fileID: 7400000, guid: e4cf8c991a0685243841fe0a4740826f, type: 2}
+  EnterVentAnim: {fileID: 7400000, guid: 864ce60a34c036e4fb0da601cee8bf91, type: 2}
+  ExitVentAnim: {fileID: 7400000, guid: 57680040a913ddc45af179c4229fbafa, type: 2}
+  ClimbAnim: {fileID: 7400000, guid: 156e66f7afe181542b8fd3f903223b31, type: 2}
+  ClimbDownAnim: {fileID: 7400000, guid: b692629fbb5759642a3c5ea057268c73, type: 2}
+  KillTongueImpostor: {fileID: 7400000, guid: 74f3761fd0f473e41ac3cbd2ae14e45e, type: 2}
+  KillTongueVictim: {fileID: 7400000, guid: df1ba50ca75ed774fab82ad221013c5a, type: 2}
+  KillShootImpostor: {fileID: 7400000, guid: 204f5cbf6cc511949b79d2ffce66e347, type: 2}
+  KillShootVictim: {fileID: 7400000, guid: f3ce3496db4132c4e9897d0973846563, type: 2}
+  KillNeckImpostor: {fileID: 7400000, guid: 54490bbf0a723e7418ae81ed4c9a1121, type: 2}
+  KillStabImpostor: {fileID: 7400000, guid: 82f768dd4eee0a5488764783ef51e5fe, type: 2}
+  KillStabVictim: {fileID: 7400000, guid: 6f0d722a7ebc3ca4bbba20b1ee99cda8, type: 2}
+  KillNeckVictim: {fileID: 7400000, guid: 4f4fa64e0cb15ab4bb73f2dc7af43395, type: 2}
+  KillRHMVictim: {fileID: 7400000, guid: 31398d965cc2dc54f9b690369c59b5ef, type: 2}
+  EjectFrame: {fileID: 21300112, guid: 950dd4ccdee6a6046b6a385c27e170ea, type: 3}
+  SpawnAnim: {fileID: 7400000, guid: e936272a7793f12418b14bca2e6c60c2, type: 2}
+  IdleLeftAnim: {fileID: 0}
+  RunLeftAnim: {fileID: 0}
+  EnterLeftVentAnim: {fileID: 0}
+  ExitLeftVentAnim: {fileID: 0}
+  SpawnLeftAnim: {fileID: 0}
+  KillAnims: []
+  NotInStore: 0
+  Free: 0
+  RelatedHat: {fileID: 11400000, guid: ae6b2fa001e1a834e895c1891028588b, type: 2}
+  StoreName: MiraSkinBundle
+  ProductId:
+  Order: 1

@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b2d28e5017d0d848921d2c59499fc79, type: 3}
+  m_Name: Military
+  m_EditorClassIdentifier:
+  IdleFrame: {fileID: 21300098, guid: dfd3106003a8a6744b3711d85c6b12c8, type: 3}
+  IdleAnim: {fileID: 7400000, guid: 1be1d8023e6de314b996bb338e1a54a7, type: 2}
+  RunAnim: {fileID: 7400000, guid: a474a7a689873c844bc9d43b8536da4b, type: 2}
+  EnterVentAnim: {fileID: 7400000, guid: 73ed1f66f09375448bd8fc3d3f3cf0b2, type: 2}
+  ExitVentAnim: {fileID: 7400000, guid: af4bde092eb588a4a80881ea137b6703, type: 2}
+  ClimbAnim: {fileID: 7400000, guid: 15da16e636e56bc4cb3a6bf12cad2d77, type: 2}
+  ClimbDownAnim: {fileID: 7400000, guid: 066039045640d414184452da052dd17b, type: 2}
+  KillTongueImpostor: {fileID: 7400000, guid: 95f001c749fd89c40a25f20eaaadfae2, type: 2}
+  KillTongueVictim: {fileID: 7400000, guid: 12bde210c0f629147a26cc20685a5ed4, type: 2}
+  KillShootImpostor: {fileID: 7400000, guid: 2d6c6592f14dab145b73734b440e9ce5, type: 2}
+  KillShootVictim: {fileID: 7400000, guid: c7a0f808cf9872d41ba8087451b07a92, type: 2}
+  KillNeckImpostor: {fileID: 7400000, guid: cdd05ab02e2becd42ab3155e14fa15e5, type: 2}
+  KillStabImpostor: {fileID: 7400000, guid: 3596b75f522d8a94cb54850e64f84bbb, type: 2}
+  KillStabVictim: {fileID: 7400000, guid: ff8c576d96c2ef4448347aace824d8a9, type: 2}
+  KillNeckVictim: {fileID: 7400000, guid: 499ab7b02724c4149b781a9fbdbb3535, type: 2}
+  KillRHMVictim: {fileID: 7400000, guid: b858521bd6e9d404db73eddd9f9e3ba6, type: 2}
+  EjectFrame: {fileID: 21300614, guid: dfd3106003a8a6744b3711d85c6b12c8, type: 3}
+  SpawnAnim: {fileID: 7400000, guid: ada4922ba32cf1c499ca7904e47edeb8, type: 2}
+  IdleLeftAnim: {fileID: 0}
+  RunLeftAnim: {fileID: 0}
+  EnterLeftVentAnim: {fileID: 0}
+  ExitLeftVentAnim: {fileID: 0}
+  SpawnLeftAnim: {fileID: 0}
+  KillAnims: []
+  NotInStore: 0
+  Free: 0
+  RelatedHat: {fileID: 11400000, guid: 2d086ed231f156d4881f73512e540d78, type: 2}
+  StoreName: Military (includes hat!)
+  ProductId:
+  Order: 0

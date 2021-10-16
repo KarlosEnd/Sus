@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: fdeb518fef6d30143959a44fe328c475
+timeCreated: 1634333976
+licenseType: Free
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: electricity_wiresBase3
+  - first:
+      213: 21300002
+    second: electricity_wires3
+  - first:
+      213: 21300004
+    second: wireicons0002
+  - first:
+      213: 21300006
+    second: electricity_wiresBaseBack
+  - first:
+      213: 21300008
+    second: electricity_wires1
+  - first:
+      213: 21300010
+    second: wireicons0004
+  - first:
+      213: 21300012
+    second: electricity_wiresBase1
+  - first:
+      213: 21300014
+    second: wireicons0001
+  - first:
+      213: 21300016
+    second: wireicons0003
+  - first:
+      213: 21300018
+    second: electricity_wires2
+  - first:
+      213: 21300020
+    second: electricity_wiresBase
+  - first:
+      213: 21300022
+    second: electricity_wiresBase2
+  externalObjects: {}
+  usedFileIDs: []
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 536
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: electricity_wiresBase3
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 12
+        width: 17
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: -8.5}
+        - {x: -8.5, y: 8.5}
+        - {x: 8.5, y: 8.5}
+        - {x: 8.5, y: -8.5}
+      physicsShape:
+      - - {x: -8.5, y: 8.5}
+        - {x: -8.5, y: -8.5}
+        - {x: 6.5, y: -8.5}
+        - {x: 8.5, y: 1.5}
+        - {x: 8.5, y: 8.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd979eedde5f45c09136254bb422e1e7
+      internalID: 21300000
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_wires3
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 6
+        width: 34
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: -11.499999}
+        - {x: -17, y: 11.499999}
+        - {x: 17, y: 11.499999}
+        - {x: 17, y: -11.499999}
+      physicsShape:
+      - - {x: 14, y: 11.499999}
+        - {x: -16, y: 11.499999}
+        - {x: -17, y: 10.5}
+        - {x: -17, y: -7.4999995}
+        - {x: -9, y: -8.5}
+        - {x: -4, y: -11.499999}
+        - {x: 9, y: -11.499999}
+        - {x: 17, y: -4.5}
+        - {x: 17, y: 7.4999995}
+        - {x: 16, y: 7.4999995}
+      tessellationDetail: 0
+      bones: []
+      spriteID: de595f72fdbf41a88fdf9e636f8ac1b2
+      internalID: 21300002
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wireicons0002
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 16
+        width: 13
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46153846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -6.5}
+        - {x: -6.5, y: 6.5}
+        - {x: 6.5, y: 6.5}
+        - {x: 6.5, y: -6.5}
+      physicsShape:
+      - - {x: -6.5, y: 6.5}
+        - {x: -6.5, y: -6.5}
+        - {x: 6.5, y: -6.5}
+        - {x: 6.5, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89e5e0232664c04a725a121d01bd535
+      internalID: 21300004
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_wiresBaseBack
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 31
+        width: 504
+        height: 504
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -252, y: -252}
+        - {x: -252, y: 252}
+        - {x: 252, y: 252}
+        - {x: 252, y: -252}
+      physicsShape:
+      - - {x: -252, y: 252}
+        - {x: -252, y: -252}
+        - {x: 252, y: -252}
+        - {x: 252, y: 252}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9856e1894f3b49ee9aca57c5ffdacf79
+      internalID: 21300006
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_wires1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 4
+        width: 38
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: -12.5}
+        - {x: -19, y: 12.5}
+        - {x: 19, y: 12.5}
+        - {x: 19, y: -12.5}
+      physicsShape:
+      - - {x: -8, y: 12.5}
+        - {x: -17, y: 10.5}
+        - {x: -19, y: 8.5}
+        - {x: -19, y: -11.499999}
+        - {x: -9.999999, y: -12.5}
+        - {x: 14.999999, y: -12.5}
+        - {x: 19, y: -8.5}
+        - {x: 19, y: 10.5}
+        - {x: 16, y: 12.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892b0e1a289d4bc4b9ce92644bfc29e0
+      internalID: 21300008
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wireicons0004
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 15
+        width: 17
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 7}
+        - {x: 8.5, y: 7}
+        - {x: 8.5, y: -6}
+        - {x: 7.4999995, y: -7}
+        - {x: -8.5, y: -7}
+      physicsShape:
+      - - {x: -4.5, y: 7}
+        - {x: -8.5, y: 4.9999995}
+        - {x: -8.5, y: -4}
+        - {x: -7.4999995, y: -7}
+        - {x: 8.5, y: -7}
+        - {x: 8.5, y: 4.9999995}
+        - {x: 5.5, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e2542c282d4dd296e9f13368704dab
+      internalID: 21300010
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_wiresBase1
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 12
+        width: 13
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -8.5}
+        - {x: -6.5, y: 8.5}
+        - {x: 6.5, y: 8.5}
+        - {x: 6.5, y: -8.5}
+      physicsShape:
+      - - {x: -6.5, y: 8.5}
+        - {x: -6.5, y: -8.5}
+        - {x: 5.5, y: -8.5}
+        - {x: 6.5, y: -6.5}
+        - {x: 6.5, y: 8.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef8d51b5b8d4b4e90a05c31519b13a8
+      internalID: 21300012
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wireicons0001
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 16
+        width: 14
+        height: 13
+      alignment: 9
+      pivot: {x: 0.53571427, y: 0.46153846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.9999995, y: -6.5}
+        - {x: -6.9999995, y: 6.5}
+        - {x: 7, y: 6.5}
+        - {x: 7, y: -6.5}
+      physicsShape:
+      - - {x: -4, y: 6.5}
+        - {x: -6.9999995, y: 0.5}
+        - {x: -6.9999995, y: -6.5}
+        - {x: 5, y: -6.5}
+        - {x: 7, y: -5.4999995}
+        - {x: 7, y: -0.5}
+        - {x: 4, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc11dc5a8654b7aa3d0d256c77a97f7
+      internalID: 21300014
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wireicons0003
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 15
+        width: 13
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -7}
+        - {x: -6.5, y: 7}
+        - {x: 6.5, y: 7}
+        - {x: 6.5, y: -7}
+      physicsShape:
+      - - {x: -6.5, y: 7}
+        - {x: -6.5, y: -6}
+        - {x: -5.5, y: -7}
+        - {x: 3.5, y: -7}
+        - {x: 6.5, y: -6}
+        - {x: 6.5, y: 7}
+      - - {x: -0.5, y: 2}
+        - {x: 0.5, y: -1}
+        - {x: -0.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5513cd19704c488bbbea4f1608adadd6
+      internalID: 21300016
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_wires2
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 5
+        width: 35
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: -12}
+        - {x: -17.5, y: 12}
+        - {x: 17.5, y: 12}
+        - {x: 17.5, y: -12}
+      physicsShape:
+      - - {x: -17.5, y: -11}
+        - {x: -15.5, y: -12}
+        - {x: 17.5, y: -12}
+        - {x: 17.5, y: 7}
+        - {x: 15.5, y: 12}
+        - {x: -11.499999, y: 12}
+        - {x: -17.5, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b963cddc83a7484e813bab8f917a1c55
+      internalID: 21300018
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_wiresBase
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 12
+        width: 6
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -8.5}
+        - {x: -3, y: 8.5}
+        - {x: 3, y: 8.5}
+        - {x: 3, y: -8.5}
+      physicsShape:
+      - - {x: -3, y: 8.5}
+        - {x: -3, y: -8.5}
+        - {x: 3, y: -8.5}
+        - {x: 3, y: 8.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3195ee3b324e9590f96f76afd1da1b
+      internalID: 21300020
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_wiresBase2
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 12
+        width: 16
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -8.5}
+        - {x: -8, y: 8.5}
+        - {x: 8, y: 8.5}
+        - {x: 8, y: -8.5}
+      physicsShape:
+      - - {x: -8, y: 8.5}
+        - {x: -8, y: -8.5}
+        - {x: 8, y: -8.5}
+        - {x: 8, y: 8.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670cfe29b796461cb75a3422d7bfd807
+      internalID: 21300022
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices:
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag:
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData:
+  assetBundleName:
+  assetBundleVariant:

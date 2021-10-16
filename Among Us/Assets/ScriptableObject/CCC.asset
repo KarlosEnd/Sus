@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b2d28e5017d0d848921d2c59499fc79, type: 3}
+  m_Name: CCC
+  m_EditorClassIdentifier:
+  IdleFrame: {fileID: 21300576, guid: 5e6132d0ed6f31248aae192ff3e222c1, type: 3}
+  IdleAnim: {fileID: 7400000, guid: b1e7b33e756e09443b57646d2dc42dc5, type: 2}
+  RunAnim: {fileID: 7400000, guid: ed7b5be665f166c44b35d9abb232704b, type: 2}
+  EnterVentAnim: {fileID: 7400000, guid: 7a119022d5fb72841b5bed322073b89c, type: 2}
+  ExitVentAnim: {fileID: 7400000, guid: 31fcb957c5d7752418c6a4d3324e78ee, type: 2}
+  ClimbAnim: {fileID: 7400000, guid: c95a839fa20bac94d8f26513bcee8e74, type: 2}
+  ClimbDownAnim: {fileID: 7400000, guid: e4ad0fabff64420458914a338e61ae1f, type: 2}
+  KillTongueImpostor: {fileID: 7400000, guid: f52854e5f5014cd49843caf25a3918e5, type: 2}
+  KillTongueVictim: {fileID: 7400000, guid: a4d10e9b251d3fb498f025ffd2501123, type: 2}
+  KillShootImpostor: {fileID: 7400000, guid: 5c2ec68dbbd728d4e913aab425f36ddd, type: 2}
+  KillShootVictim: {fileID: 7400000, guid: 6cd95fc7c2a46e1478154cf9de26245c, type: 2}
+  KillNeckImpostor: {fileID: 7400000, guid: 157997c63836a3f449979582ac9307f5, type: 2}
+  KillStabImpostor: {fileID: 7400000, guid: 975ef67eeff737f408a6a3acd35a66ef, type: 2}
+  KillStabVictim: {fileID: 7400000, guid: af2dd62e1c987a8469967e51ab7edcb8, type: 2}
+  KillNeckVictim: {fileID: 7400000, guid: dabe40145c7702a4297523efea95c383, type: 2}
+  KillRHMVictim: {fileID: 7400000, guid: 37866befa58146b459d348795a000dfd, type: 2}
+  EjectFrame: {fileID: 21300834, guid: 5e6132d0ed6f31248aae192ff3e222c1, type: 3}
+  SpawnAnim: {fileID: 7400000, guid: 36bc7a108e9f20245800dadb87a29b6b, type: 2}
+  IdleLeftAnim: {fileID: 7400000, guid: ac873556de7d6484f8bee3b854babc3d, type: 2}
+  RunLeftAnim: {fileID: 7400000, guid: 74a779a86e79ee24595188d68865ac25, type: 2}
+  EnterLeftVentAnim: {fileID: 7400000, guid: 0a34367c3b249704b903215e765d7908, type: 2}
+  ExitLeftVentAnim: {fileID: 7400000, guid: 79bc9da99a80f4b4aa139468d76e005c, type: 2}
+  SpawnLeftAnim: {fileID: 7400000, guid: 7598b96104a27294cbcf86eb8c44a638, type: 2}
+  KillAnims: []
+  NotInStore: 0
+  Free: 0
+  RelatedHat: {fileID: 0}
+  StoreName: CCC_Officer
+  ProductId: map_airship
+  Order: 0

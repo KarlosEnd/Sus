@@ -1,0 +1,693 @@
+fileFormatVersion: 2
+guid: a680cd2254b1aa64781788c8cf24ecb7
+timeCreated: 1634333975
+licenseType: Free
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: sortingSamplesBase
+  - first:
+      213: 21300002
+    second: sortingSamples_stone2
+  - first:
+      213: 21300004
+    second: sortingSamples_emblem_animal
+  - first:
+      213: 21300006
+    second: sortingSamples_boxFront
+  - first:
+      213: 21300008
+    second: sortingSamples_plant1
+  - first:
+      213: 21300010
+    second: sortingSamples_animal2
+  - first:
+      213: 21300012
+    second: sortingSamples_plant2
+  - first:
+      213: 21300014
+    second: sortingSamples_stone1
+  - first:
+      213: 21300016
+    second: sortingSamples_animal1
+  - first:
+      213: 21300018
+    second: sortingSamples_emblem_Plant
+  - first:
+      213: 21300020
+    second: sortingSamples_emblem_Mineral
+  externalObjects: {}
+  usedFileIDs: []
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 832
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sortingSamplesBase
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 228
+        width: 703
+        height: 603
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -351.5, y: -301.5}
+        - {x: -351.5, y: 301.5}
+        - {x: 351.5, y: 301.5}
+        - {x: 351.5, y: -301.5}
+      physicsShape:
+      - - {x: -351.5, y: 301.5}
+        - {x: -351.5, y: -301.5}
+        - {x: 351.5, y: -301.5}
+        - {x: 351.5, y: 301.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb866961b09541a2b1b4403d2cbaa8ee
+      internalID: 21300000
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortingSamples_stone2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 19
+        width: 113
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56.5, y: 21}
+        - {x: 56.5, y: -39}
+        - {x: 17.5, y: -55}
+        - {x: -13.499999, y: -55}
+        - {x: -50.5, y: -18}
+        - {x: -56.5, y: -6}
+        - {x: -56.5, y: 4}
+        - {x: -38.5, y: 41}
+        - {x: 22.5, y: 55}
+        - {x: 39.5, y: 55}
+      physicsShape:
+      - - {x: 56.5, y: 17}
+        - {x: 53.499996, y: 29}
+        - {x: 33.499996, y: 55}
+        - {x: 21.499998, y: 55}
+        - {x: -2.4999998, y: 50}
+        - {x: -12.5, y: 36}
+        - {x: -27.5, y: 41}
+        - {x: -37.5, y: 42}
+        - {x: -43.5, y: 26.999998}
+        - {x: -44.5, y: 22}
+        - {x: -36.499996, y: 11}
+        - {x: -56.5, y: 3}
+        - {x: -56.5, y: -9}
+        - {x: -55.5, y: -11}
+        - {x: -38.5, y: -25}
+        - {x: -32.5, y: -36}
+        - {x: -30.5, y: -38}
+        - {x: -27.5, y: -39}
+        - {x: -13.499999, y: -44}
+        - {x: 0.5, y: -55}
+        - {x: 21.499998, y: -55}
+        - {x: 41.5, y: -44}
+        - {x: 54.5, y: -22.999998}
+        - {x: 56.5, y: -14.999999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35d729a91fd415f8f1e1d018fca7970
+      internalID: 21300002
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortingSamples_emblem_animal
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 758
+        width: 33
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: -17}
+        - {x: -16.5, y: 17}
+        - {x: 16.5, y: 17}
+        - {x: 16.5, y: -17}
+      physicsShape:
+      - - {x: 15.5, y: 16}
+        - {x: 12.5, y: 17}
+        - {x: -9.5, y: 17}
+        - {x: -10.5, y: 16}
+        - {x: -16.5, y: 11}
+        - {x: -16.5, y: -11}
+        - {x: -10.5, y: -17}
+        - {x: 11.499999, y: -17}
+        - {x: 14.5, y: -11}
+        - {x: 16.5, y: -9}
+        - {x: 16.5, y: 12}
+      - - {x: -5.5, y: -8}
+        - {x: -3.5, y: -7}
+        - {x: -1.5, y: -2}
+        - {x: -1.5, y: 0}
+        - {x: 2.4999998, y: -2}
+        - {x: 6.5, y: -6}
+        - {x: 4.5, y: -9}
+        - {x: -2.4999998, y: -12}
+        - {x: -2.4999998, y: -11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67d9bd0c94145c1af20d8bcb388ca24
+      internalID: 21300004
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortingSamples_boxFront
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 134
+        width: 318
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 149, y: 44.5}
+        - {x: 158.99998, y: 44.5}
+        - {x: 158.99998, y: 9.5}
+        - {x: 151, y: -44.5}
+        - {x: -151, y: -44.5}
+        - {x: -158.99998, y: 23.5}
+        - {x: -158.99998, y: 40.5}
+        - {x: -35, y: 26.499998}
+        - {x: 44, y: 25.5}
+      physicsShape:
+      - - {x: 158.99998, y: 44.5}
+        - {x: 145, y: 44.5}
+        - {x: 118.99999, y: 39.5}
+        - {x: 98.99999, y: 33.499996}
+        - {x: 72, y: 28.5}
+        - {x: 48, y: 24.499998}
+        - {x: 48, y: 23.5}
+        - {x: -29, y: 23.5}
+        - {x: -29, y: 24.499998}
+        - {x: -66.99999, y: 27.5}
+        - {x: -105.99999, y: 31.5}
+        - {x: -158, y: 40.5}
+        - {x: -158.99998, y: 39.5}
+        - {x: -158.99998, y: 21.499998}
+        - {x: -155, y: -0.5}
+        - {x: -154, y: -19.5}
+        - {x: -151, y: -43.5}
+        - {x: -150, y: -44.5}
+        - {x: 146.99998, y: -44.5}
+        - {x: 150, y: -41.5}
+        - {x: 152, y: -36.499996}
+        - {x: 158.99998, y: 4.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60609bf7a844499db008be32c6a3410b
+      internalID: 21300006
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortingSamples_plant1
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 93
+        width: 140
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 70, y: 24}
+        - {x: 70, y: -4.9999995}
+        - {x: 39, y: -57}
+        - {x: 9.999999, y: -65}
+        - {x: -29.999998, y: -65}
+        - {x: -57, y: -38}
+        - {x: -70, y: 4}
+        - {x: -70, y: 39}
+        - {x: 19, y: 65}
+        - {x: 42.999996, y: 65}
+      physicsShape:
+      - - {x: 70, y: 24}
+        - {x: 58.999996, y: 39.999996}
+        - {x: 33, y: 65}
+        - {x: 18, y: 65}
+        - {x: 14, y: 64}
+        - {x: -11, y: 52}
+        - {x: -42, y: 48.999996}
+        - {x: -57, y: 39.999996}
+        - {x: -70, y: 19}
+        - {x: -70, y: 2}
+        - {x: -63, y: -16}
+        - {x: -52, y: -26}
+        - {x: -45.999996, y: -45.999996}
+        - {x: -29.999998, y: -65}
+        - {x: 12, y: -65}
+        - {x: 35, y: -58}
+        - {x: 48.999996, y: -42}
+        - {x: 70, y: -1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40e606691784f90b84b309f8f35dc4d
+      internalID: 21300008
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortingSamples_animal2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 9
+        width: 131
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: 59.999996}
+        - {x: 20.5, y: 59.999996}
+        - {x: 40.5, y: 39.999996}
+        - {x: 65.5, y: -6}
+        - {x: 65.5, y: -25}
+        - {x: -12.5, y: -45}
+        - {x: -27.5, y: -59.999996}
+        - {x: -65.5, y: -59.999996}
+        - {x: -65.5, y: -29}
+        - {x: -14.5, y: 45.999996}
+      physicsShape:
+      - - {x: 37.5, y: -34}
+        - {x: 60.499996, y: -24}
+        - {x: 65.5, y: -21}
+        - {x: 65.5, y: -1}
+        - {x: 46.5, y: 39.999996}
+        - {x: 25.5, y: 48}
+        - {x: 21.499998, y: 58}
+        - {x: 18.5, y: 59.999996}
+        - {x: 6.5, y: 59.999996}
+        - {x: -18.5, y: 45.999996}
+        - {x: -46.5, y: -4}
+        - {x: -49.499996, y: -22}
+        - {x: -63.5, y: -26}
+        - {x: -65.5, y: -29}
+        - {x: -65.5, y: -41}
+        - {x: -64.5, y: -44}
+        - {x: -61.5, y: -51}
+        - {x: -49.499996, y: -59.999996}
+        - {x: -21.499998, y: -59.999996}
+        - {x: -22.5, y: -41}
+        - {x: -2.4999998, y: -42}
+        - {x: 9.5, y: -31}
+      - - {x: -60.499996, y: 59.999996}
+        - {x: -65.5, y: 47}
+        - {x: -65.5, y: 33}
+        - {x: -56.5, y: 22.999998}
+        - {x: -51.5, y: 22.999998}
+        - {x: -37.5, y: 37}
+        - {x: -37.5, y: 42}
+        - {x: -50.5, y: 59.999996}
+      - - {x: -59.499996, y: 42.999996}
+        - {x: -57.5, y: 44}
+        - {x: -54.5, y: 41}
+        - {x: -53.499996, y: 41}
+        - {x: -50.5, y: 44}
+        - {x: -51.5, y: 51}
+        - {x: -51.5, y: 48.999996}
+        - {x: -46.5, y: 42.999996}
+        - {x: -53.499996, y: 41}
+        - {x: -54.5, y: 42}
+        - {x: -56.5, y: 41}
+        - {x: -57.5, y: 42}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57496c2f152c4b72a26d44943a30d159
+      internalID: 21300010
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortingSamples_plant2
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 73
+        width: 107
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 75}
+        - {x: 25.5, y: 75}
+        - {x: 53.499996, y: 22}
+        - {x: 53.499996, y: -75}
+        - {x: -31.5, y: -75}
+        - {x: -53.499996, y: -19}
+        - {x: -53.499996, y: 9}
+      physicsShape:
+      - - {x: 52.499996, y: -33}
+        - {x: 53.499996, y: -22}
+        - {x: 53.499996, y: 3}
+        - {x: 48.5, y: 17}
+        - {x: 45.5, y: 39.999996}
+        - {x: 22.5, y: 75}
+        - {x: 5.5, y: 75}
+        - {x: -6.5, y: 66.99999}
+        - {x: -13.499999, y: 57}
+        - {x: -33.499996, y: 45.999996}
+        - {x: -41.5, y: 22.999998}
+        - {x: -53.499996, y: 9}
+        - {x: -53.499996, y: -13}
+        - {x: -49.499996, y: -31}
+        - {x: -44.5, y: -36}
+        - {x: -38.5, y: -61}
+        - {x: -26.499998, y: -72}
+        - {x: -11.499999, y: -75}
+        - {x: 34.5, y: -75}
+        - {x: 40.5, y: -71}
+        - {x: 46.5, y: -62}
+        - {x: 52.499996, y: -39}
+      tessellationDetail: 0
+      bones: []
+      spriteID: af04da66304b45f6887f22d7cf0934c4
+      internalID: 21300012
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortingSamples_stone1
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1
+        width: 104
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.999999, y: 64}
+        - {x: 9.999999, y: 64}
+        - {x: 52, y: 22}
+        - {x: 52, y: -51}
+        - {x: 12, y: -64}
+        - {x: -26, y: -64}
+        - {x: -52, y: -9}
+        - {x: -52, y: 39}
+        - {x: -31, y: 62}
+      physicsShape:
+      - - {x: 47, y: -37}
+        - {x: 52, y: -25}
+        - {x: 52, y: 8}
+        - {x: 51, y: 13}
+        - {x: 48, y: 24}
+        - {x: 31, y: 44}
+        - {x: 9, y: 64}
+        - {x: -13, y: 64}
+        - {x: -17, y: 63}
+        - {x: -31, y: 57}
+        - {x: -45.999996, y: 45}
+        - {x: -52, y: 35}
+        - {x: -52, y: -8}
+        - {x: -31, y: -51}
+        - {x: -4.9999995, y: -64}
+        - {x: 12, y: -64}
+        - {x: 26.999998, y: -59.999996}
+        - {x: 44, y: -47}
+        - {x: 45.999996, y: -41}
+      - - {x: 22, y: 64}
+        - {x: 22, y: 62}
+        - {x: 24, y: 52}
+        - {x: 51, y: 39.999996}
+        - {x: 52, y: 39.999996}
+        - {x: 52, y: 64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: af18e282954d4f1ab151ced2088408f8
+      internalID: 21300014
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortingSamples_animal1
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 76
+        width: 174
+        height: 147
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.999998, y: 73.49999}
+        - {x: -3, y: 73.49999}
+        - {x: 22, y: 51.5}
+        - {x: 50, y: 51.5}
+        - {x: 87, y: 14.5}
+        - {x: 87, y: -34.5}
+        - {x: -4, y: -73.49999}
+        - {x: -18, y: -73.49999}
+        - {x: -87, y: -6.5}
+        - {x: -87, y: 14.5}
+      physicsShape:
+      - - {x: -87, y: -19.5}
+        - {x: -87, y: -73.49999}
+        - {x: -39, y: -73.49999}
+        - {x: -39, y: -67.5}
+        - {x: -47, y: -45.5}
+        - {x: -82, y: -19.5}
+      - - {x: 58.999996, y: -45.5}
+        - {x: 72.99999, y: -38.5}
+        - {x: 75, y: -8.5}
+        - {x: 87, y: -0.5}
+        - {x: 87, y: 13.499999}
+        - {x: 79, y: 24.499998}
+        - {x: 58.999996, y: 26.499998}
+        - {x: 51, y: 54.5}
+        - {x: 17, y: 52.499996}
+        - {x: -2, y: 49.499996}
+        - {x: 0, y: 73.49999}
+        - {x: -18, y: 73.49999}
+        - {x: -28, y: 67.5}
+        - {x: -35, y: 65.5}
+        - {x: -72.99999, y: 24.499998}
+        - {x: -87, y: 4.5}
+        - {x: -87, y: -5.5}
+        - {x: -85, y: -7.4999995}
+        - {x: -63, y: -28.5}
+        - {x: -47, y: -35.5}
+        - {x: -22, y: -73.49999}
+        - {x: -1, y: -73.49999}
+        - {x: 13, y: -60.499996}
+        - {x: 19, y: -43.5}
+        - {x: 35, y: -46.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef694fe11c76494bbeca457577f06ebc
+      internalID: 21300016
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortingSamples_emblem_Plant
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 797
+        width: 37
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: -17}
+        - {x: -18.5, y: 17}
+        - {x: 18.5, y: 17}
+        - {x: 18.5, y: -17}
+      physicsShape:
+      - - {x: -18.5, y: -7}
+        - {x: -18.5, y: -17}
+        - {x: -1.5, y: -17}
+        - {x: 18.5, y: -7}
+        - {x: 18.5, y: 17}
+        - {x: -1.5, y: 17}
+        - {x: -8.5, y: 16}
+      - - {x: -1.5, y: -4.9999995}
+        - {x: 1.5, y: -4.9999995}
+        - {x: 2.4999998, y: -6}
+        - {x: 1.5, y: -4.9999995}
+        - {x: 0.5, y: -6}
+        - {x: -3.5, y: -7}
+        - {x: -2.4999998, y: -7}
+      - - {x: -1.5, y: 3}
+        - {x: -1.5, y: 4.9999995}
+        - {x: 0.5, y: 7}
+        - {x: 0.5, y: 6}
+        - {x: -3.5, y: 2}
+        - {x: -2.4999998, y: 2}
+      - - {x: 9.5, y: 3}
+        - {x: 10.5, y: 6}
+        - {x: 8.5, y: 3}
+        - {x: 6.5, y: 2}
+        - {x: 7.4999995, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40643b7a3d5b4dbfa143911de89db5d8
+      internalID: 21300018
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sortingSamples_emblem_Mineral
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 95
+        width: 25
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: -17}
+        - {x: -12.5, y: 17}
+        - {x: 12.5, y: 17}
+        - {x: 12.5, y: -17}
+      physicsShape:
+      - - {x: -5.5, y: 17}
+        - {x: -12.5, y: 8}
+        - {x: -12.5, y: -7}
+        - {x: -6.5, y: -17}
+        - {x: 4.5, y: -17}
+        - {x: 12.5, y: -7}
+        - {x: 12.5, y: 3}
+        - {x: 2.4999998, y: 17}
+      - - {x: -6.5, y: 0}
+        - {x: -4.5, y: 1}
+        - {x: -1.5, y: -2}
+        - {x: -0.5, y: -2}
+        - {x: 2.4999998, y: 1}
+        - {x: 1.5, y: 8}
+        - {x: 1.5, y: 6}
+        - {x: 6.5, y: 0}
+        - {x: -0.5, y: -2}
+        - {x: -1.5, y: -1}
+        - {x: -3.5, y: -2}
+        - {x: -4.5, y: -1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4069cdc924b4262a6898bf224a0852e
+      internalID: 21300020
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices:
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag:
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData:
+  assetBundleName:
+  assetBundleVariant:

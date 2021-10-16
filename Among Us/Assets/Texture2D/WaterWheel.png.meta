@@ -1,0 +1,1125 @@
+fileFormatVersion: 2
+guid: 7a22a55e370389e47b2e90be19c5e191
+timeCreated: 1634333964
+licenseType: Free
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: panel_water_waterlevel0008
+  - first:
+      213: 21300002
+    second: panel_water_waterlevel0002
+  - first:
+      213: 21300004
+    second: panel_water_waterlevel0001
+  - first:
+      213: 21300006
+    second: panel_water_waterlevel0004
+  - first:
+      213: 21300008
+    second: panel_water_waterlevel0009
+  - first:
+      213: 21300010
+    second: panel_wheelMain
+  - first:
+      213: 21300012
+    second: panel_waterpipeBG
+  - first:
+      213: 21300014
+    second: panel_water_waterlevel0010
+  - first:
+      213: 21300016
+    second: panel_water_waterlevel0007
+  - first:
+      213: 21300018
+    second: panel_water_waterlevel0003
+  - first:
+      213: 21300020
+    second: panel_water_waterlevel0012
+  - first:
+      213: 21300022
+    second: panel_water_waterlevel0011
+  - first:
+      213: 21300024
+    second: panel_water_pipesideback
+  - first:
+      213: 21300026
+    second: panel_water_pipeside
+  - first:
+      213: 21300028
+    second: panel_water_waterlevel0006
+  - first:
+      213: 21300030
+    second: panel_water_waterlevel0005
+  externalObjects: {}
+  usedFileIDs: []
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 1356
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: panel_water_waterlevel0008
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 975
+        width: 62
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: -23.5}
+        - {x: -31, y: 23.5}
+        - {x: 31, y: 23.5}
+        - {x: 31, y: -23.5}
+      physicsShape:
+      - - {x: 17, y: 23.5}
+        - {x: 13, y: 20.5}
+        - {x: -13, y: 22.5}
+        - {x: -31, y: 13.499999}
+        - {x: -31, y: -20.5}
+        - {x: -29, y: -23.5}
+        - {x: -7, y: -23.5}
+        - {x: 18, y: -21.499998}
+        - {x: 31, y: -15.5}
+        - {x: 31, y: 23.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04d7f1ceaff4f2fb82ec13248fe4346
+      internalID: 21300000
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_water_waterlevel0002
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1167.0267
+        width: 61
+        height: 42.973248
+      alignment: 9
+      pivot: {x: 0.5081967, y: 0.52295953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.5, y: 21.486643}
+        - {x: 30.499998, y: 21.486643}
+        - {x: 30.499998, y: -14.513357}
+        - {x: -24.5, y: -22.513357}
+        - {x: -30.5, y: -19.513357}
+      physicsShape:
+      - - {x: 26.5, y: 21.486645}
+        - {x: -30.5, y: 21.486645}
+        - {x: -30.5, y: -20.513353}
+        - {x: 19.5, y: -20.513353}
+        - {x: 28.5, y: -15.513355}
+        - {x: 30.499998, y: -12.513354}
+        - {x: 30.499998, y: 18.486645}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a152f782ef3043e79d9da887e06e53a5
+      internalID: 21300002
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_water_waterlevel0001
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1167.0267
+        width: 61
+        height: 42.973248
+      alignment: 9
+      pivot: {x: 0.5081967, y: 0.52295953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.5, y: 21.486643}
+        - {x: 30.499998, y: 21.486643}
+        - {x: 30.499998, y: -14.513357}
+        - {x: -24.5, y: -22.513357}
+        - {x: -30.5, y: -19.513357}
+      physicsShape:
+      - - {x: 26.5, y: 21.486645}
+        - {x: -30.5, y: 21.486645}
+        - {x: -30.5, y: -20.513353}
+        - {x: 19.5, y: -20.513353}
+        - {x: 28.5, y: -15.513355}
+        - {x: 30.499998, y: -12.513354}
+        - {x: 30.499998, y: 18.486645}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71fdf1077a044fe899902544990a93e
+      internalID: 21300004
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_water_waterlevel0004
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 992.02673
+        width: 62
+        height: 46.973248
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49971566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: -14.513357}
+        - {x: -31, y: 23.486643}
+        - {x: 31, y: 23.486643}
+        - {x: 31, y: -19.513357}
+        - {x: -24, y: -23.513357}
+        - {x: -29, y: -21.513355}
+      physicsShape:
+      - - {x: 26, y: 23.486643}
+        - {x: 2, y: 23.486643}
+        - {x: -29, y: 18.486643}
+        - {x: -31, y: 15.486643}
+        - {x: -31, y: -17.513357}
+        - {x: -29, y: -22.513357}
+        - {x: 1, y: -22.513357}
+        - {x: 28, y: -19.513357}
+        - {x: 31, y: -14.513357}
+        - {x: 31, y: 14.486643}
+        - {x: 29.999998, y: 20.486643}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53592c464ed4524ac39bf9e01c2a2db
+      internalID: 21300006
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_water_waterlevel0009
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 975
+        width: 62
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: -23.5}
+        - {x: -31, y: 23.5}
+        - {x: 31, y: 23.5}
+        - {x: 31, y: -23.5}
+      physicsShape:
+      - - {x: 17, y: 23.5}
+        - {x: 13, y: 20.5}
+        - {x: -13, y: 22.5}
+        - {x: -31, y: 13.499999}
+        - {x: -31, y: -20.5}
+        - {x: -29, y: -23.5}
+        - {x: -7, y: -23.5}
+        - {x: 18, y: -21.499998}
+        - {x: 31, y: -15.5}
+        - {x: 31, y: 23.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120860b2ed134da39a2b9d077de78ab6
+      internalID: 21300008
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_wheelMain
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 775
+        width: 580
+        height: 580
+      alignment: 9
+      pivot: {x: 0.50517243, y: 0.5017241}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 234.99998}
+        - {x: -23.999998, y: 290}
+        - {x: 18, y: 290}
+        - {x: 50, y: 235.99998}
+        - {x: 151, y: 196.99998}
+        - {x: 185, y: 219}
+        - {x: 222, y: 201}
+        - {x: 204, y: 133}
+        - {x: 240.99998, y: 43.999996}
+        - {x: 290, y: 15.999999}
+        - {x: 290, y: -18.999998}
+        - {x: 237.99998, y: -44.999996}
+        - {x: 198, y: -147}
+        - {x: 223, y: -202}
+        - {x: 192, y: -220}
+        - {x: 135, y: -202}
+        - {x: 34, y: -237.99998}
+        - {x: 25.999998, y: -290}
+        - {x: -14, y: -290}
+        - {x: -48, y: -237.99998}
+        - {x: -141, y: -190}
+        - {x: -193.99998, y: -230}
+        - {x: -215, y: -194}
+        - {x: -199, y: -128}
+        - {x: -237.99998, y: -37}
+        - {x: -287, y: -25.999998}
+        - {x: -289.99997, y: -15}
+        - {x: -289.99997, y: 8}
+        - {x: -288.99997, y: 14}
+        - {x: -229, y: 49}
+        - {x: -205, y: 146.99998}
+        - {x: -219, y: 189}
+        - {x: -208.99998, y: 214.99998}
+        - {x: -120, y: 202}
+        - {x: -74, y: 227}
+      physicsShape:
+      - - {x: 35, y: -231}
+        - {x: 48.999996, y: -230}
+        - {x: 69.99999, y: -225}
+        - {x: 94.99999, y: -215.99998}
+        - {x: 127, y: -199}
+        - {x: 146, y: -185}
+        - {x: 173.99998, y: -211.99998}
+        - {x: 183, y: -214.99998}
+        - {x: 194, y: -214.99998}
+        - {x: 200.99998, y: -213.99998}
+        - {x: 214.99998, y: -196.99998}
+        - {x: 213.99998, y: -183.99998}
+        - {x: 204, y: -162}
+        - {x: 186, y: -144}
+        - {x: 189, y: -141}
+        - {x: 204, y: -121}
+        - {x: 219.99998, y: -90}
+        - {x: 225, y: -73}
+        - {x: 233, y: -46}
+        - {x: 235, y: -27}
+        - {x: 261, y: -27}
+        - {x: 269.99997, y: -25.999998}
+        - {x: 283, y: -23}
+        - {x: 290, y: -13.999999}
+        - {x: 290, y: 10.999999}
+        - {x: 283, y: 20}
+        - {x: 274, y: 25}
+        - {x: 235, y: 35}
+        - {x: 228, y: 69}
+        - {x: 217.99998, y: 92.99999}
+        - {x: 204, y: 120.99999}
+        - {x: 194, y: 136}
+        - {x: 185, y: 146.99998}
+        - {x: 208, y: 170}
+        - {x: 214.99998, y: 183}
+        - {x: 215.99998, y: 195}
+        - {x: 205, y: 209}
+        - {x: 196, y: 212.99998}
+        - {x: 185, y: 213.99998}
+        - {x: 165, y: 205}
+        - {x: 138, y: 191}
+        - {x: 126, y: 200}
+        - {x: 96, y: 216.99998}
+        - {x: 71, y: 226}
+        - {x: 45, y: 231}
+        - {x: 27, y: 234}
+        - {x: 27, y: 259}
+        - {x: 25.999998, y: 270}
+        - {x: 22, y: 284}
+        - {x: 14, y: 290}
+        - {x: -11, y: 290}
+        - {x: -19.999998, y: 284}
+        - {x: -28, y: 262}
+        - {x: -33, y: 232}
+        - {x: -39.999996, y: 231}
+        - {x: -66, y: 226}
+        - {x: -82.99999, y: 219}
+        - {x: -90, y: 215.99998}
+        - {x: -111, y: 206}
+        - {x: -130, y: 195}
+        - {x: -143.99998, y: 183}
+        - {x: -162, y: 201}
+        - {x: -179, y: 209}
+        - {x: -188, y: 211.99998}
+        - {x: -196, y: 212.99998}
+        - {x: -206.99998, y: 207}
+        - {x: -217, y: 194}
+        - {x: -217, y: 181}
+        - {x: -210.99998, y: 171}
+        - {x: -202, y: 160.99998}
+        - {x: -184, y: 142}
+        - {x: -192, y: 133}
+        - {x: -200, y: 120.99999}
+        - {x: -219, y: 80.99999}
+        - {x: -225, y: 60.999996}
+        - {x: -230, y: 27.999998}
+        - {x: -262, y: 27}
+        - {x: -274, y: 23}
+        - {x: -288, y: 14}
+        - {x: -289.99997, y: 10}
+        - {x: -289.99997, y: -20}
+        - {x: -283, y: -24}
+        - {x: -275, y: -28}
+        - {x: -261, y: -28.999998}
+        - {x: -228, y: -38.999996}
+        - {x: -226, y: -50}
+        - {x: -225, y: -55}
+        - {x: -222, y: -65.99999}
+        - {x: -216, y: -84.99999}
+        - {x: -209.99998, y: -97.99999}
+        - {x: -198, y: -121}
+        - {x: -187, y: -137}
+        - {x: -180.99998, y: -143}
+        - {x: -201, y: -162}
+        - {x: -210.99998, y: -178}
+        - {x: -215, y: -196.99998}
+        - {x: -199, y: -214.99998}
+        - {x: -192.99998, y: -215.99998}
+        - {x: -180.99998, y: -215.99998}
+        - {x: -174, y: -212.99998}
+        - {x: -138, y: -187}
+        - {x: -130.99998, y: -192}
+        - {x: -116.99999, y: -201}
+        - {x: -102.99999, y: -208.99998}
+        - {x: -76.99999, y: -221}
+        - {x: -60, y: -225}
+        - {x: -48, y: -228}
+        - {x: -42.999996, y: -229}
+        - {x: -26.999998, y: -232}
+        - {x: -26.999998, y: -263}
+        - {x: -18, y: -284}
+        - {x: -11, y: -290}
+        - {x: 16, y: -290}
+        - {x: 24, y: -284}
+        - {x: 25, y: -280}
+        - {x: 28, y: -270}
+      - - {x: 234, y: -46}
+        - {x: 173.99998, y: -54}
+        - {x: 173.99998, y: -290}
+        - {x: 290, y: -290}
+        - {x: 290, y: -46}
+      - - {x: -44, y: -164}
+        - {x: -58, y: -160}
+        - {x: -67, y: -156}
+        - {x: -78, y: -150}
+        - {x: -90, y: -143}
+        - {x: -108, y: -130}
+        - {x: -128, y: -111}
+        - {x: -128, y: -110}
+        - {x: -138, y: -96}
+        - {x: -148, y: -80}
+        - {x: -153, y: -71}
+        - {x: -161, y: -50}
+        - {x: -165, y: -27}
+        - {x: -167, y: -20}
+        - {x: -167.99998, y: -17}
+        - {x: -152, y: -17}
+        - {x: -151, y: -16}
+        - {x: -122, y: -16}
+        - {x: -121, y: -15}
+        - {x: -92, y: -15}
+        - {x: -69, y: -13.999999}
+        - {x: -68, y: -13}
+        - {x: -36.999996, y: -13}
+        - {x: -36, y: -17}
+        - {x: -33, y: -24}
+        - {x: -19, y: -36}
+        - {x: -11.999999, y: -38.999996}
+        - {x: -9, y: -40}
+        - {x: -10, y: -51}
+        - {x: -11, y: -76}
+        - {x: -11, y: -111}
+        - {x: -11.999999, y: -112}
+        - {x: -13, y: -140}
+        - {x: -13, y: -169.99998}
+        - {x: -19, y: -169}
+      - - {x: 20, y: -164}
+        - {x: 19, y: -163}
+        - {x: 19, y: -139}
+        - {x: 18, y: -138}
+        - {x: 18, y: -103.99999}
+        - {x: 17, y: -103}
+        - {x: 17, y: -75}
+        - {x: 16, y: -74}
+        - {x: 16, y: -41}
+        - {x: 15, y: -38.999996}
+        - {x: 20, y: -38}
+        - {x: 22.999998, y: -36}
+        - {x: 25.999998, y: -35}
+        - {x: 29.999998, y: -30}
+        - {x: 31, y: -30}
+        - {x: 35, y: -25.999998}
+        - {x: 35, y: -25}
+        - {x: 40, y: -20}
+        - {x: 42, y: -15}
+        - {x: 42, y: -13}
+        - {x: 74, y: -13}
+        - {x: 75, y: -13.999999}
+        - {x: 98, y: -13.999999}
+        - {x: 99, y: -15}
+        - {x: 127, y: -15}
+        - {x: 128, y: -16}
+        - {x: 157, y: -16}
+        - {x: 158, y: -17}
+        - {x: 173, y: -17}
+        - {x: 173, y: -23}
+        - {x: 172, y: -24}
+        - {x: 172, y: -28.999998}
+        - {x: 171, y: -30}
+        - {x: 171, y: -34}
+        - {x: 170, y: -35}
+        - {x: 170, y: -38.999996}
+        - {x: 169, y: -40}
+        - {x: 168, y: -47}
+        - {x: 167, y: -47.999996}
+        - {x: 167, y: -50}
+        - {x: 166, y: -51}
+        - {x: 166, y: -52.999996}
+        - {x: 165, y: -54}
+        - {x: 164, y: -57}
+        - {x: 161.99998, y: -65}
+        - {x: 158, y: -71.99999}
+        - {x: 158, y: -74}
+        - {x: 155, y: -77}
+        - {x: 148.99998, y: -89}
+        - {x: 147, y: -92}
+        - {x: 145, y: -94}
+        - {x: 143, y: -97.99999}
+        - {x: 140, y: -102}
+        - {x: 140, y: -103}
+        - {x: 136, y: -106.99999}
+        - {x: 136, y: -108}
+        - {x: 130, y: -114}
+        - {x: 130, y: -115}
+        - {x: 118, y: -127}
+        - {x: 117, y: -127}
+        - {x: 110.99999, y: -132.99998}
+        - {x: 109.99999, y: -132.99998}
+        - {x: 107, y: -136}
+        - {x: 106, y: -136}
+        - {x: 103, y: -139}
+        - {x: 101.99999, y: -139}
+        - {x: 96, y: -144}
+        - {x: 93, y: -144.99998}
+        - {x: 87, y: -149}
+        - {x: 72, y: -157}
+        - {x: 69.99999, y: -157}
+        - {x: 67, y: -158.99998}
+        - {x: 65, y: -158.99998}
+        - {x: 59, y: -162}
+        - {x: 55.999996, y: -162}
+        - {x: 55, y: -163}
+        - {x: 48.999996, y: -164}
+        - {x: 48, y: -165}
+        - {x: 42, y: -166}
+        - {x: 41, y: -167}
+        - {x: 37, y: -167}
+        - {x: 36, y: -168}
+        - {x: 29.999998, y: -168}
+        - {x: 29, y: -169}
+        - {x: 20, y: -169.99998}
+      - - {x: -15, y: -105.99999}
+        - {x: -21, y: -92}
+        - {x: -49.999996, y: -92}
+        - {x: -63.999992, y: -96.99999}
+        - {x: -81, y: -100}
+        - {x: -81, y: -132}
+        - {x: -76, y: -141}
+        - {x: -63.999992, y: -141}
+        - {x: -26.999998, y: -134}
+        - {x: -16, y: -130}
+        - {x: -15, y: -126}
+      - - {x: -25, y: -38}
+        - {x: -38, y: -46}
+        - {x: -62, y: -44}
+        - {x: -80, y: -50}
+        - {x: -84, y: -28.999998}
+        - {x: -88, y: -25.999998}
+        - {x: -106, y: -25.999998}
+        - {x: -123, y: -28.999998}
+        - {x: -135, y: -30}
+        - {x: -146, y: -35}
+        - {x: -146, y: -65.99999}
+        - {x: -141, y: -73}
+        - {x: -106, y: -71}
+        - {x: -82.99999, y: -65.99999}
+        - {x: -80, y: -86}
+        - {x: -78, y: -90.99999}
+        - {x: -69, y: -90.99999}
+        - {x: -32, y: -87}
+        - {x: -22, y: -84}
+        - {x: -19, y: -78}
+        - {x: -19, y: -41}
+      - - {x: -114.99999, y: 14}
+        - {x: -115.99999, y: 15}
+        - {x: -139, y: 15}
+        - {x: -140, y: 15.999999}
+        - {x: -167.99998, y: 15.999999}
+        - {x: -167, y: 29}
+        - {x: -166, y: 30}
+        - {x: -165, y: 36}
+        - {x: -164, y: 40}
+        - {x: -164, y: 43.999996}
+        - {x: -162, y: 48}
+        - {x: -159, y: 59.999996}
+        - {x: -154, y: 70}
+        - {x: -154, y: 72}
+        - {x: -148, y: 83}
+        - {x: -146, y: 85}
+        - {x: -142.99998, y: 91}
+        - {x: -139, y: 96}
+        - {x: -137, y: 99.99999}
+        - {x: -130, y: 108.99999}
+        - {x: -123, y: 117}
+        - {x: -123, y: 117.99999}
+        - {x: -113.99999, y: 127}
+        - {x: -113, y: 127}
+        - {x: -104.99999, y: 134}
+        - {x: -101, y: 137}
+        - {x: -88, y: 146.99998}
+        - {x: -84, y: 147.99998}
+        - {x: -82, y: 150}
+        - {x: -63, y: 159.99998}
+        - {x: -61, y: 159.99998}
+        - {x: -53, y: 163}
+        - {x: -39, y: 167}
+        - {x: -34, y: 168}
+        - {x: -30, y: 169}
+        - {x: -23, y: 170}
+        - {x: -22, y: 171}
+        - {x: -13, y: 171}
+        - {x: -11.999999, y: 171.99998}
+        - {x: -13, y: 139}
+        - {x: -11.999999, y: 138}
+        - {x: -11.999999, y: 111}
+        - {x: -11, y: 110}
+        - {x: -11, y: 76}
+        - {x: -10, y: 75}
+        - {x: -10, y: 49.999996}
+        - {x: -9, y: 49}
+        - {x: -9, y: 40.999996}
+        - {x: -10, y: 40.999996}
+        - {x: -15, y: 39}
+        - {x: -19.999998, y: 36}
+        - {x: -34, y: 22}
+        - {x: -36.999996, y: 15}
+        - {x: -38, y: 12}
+        - {x: -55.999996, y: 12}
+        - {x: -56.999996, y: 13}
+      - - {x: 42, y: 15.999999}
+        - {x: 39, y: 23}
+        - {x: 36, y: 26}
+        - {x: 28, y: 35}
+        - {x: 16, y: 40.999996}
+        - {x: 16, y: 73.99999}
+        - {x: 17, y: 75}
+        - {x: 17, y: 102}
+        - {x: 18, y: 103}
+        - {x: 18, y: 137}
+        - {x: 19, y: 138}
+        - {x: 19, y: 163}
+        - {x: 20, y: 164}
+        - {x: 20, y: 171}
+        - {x: 28, y: 171}
+        - {x: 29, y: 170}
+        - {x: 35, y: 170}
+        - {x: 39, y: 168}
+        - {x: 44, y: 167}
+        - {x: 51, y: 166}
+        - {x: 51.999996, y: 165}
+        - {x: 55, y: 164}
+        - {x: 62.999996, y: 162}
+        - {x: 66, y: 159.99998}
+        - {x: 68, y: 159.99998}
+        - {x: 73, y: 157}
+        - {x: 75, y: 157}
+        - {x: 84, y: 152}
+        - {x: 86, y: 150}
+        - {x: 91, y: 147.99998}
+        - {x: 94, y: 146}
+        - {x: 96, y: 144}
+        - {x: 100, y: 142}
+        - {x: 107.99999, y: 136}
+        - {x: 108.99999, y: 136}
+        - {x: 114, y: 131}
+        - {x: 115, y: 131}
+        - {x: 133, y: 113}
+        - {x: 133, y: 112}
+        - {x: 141, y: 103}
+        - {x: 141, y: 102}
+        - {x: 149.99998, y: 90}
+        - {x: 152, y: 84}
+        - {x: 154, y: 82}
+        - {x: 160, y: 71}
+        - {x: 160, y: 69}
+        - {x: 164, y: 60.999996}
+        - {x: 164, y: 59}
+        - {x: 165, y: 56}
+        - {x: 167, y: 52}
+        - {x: 167, y: 49}
+        - {x: 169, y: 45}
+        - {x: 170, y: 37}
+        - {x: 171, y: 32}
+        - {x: 172, y: 30.999998}
+        - {x: 172, y: 25}
+        - {x: 173, y: 23.999998}
+        - {x: 173, y: 15.999999}
+        - {x: 173.99998, y: 15}
+        - {x: 155, y: 15.999999}
+        - {x: 154, y: 15}
+        - {x: 123.99999, y: 15}
+        - {x: 122.99999, y: 14}
+        - {x: 92, y: 14}
+        - {x: 91, y: 13}
+        - {x: 62.999996, y: 13}
+        - {x: 61.999996, y: 12}
+        - {x: 42.999996, y: 12}
+      - - {x: -21, y: 146}
+        - {x: -65, y: 146}
+        - {x: -78, y: 145}
+        - {x: -80, y: 142}
+        - {x: -80, y: 113}
+        - {x: -79, y: 105.99999}
+        - {x: -76, y: 103}
+        - {x: -55, y: 103}
+        - {x: -34, y: 104}
+        - {x: -16.999998, y: 110}
+        - {x: -16.999998, y: 142}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437b56f9cf1c4a819c910e9d8835167a
+      internalID: 21300010
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_waterpipeBG
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 67
+        width: 423
+        height: 706
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -211.5, y: -353}
+        - {x: -211.5, y: 353}
+        - {x: 211.5, y: 353}
+        - {x: 211.5, y: -353}
+      physicsShape:
+      - - {x: -211.5, y: 353}
+        - {x: -211.5, y: -353}
+        - {x: 211.5, y: -353}
+        - {x: 211.5, y: 353}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb8fbf3d96a450fb89d42527d6c6d85
+      internalID: 21300012
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_water_waterlevel0010
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 927
+        width: 62
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51086956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: -23}
+        - {x: -31, y: 23}
+        - {x: 31, y: 23}
+        - {x: 31, y: -23}
+      physicsShape:
+      - - {x: -4, y: 23}
+        - {x: -31, y: 15}
+        - {x: -31, y: -19}
+        - {x: -29, y: -23}
+        - {x: 8, y: -23}
+        - {x: 31, y: -15}
+        - {x: 31, y: 20}
+        - {x: 22, y: 23}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d939617fe7a47e29b13a3fe2c3bd786
+      internalID: 21300014
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_water_waterlevel0007
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 975
+        width: 62
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: -23.5}
+        - {x: -31, y: 23.5}
+        - {x: 31, y: 23.5}
+        - {x: 31, y: -23.5}
+      physicsShape:
+      - - {x: 17, y: 23.5}
+        - {x: 13, y: 20.5}
+        - {x: -13, y: 22.5}
+        - {x: -31, y: 13.499999}
+        - {x: -31, y: -20.5}
+        - {x: -29, y: -23.5}
+        - {x: -7, y: -23.5}
+        - {x: 18, y: -21.499998}
+        - {x: 31, y: -15.5}
+        - {x: 31, y: 23.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca2057440974622a8fbee0faf469df6
+      internalID: 21300016
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_water_waterlevel0003
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1167.0267
+        width: 61
+        height: 42.973248
+      alignment: 9
+      pivot: {x: 0.5081967, y: 0.52295953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.5, y: 21.486643}
+        - {x: 30.499998, y: 21.486643}
+        - {x: 30.499998, y: -14.513357}
+        - {x: -24.5, y: -22.513357}
+        - {x: -30.5, y: -19.513357}
+      physicsShape:
+      - - {x: 26.5, y: 21.486645}
+        - {x: -30.5, y: 21.486645}
+        - {x: -30.5, y: -20.513353}
+        - {x: 19.5, y: -20.513353}
+        - {x: 28.5, y: -15.513355}
+        - {x: 30.499998, y: -12.513354}
+        - {x: 30.499998, y: 18.486645}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe32913fe1d406082234e037432e7b1
+      internalID: 21300018
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_water_waterlevel0012
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 927
+        width: 62
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51086956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: -23}
+        - {x: -31, y: 23}
+        - {x: 31, y: 23}
+        - {x: 31, y: -23}
+      physicsShape:
+      - - {x: -4, y: 23}
+        - {x: -31, y: 15}
+        - {x: -31, y: -19}
+        - {x: -29, y: -23}
+        - {x: 8, y: -23}
+        - {x: 31, y: -15}
+        - {x: 31, y: 20}
+        - {x: 22, y: 23}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58111127f3244440a966b4ae37079c77
+      internalID: 21300020
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_water_waterlevel0011
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 927
+        width: 62
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51086956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: -23}
+        - {x: -31, y: 23}
+        - {x: 31, y: 23}
+        - {x: 31, y: -23}
+      physicsShape:
+      - - {x: -4, y: 23}
+        - {x: -31, y: 15}
+        - {x: -31, y: -19}
+        - {x: -29, y: -23}
+        - {x: 8, y: -23}
+        - {x: 31, y: -15}
+        - {x: 31, y: 20}
+        - {x: 22, y: 23}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1719bca460794af5a037edd3481d761b
+      internalID: 21300022
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_water_pipesideback
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 425
+        width: 62
+        height: 417
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: -208.5}
+        - {x: -31, y: 208.5}
+        - {x: 31, y: 208.5}
+        - {x: 31, y: -208.5}
+      physicsShape:
+      - - {x: -31, y: 208.5}
+        - {x: -31, y: -208.5}
+        - {x: 29.999998, y: -208.5}
+        - {x: 31, y: -207.5}
+        - {x: 31, y: 208.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57470bd2818248e8823ae9708aea8686
+      internalID: 21300024
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_water_pipeside
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 3
+        width: 107
+        height: 1015
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.499996, y: 507.49997}
+        - {x: 52.499996, y: 507.49997}
+        - {x: 53.499996, y: 506.5}
+        - {x: 53.499996, y: 497.5}
+        - {x: 49.499996, y: 492.49997}
+        - {x: 49.499996, y: -493.5}
+        - {x: 53.499996, y: -497.5}
+        - {x: 53.499996, y: -507.49997}
+        - {x: -53.499996, y: -507.49997}
+        - {x: -53.499996, y: -497.5}
+        - {x: -52.499996, y: -495.5}
+        - {x: -52.499996, y: 495.5}
+        - {x: -53.499996, y: 496.49997}
+      physicsShape:
+      - - {x: -53.499996, y: 507.49997}
+        - {x: -53.499996, y: -507.49997}
+        - {x: 53.499996, y: -507.49997}
+        - {x: 53.499996, y: 507.49997}
+      - - {x: -24.499998, y: 288.5}
+        - {x: 19.5, y: 288.5}
+        - {x: 19.5, y: -113.5}
+        - {x: -24.499998, y: -113.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2d07fa5a524d23a16a4799d3e4ba5a
+      internalID: 21300026
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_water_waterlevel0006
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 992.02673
+        width: 62
+        height: 46.973248
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49971566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: -14.513357}
+        - {x: -31, y: 23.486643}
+        - {x: 31, y: 23.486643}
+        - {x: 31, y: -19.513357}
+        - {x: -24, y: -23.513357}
+        - {x: -29, y: -21.513355}
+      physicsShape:
+      - - {x: 26, y: 23.486643}
+        - {x: 2, y: 23.486643}
+        - {x: -29, y: 18.486643}
+        - {x: -31, y: 15.486643}
+        - {x: -31, y: -17.513357}
+        - {x: -29, y: -22.513357}
+        - {x: 1, y: -22.513357}
+        - {x: 28, y: -19.513357}
+        - {x: 31, y: -14.513357}
+        - {x: 31, y: 14.486643}
+        - {x: 29.999998, y: 20.486643}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a22835eeb74acabd0bc073cd3167d1
+      internalID: 21300028
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_water_waterlevel0005
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 992.02673
+        width: 62
+        height: 46.973248
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49971566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: -14.513357}
+        - {x: -31, y: 23.486643}
+        - {x: 31, y: 23.486643}
+        - {x: 31, y: -19.513357}
+        - {x: -24, y: -23.513357}
+        - {x: -29, y: -21.513355}
+      physicsShape:
+      - - {x: 26, y: 23.486643}
+        - {x: 2, y: 23.486643}
+        - {x: -29, y: 18.486643}
+        - {x: -31, y: 15.486643}
+        - {x: -31, y: -17.513357}
+        - {x: -29, y: -22.513357}
+        - {x: 1, y: -22.513357}
+        - {x: 28, y: -19.513357}
+        - {x: 31, y: -14.513357}
+        - {x: 31, y: 14.486643}
+        - {x: 29.999998, y: 20.486643}
+      tessellationDetail: 0
+      bones: []
+      spriteID: af460dcafadf4fed965891d1c3cd8fa5
+      internalID: 21300030
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices:
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag:
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData:
+  assetBundleName:
+  assetBundleVariant:

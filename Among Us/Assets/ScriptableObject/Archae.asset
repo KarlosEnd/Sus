@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b2d28e5017d0d848921d2c59499fc79, type: 3}
+  m_Name: Archae
+  m_EditorClassIdentifier:
+  IdleFrame: {fileID: 21301138, guid: cc4f4351fde91a84ba4990d2ccaa3f66, type: 3}
+  IdleAnim: {fileID: 7400000, guid: c3b1e5a8f506a4f48a5e6abb8fc7b6d8, type: 2}
+  RunAnim: {fileID: 7400000, guid: f22e3e67a107aab42b7c01348ead428b, type: 2}
+  EnterVentAnim: {fileID: 7400000, guid: 7c29d9d6a9fef6744af7f5b856b718b9, type: 2}
+  ExitVentAnim: {fileID: 7400000, guid: f2aa5642be3cfa447b9f6bc037fae400, type: 2}
+  ClimbAnim: {fileID: 7400000, guid: 7b2dad0b83949f04d87e0dc3ae395f04, type: 2}
+  ClimbDownAnim: {fileID: 7400000, guid: 0988e951fd03dda4b980b3989b602f05, type: 2}
+  KillTongueImpostor: {fileID: 7400000, guid: ee42624f564a4dc45839daeea7058be8, type: 2}
+  KillTongueVictim: {fileID: 7400000, guid: ddacb4ef541834048bdba43f17a77cc2, type: 2}
+  KillShootImpostor: {fileID: 7400000, guid: b7bf8d32e5cafbf4698a9ce134d5f2c3, type: 2}
+  KillShootVictim: {fileID: 7400000, guid: b84695e5a3483ca43871f5cd3436764a, type: 2}
+  KillNeckImpostor: {fileID: 7400000, guid: 8b9556b6d24152449b5d03b3e8331a5c, type: 2}
+  KillStabImpostor: {fileID: 7400000, guid: 73ace1b25267d9945ad72b3ab248fd1d, type: 2}
+  KillStabVictim: {fileID: 7400000, guid: 2b152a181ff18f549ba232f1c72e4867, type: 2}
+  KillNeckVictim: {fileID: 7400000, guid: a018a14690be3044dacf2b152879a3b2, type: 2}
+  KillRHMVictim: {fileID: 7400000, guid: be4a1a6efafee8a43a2a6a356a65af25, type: 2}
+  EjectFrame: {fileID: 21300676, guid: cc4f4351fde91a84ba4990d2ccaa3f66, type: 3}
+  SpawnAnim: {fileID: 7400000, guid: 159f93634315fdb44be7c69f1150397b, type: 2}
+  IdleLeftAnim: {fileID: 7400000, guid: 1707eb6e6a059cf47877607b1af4a939, type: 2}
+  RunLeftAnim: {fileID: 7400000, guid: 9245233193dcf4241876b9812a70c929, type: 2}
+  EnterLeftVentAnim: {fileID: 7400000, guid: 9d01bd75e8709b14a9ebf1223dd47ec5, type: 2}
+  ExitLeftVentAnim: {fileID: 7400000, guid: 8166e7c2a16105349af3a44401de8fdc, type: 2}
+  SpawnLeftAnim: {fileID: 7400000, guid: 0a9163b0913577a4f827e815d9e82157, type: 2}
+  KillAnims: []
+  NotInStore: 0
+  Free: 0
+  RelatedHat: {fileID: 11400000, guid: c890f3b13ec1adc42925c68ec522cda6, type: 2}
+  StoreName: PolusSkinBundle
+  ProductId:
+  Order: 2

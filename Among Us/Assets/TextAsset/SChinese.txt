@@ -1,0 +1,855 @@
+KEY ID	S.Chinese
+LocalButton	本地
+OnlineButton	在线
+HowToPlayButton	玩法说明
+FreePlayButton	自由模式
+PublicHeader	公开
+PrivateHeader	私人
+HostHeader	主持
+ExitButton	退出
+BackButton	返回
+AvailableGamesLabel	可加入的游戏
+CreateGameButton	创建游戏
+FindGameButton	搜索游戏
+EnterCode	输入代码
+GhostIgnoreTasks	您已经死了，爽快地隔岸观火吧。
+GhostDoTasks	您已经死了，完成您的任务来获胜。
+TotalTasksCompleted	已完成任务总数
+GhostImpostor	您已经死了，但还可以搞破坏。
+ImpostorTask	进行破坏，将所有人杀死。
+FakeTasks	假任务：
+TaskComplete	任务完成！
+ExileTextSP	{0} 是伪装者。
+ExileTextSN	{0} 不是伪装者。
+ExileTextPP	{0} 是伪装者之一。
+ExileTextPN	{0} 不是伪装者之一。
+NoExileSkip	没有人被驱逐。(跳过)
+NoExileTie	没有人被驱逐。(平局)
+ExileTextNonConfirm	{0} 遭到驱逐。
+ImpostorsRemainS	剩下 {0} 个伪装者。
+ImpostorsRemainP	剩下 {0} 个伪装者。
+Hallway	通道
+Engines	引擎室
+UpperEngine	上引擎室
+Cafeteria	食堂
+Weapons	舰载武器室
+Reactor	核反应堆
+Security	保安室
+MedBay	医务室
+LifeSupp	氧气室
+Nav	导航室
+LowerEngine	下引擎室
+Electrical	配电室
+Admin	管理室
+Storage	库房
+Shields	护盾室
+Comms	通信室
+Decontamination	去污室
+Launchpad	发射台
+LockerRoom	更衣室
+Laboratory	实验室
+Balcony	露台
+Office	办公室
+Greenhouse	温室
+DivertPowerTo	将电力转移至{0}
+AcceptDivertedPower	接受转移电力
+SubmitScan	送出扫描结果
+PrimeShields	开启护盾
+FuelEngines	为引擎添加燃料
+ChartCourse	标出航线
+StartReactor	启动核反应堆
+SwipeCard	刷卡
+ClearAsteroids	清除小行星
+DownloadData	下载数据
+UploadData	上传数据
+InspectSample	检查样本
+EmptyChute	清空垃圾槽
+EmptyGarbage	清空垃圾
+AlignEngineOutput	调整引擎输出
+FixWiring	修复配线
+CalibrateDistributor	校准分电器
+UnlockManifolds	解锁歧管
+ResetReactor	核反应堆熔毁倒计时：
+FixLights	修复照明
+CleanO2Filter	清洁氧气过滤器
+FixComms	通讯遭到破坏
+RestoreOxy	氧气耗尽倒计时：
+StabilizeSteering	稳定航向
+AssembleArtifact	组装文物
+SortSamples	将样本分类
+MeasureWeather	测量气候
+EnterIdCode	输入识别码
+BuyBeverage	购买饮品
+ProcessData	处理数据
+NumImpostorsS	我们当中有 <color=#FF1919FF>1 个伪装者</color>
+NumImpostorsP	我们当中有 <color=#FF1919FF>{0} 名伪装者</color>
+Crewmate	船员
+Impostor	伪装者
+Victory	胜利
+Defeat	失败
+CrewmatesDisconnected	大部分船员\n已断线
+ImpostorDisconnected	伪装者已断线
+PickAnomaly	找出异常情况
+WaterPlantsGetCan	取得浇花壶！
+AuthOfficeOkay	办公室正常
+AuthCommsOkay	通讯室正常
+AuthOfficeActive	办公室已启动
+AuthCommsActive	通讯室已启动
+AuthOfficeNotActive	办公室未启动
+AuthCommsNotActive	通讯室未启动
+SecLogEntry	{0} 通过了{1}感应器
+LogNorth	北侧
+LogSouthEast	东南侧
+LogSouthWest	西南侧
+EnterName	输入名称
+SwipeCardPleaseInsert	请放入卡片
+SwipeCardPleaseSwipe	请刷卡
+SwipeCardBadRead	读取失败。请再试一次。
+SwipeCardTooFast	速度过快。请再试一次。
+SwipeCardTooSlow	速度过慢。请再试一次。
+SwipeCardAccepted	已接收。谢谢您。
+ReactorHoldToStop	按住以阻止熔毁
+ReactorWaiting	正在等待第二位用户
+ReactorNominal	核反应堆正常
+MeetingWhoIsTitle	谁是伪装者？
+MeetingVotingBegins	距投票开始还有：{0} 秒
+MeetingVotingEnds	距投票结束还有：{0} 秒
+MeetingVotingResults	投票结果
+MeetingProceeds	实行倒计时：{0} 秒
+MeetingHasVoted	{0} 已投票。尚余 {1} 人未投票。
+HowToPlayText1	《Among Us》是一个关于团队合作与背叛的游戏。\n\n玩家分别会扮演船员和伪装者。
+HowToPlayText2	在线或通过区域无线网与 4 至 15 名玩家一起游玩！
+HowToPlayText41	游戏的主持人可以决定游玩的方式。
+HowToPlayText42	首先要决定和谁一起游玩！\n\n如果您想和好友在线游玩，设置为“私人”然后分享房间代码给好友即可。\n\n如果您想和世界各地的玩家一起游玩，就设为“公开”。
+HowToPlayText43	想要加入更多任务、加快行走速度，或添加更多伪装者？作为主持人，这些设置都可更改。不过要记得先和玩家同伴们确认这些更改。
+HowToPlayText44	如果有人不礼貌或滥发信息，主持人可以将玩家暂时踢出以示警告，也可以封禁玩家进入特定线上房间。
+HowToPlayTextMap	玩家拥有一张属于自己的地图，以便在船上四处移动。
+HowToPlayTextCrew1	目标：将团队任务计量条填满或者找出伪装者。
+HowToPlayTextCrew2	完成任务来填充计量条。
+HowToPlayTextCrew3	处理伪装者的破坏。
+HowToPlayTextCrew4	发现伪装者时召集紧急会议。
+HowToPlayTextCrew5	通报所发现的尸体。
+HowToPlayTextCrew6	查看管理室地图和保安系统来寻找可疑行动。
+HowToPlayTextImp1	目标：杀光船员。
+HowToPlayTextImp2	混入船员之中。
+HowToPlayTextImp3	经由通风口隐匿行动。
+HowToPlayTextImp4	假装进行任务。
+HowToPlayTextImp5	破坏飞船让船员混乱。
+HowToPlayTextImp6	关门困住受害者。
+HowToPlayTextImp7	在冷却的空档杀光船员。
+HowToPlayText5	为了维持船员和伪装者双方的公平性，面对面游玩时不能说话。\n\n如果有玩家被伪装者杀死，该玩家在游戏结束前都不能说话。\n\n幽灵仍需继续进行自己分配到的任务，为船员阵营争取胜利。
+HowToPlayText6	有人报告发现尸体或召集紧急会议时，船员们将聚在一起讨论关于伪装者的已知信息。\n\n玩家这时可以开诚布公地说出自己怀疑谁是伪装者，以及自己有什么信息。在面对面游玩时，由于幽灵已经知道谁是伪装者，所以不能说话。\n\n伪装者必须试着证明自己的无辜，或是指控其他船员。
+HowToPlayText7	讨论过后，就把票投给您认为是伪装者的人。\n\n得到最多票的人会遭到驱逐离开飞船，所以要审慎投票！\n\n如果您没有足够的信息，而且其他船员也都这么认为，则可以跳过投票来避免放逐无辜组员，然后收集更多情报。
+HowToPlayText81	用自由模式练习一下！
+HowToPlayText82	您可以设置作为船员的任务或扮演伪装者来演练杀戮计划！
+SettingsGeneral	一般
+SettingsControls	操作
+SettingsSound	声音
+SettingsGraphics	图像
+SettingsData	数据
+SettingsCensorChat	聊天审查
+SettingsMusic	音乐
+SettingsSFX	音效
+SettingsOn	开
+SettingsOff	关
+SettingsSendTelemetry	发送遥测
+SettingsControlMode	操作模式
+SettingsTouchMode	触控
+SettingsJoystickMode	摇杆
+SettingsKeyboardMode	鼠标与键盘
+SettingsFullscreen	全屏
+SettingsVSync	垂直同步
+SettingsResolution	分辨率
+SettingsApply	应用
+SettingsPersonalizeAds	个人化广告
+SettingsLanguage	语言
+SettingsJoystickSize	尺寸
+SettingsMouseMode	鼠标
+MatchMapName	地图：
+MatchLanguage	聊天：
+MatchImpostors	伪装者：
+MatchMaxPlayers	玩家数量上限：
+Cancel	取消
+Confirm	确认
+PlayerColor	色彩
+PlayerHat	帽子
+PlayerSkin	皮肤
+PlayerPet	宠物
+GameSettings	游戏
+GameRecommendedSettings	推荐设置
+GameCustomSettings	自定义设置
+GameMapName	地图
+GameNumImpostors	伪装者数
+GameNumMeetings	紧急会议数
+GameDiscussTime	讨论时间
+GameVotingTime	投票时间
+GamePlayerSpeed	玩家速度
+GameCrewLight	船员视野
+GameImpostorLight	伪装者视野
+GameKillCooldown	击杀冷却时间
+GameKillDistance	击杀范围
+GameCommonTasks	普通任务数
+GameLongTasks	长任务数
+GameShortTasks	短任务数
+GameEmergencyCooldown	紧急会议冷却时间
+GameSecondsAbbrev	{0} 秒
+GameConfirmImpostor	驱逐后确认身份
+GameVisualTasks	视觉性任务
+GameAnonymousVotes	匿名投票
+GameTaskBarMode	任务条更新频率
+SettingNormalTaskMode	实时
+SettingMeetingTaskMode	会议
+SettingInvisibleTaskMode	从不
+Limit	限制
+RoomCode	代码
+LeaveGame	离开游戏
+ReturnToGame	返回游戏
+LocalHelp	遇到连线问题？\n\n● 请确认全员都已连接到名称相同的 WiFI\n● 在画面左上方确认大家的版本相同\n● 确认您的 WiFi 信号强度足够\n● 有时换个人来主持能协助解决问题\n● 有时重启应用程序能协助解决问题...\n● 有时重启手机也能协助解决问题...\n● 问题还没解决怎么办？请来我们的 Discord 频道告诉我们！
+OnlineHelp	如何使用？\n\n● 主持游戏时，在开始键旁边会显示一组游戏代码。\n● 与好友分享这组游戏代码来创建私人房间。\n● 也可点击“私人”将房间公开，以在“搜索游戏”检索。\n● 可聊天时，主持人可以将玩家封禁或踢出。\n● 问题还没解决怎么办？请来我们的 Discord 告诉我们！
+EmergencyCount	船员 {0} 剩下\n\n\n\n次紧急会议召开次数
+EmergencyNotReady	船员必须等待\n\n\n\n才能再次召开紧急会议
+EmergencyDuringCrisis	发生危机时\n无法召开紧急会议
+EmergencyRequested	已要求召开紧急会议\n正在等待主持人
+AdPolicyTitle	广告条款
+AdPolicyText	是否可让我们运用您的个人数据，为您推荐客制化广告呢？如果您点选接受，我们的广告伙伴 Google AdMob 和 Unity Ads 便会自动收集数据并使用设备识别符和 Cookie 来提供自定义广告。如果您不接受，仍可能会看到非客制化的广告。若要移除所有广告，请在[httpstore]这里[]购买无广告升级，这样每当您主持游戏时，您和朋友们就完全不会看到广告！如需详细了解我们和广告伙伴的隐私条款，请参阅我们的[https://innersloth.com/privacy.php]隐私条款[]。您可以随时在设置菜单的“数据”下更改您的决定。
+Accept	接受
+RemoveAds	移除广告
+PlainYes	是
+PlainNo	否
+PrivacyPolicyTitle	隐私条款
+PrivacyPolicyText	《Among Us》的数据由 Innersloth 进行处理。请阅览我们的[https://innersloth.com/privacy.php]隐私条款[]以详细了解我们的处理方法。您可以在“数据”底下管理您针对《Among Us》的个人数据设置。
+ManageDataButton	管理数据收集
+UnderstandButton	我理解
+WaterPlants	为植物浇水
+WeatherEta	预估抵达时间：{0} 秒
+WeatherComplete	完成
+RunDiagnostics	进行诊断
+SettingShort	短
+SettingMedium	中
+SettingLong	长
+SamplesPress	按下以开始
+SamplesAdding	加入试剂
+SamplesSelect	选择异常情况
+SamplesThanks	谢谢您！
+SamplesComplete	测试完成
+AstDestroyed	已摧毁：{0}
+TaskTestTitle	任务测试器 2000
+BeginDiagnostics	开始诊断
+UserLeftGame	{0} 已离开游戏。
+GameStarting	开始倒计时：{0}
+ChatRateLimit	太快了。请等候 {0} 秒
+Tasks	任务
+MedscanRequested	已要求扫描
+MedscanWaitingFor	正在等待 {0}
+MedscanCompleted	扫描完成！
+MedscanCompleteIn	扫描完成倒计时：{0}
+StatsTitle	数据
+StatsBodiesReported	通报尸体次数：\t
+StatsEmergenciesCalled	召开紧急会议次数：\t
+StatsTasksCompleted	完成任务次数：\t
+StatsAllTasksCompleted	完成所有任务次数：\t
+StatsSabotagesFixed	修复破坏次数：\t
+StatsImpostorKills	伪装者击杀次数：\t\t
+StatsTimesMurdered	被杀次数：\t
+StatsTimesEjected	被驱逐次数：\t\t
+StatsCrewmateStreak	连续担任船员次数：\t
+StatsGamesImpostor	担任伪装者次数：\t
+StatsGamesCrewmate	担任船员次数：\t
+StatsGamesStarted	开始游戏次数：\t
+StatsGamesFinished	完成游戏次数：\t
+StatsImpostorVoteWins	伪装者投票胜利次数：\t
+StatsImpostorKillsWins	伪装者击杀胜利次数：\t
+StatsImpostorSabotageWins	伪装者破坏胜利次数：\t
+StatsCrewmateVoteWins	船员投票胜利次数：\t
+StatsCrewmateTaskWins	船员任务胜利次数：\t
+MonitorOxygen	监视树木
+StoreArtifacts	存放文物
+FillCanisters	装填罐子
+InsertKeys	插入钥匙
+ResetSeismic	重置抗震稳定器
+SeismicHoldToStop	按住来启动抗震稳定器
+SeismicNominal	抗震稳定器正常运作
+ScanBoardingPass	扫描登船证
+FixWeatherNode	修复气候节点
+OpenWaterways	打开水路
+ReplaceWaterJug	更换水壶
+RepairDrill	修理钻头
+AlignTelescope	调整望远镜
+RecordTemperature	记录温度
+RebootWifi	重启 WiFi
+WifiRebootRequired	需要重启
+WifiPleaseWait	请稍等
+WifiPleaseReturnIn	请在下列时间后返回：{0}
+WifiPleasePowerOn	请开启电源
+WifiRebootComplete	重启完成
+Outside	外部
+Dropship	运输船
+Decontamination2	去污室
+Specimens	样本室
+BoilerRoom	锅炉室
+GameOverImpostorDead	正常来说，伪装者死去后船员会取得胜利，但在自由模式中，我们会改为复活所有人。
+GameOverImpostorKills	正常来说，由于船员已经无法胜利，伪装者会取得获胜，但在自由模式中，我们会改为复活所有人。
+GameOverTaskWin	正常来说，由于任务计量条已经填满，船员会取得胜利，但在自由模式中，我们会改为发布新任务。
+GameOverSabotage	正常来说，伪装者会因为做出重大破坏直接获胜，但我们改为阻止了破坏。
+HowToPlayText2Switch	加入 Nintendo Switch Online 会员与 4 至 15 名玩家在线或利用区域无线网一起游玩！
+VentDirection	通风口方向
+VentMove	穿过通风口
+MenuNavigate	导航
+NsoError	无法连接网络。
+ErrorServerOverload	《Among Us》服务器已过载。\r\n\r\n抱歉！请稍后再试！
+ErrorIntentionalLeaving	故意断线后需等待 {0} 分钟才可加入下一场游戏。
+ErrorFocusLost	您的连接已中断，因为有另一个应用程序《Among Us》暂停。
+ErrorBanned	您已被 {0} 封禁。\r\n\r\n您无法重新加入此房间。
+ErrorKicked	您已被踢出 {0}。\r\n\r\n如果该房间尚未开始游戏，您可以重新加入。
+ErrorBannedNoCode	您已被此房间封禁。\r\n\r\n您无法重新加入此房间。
+ErrorKickedNoCode	您已被此房间踢出。\r\n\r\n如果该房间尚未开始游戏，您可以重新加入。
+ErrorHacking	您因作弊行为而遭到封禁。\r\n\r\n请停止这种行为。
+ErrorFullGame	您想要加入的游戏已满员。\r\n\r\n请询问主持人，看看下一场能否加入吧。
+ErrorStartedGame	您想要加入的游戏已开始。\r\n\r\n请询问主持人，看看下一场能否加入吧。
+ErrorNotFoundGame	找不到您在寻找的游戏。
+ErrorInactivity	服务器已中止游戏，可能是因为处于非活动状态。
+ErrorGenericOnlineDisconnect	您与服务器的连接已中断。\r\n如果这种情形频繁发生，请检查您的网络强度。\r\n这也可能是服务器端的问题。
+ErrorGenericLocalDisconnect	您与主持人的连接已中断。\r\n\r\n如果这种情形频繁发生，请检查您的 WiFi 强度。
+ErrorInvalidName	游戏服务器拒绝此用户名称：{0}
+ErrorUnknown	发生未知错误，您与服务器的连接已中断。
+ErrorIncorrectVersion	您运行的游戏并非最新版本。\r\n\r\n请进行更新以便与其他玩家一同游玩。
+	
+ServerNA	北美洲
+ServerEU	欧洲
+ServerAS	亚洲
+ServerSA	南美洲
+LangEnglish	English
+LangFrench	Français
+LangItalian	Italiano
+LangGerman	Deutsch
+LangSpanish	Español
+LangSpanishLATAM	Español (Latinoamérica)
+LangBrazPort	Português (Brasil)
+LangPort	Português
+LangRussian	Русский
+LangJapanese	日本語
+LangKorean	한국어
+LangDutch	Nederlands
+LangFilipino	Bisaya
+PlayerName	玩家
+MyTablet	我的平板
+Headquarters	总部
+DownloadTestEstTimeS	预计时间：{0} 秒
+DownloadTestEstTimeMS	预计时间：{0} 分 {1} 秒
+DownloadTestEstTimeHMS	预计时间：{0} 小时 {1} 分 {2} 秒
+DownloadTestEstTimeDHMS	预计时间：{0} 天 {1} 小时 {2} 分 {3} 秒
+DownloadComplete	完成
+GrabCoffee	去喝杯咖啡
+TakeBreak	休息一下
+DontNeedWait	不需要一直等
+DoSomethingElse	去做点别的事
+NodeTB	节点_TB
+NodeIRO	节点_IRO
+NodeGI	节点_GI
+NodePD	节点_PD
+NodeCA	节点_CA
+NodeMLG	节点_MLG
+Vending	贩卖
+OtherLanguage	其他
+ImposterAmtAny	1-3
+	
+VitalsORGN	橘
+VitalsBLUE	蓝
+VitalsRED	红
+VitalsBRWN	棕
+VitalsGRN	绿
+VitalsPINK	粉红
+VitalsWHTE	白
+VitalsYLOW	黄
+VitalsBLAK	黑
+VitalsPURP	紫
+VitalsCYAN	青
+VitalsLIME	黄绿
+ColorOrange	橘色
+ColorBlue	蓝色
+ColorRed	红色
+ColorBrown	棕色
+ColorGreen	绿色
+ColorPink	粉红色
+ColorWhite	白色
+ColorYellow	黄色
+ColorBlack	黑色
+ColorPurple	紫色
+ColorCyan	青色
+ColorLime	黄绿色
+ColorMaroon	红褐色
+ColorRose	玫红色
+ColorBanana	蕉黄色
+ColorGray	灰色
+ColorTan	茶色
+ColorCoral	珊瑚红
+MedID	识别：
+MedC	色彩：
+MedHT	身高：
+MedBT	血型：
+MedWT	体重：
+MedETA	预计抵达时间：{0}
+MedHello	您好！
+LobbySizeWarning	4 名玩家就可以游玩《Among Us》了，但是建议 5 名或以上会更好玩。\n\n只有 4 人的游戏很快就会结束，而且获胜的通常都是伪装者。
+Okay	好的
+OkayDontShow	好了，不再显示
+Nevermind	没关系
+CamEast	东侧
+CamCentral	中央
+CamNortheast	东北侧
+CamSouth	南侧
+CamSouthwest	西南侧
+CamNorthwest	西北侧
+LoadingFailed	加载失败：
+PetFailFetchData	无法提取宠物数据
+BadResult	不良结果
+More	剩下 {0} 次
+Processing	处理中
+ExitGame	退出游戏
+WaitingForHost	正在等待主持人
+LeftGameError	{0} 因发生错误而离开游戏。
+PlayerWasBannedBy	{0} 已被 {1} 封禁
+PlayerWasKickedBy	{0} 已被 {1} 踢出
+Dummy	假人
+Bad	错误
+Status	状态：
+Fine	良好
+OK	确认
+SecondsAbbv	{0} 秒
+PetTryOn	装备看看吧！
+DataPolicyWhat	会收集哪些数据？
+	
+	
+	
+VaultRoom	保险库
+Cockpit	座舱
+Armory	军械库
+Kitchen	厨房
+ViewingDeck	瞭望台
+HallOfPortraits	肖像厅
+Medical	医疗室
+CargoBay	货舱
+Ventilation	通风室
+Showers	淋浴室
+Engine	引擎室
+Brig	牢房
+MeetingRoom	会议室
+Records	档案室
+Lounge	休息室
+GapRoom	间隙室
+MainHall	大厅
+	
+PolishRuby	抛光红宝石
+ResetBreakers	重置断路器
+Decontaminate	去污
+MakeBurger	制作汉堡
+UnlockSafe	解锁保险库
+SortRecords	整理档案
+PutAwayPistols	存放手枪
+PutAwayRifles	存放步枪
+FixShower	修理淋浴室
+CleanToilet	清理马桶
+DressMannequin	装饰假人
+PickUpTowels	捡起浴巾
+RewindTapes	倒带
+StartFans	开启风扇
+DevelopPhotos	冲洗相片
+GetBiggolSword	取得 Biggol 剑
+StopCharles	避开撞毁路线
+	
+RevealCode	显示代码
+DirtyHeader	脏污程度
+AuthLeftOkay	左侧正常
+AuthRightOkay	右侧正常
+AuthLeftActive	左侧运作中
+AuthRightActive	右侧运作中
+AuthLeftNotActive	左侧非运作
+AuthRightNotActive	右侧非运作
+EngagementScreen	按任意键开始。
+DeleteButton	删除
+QuickChat	快速聊天
+QCLocationLaptop	笔记本电脑
+QCLocationSkeld	Skeld
+QCLocationMira	Mira
+QCLocationPolus	Polus
+QCSystemsStart	开始
+QCSystemsKick	踢出
+QCCrewI	我（主语）
+QCCrewMe	我（宾语）
+QCCrewNoOne	没有人
+QCAccAKilledB	{0} 杀死了 {1}
+QCAccAKilledBNeg	{0} 没有杀死 {1}
+QCAccAIsSuspicious	{0} 很可疑
+QCAccAIsSuspiciousNeg	{0} 是好人
+QCAccASawBVent	{0} 看见 {1} 进出通风口
+QCAccASawBVentNeg	{0} 没看过 {1} 进出通风口
+QCAccAWasChasingB	{0} 刚刚在追 {1}
+QCAccAWasChasingBNeg	{0} 刚刚没有在追 {1}
+QCAccAIsLying	{0} 在说谎
+QCAccAIsLyingNeg	{0} 说的是实话
+QCAccVoteA	投票给 {0}
+QCAccVoteANeg	不要投票给 {0}
+QCAccADidntReport	{0} 发现尸体没有报告
+QCResYes	是
+QCResNo	否
+QCResDontKnow	我不知道
+QCResDontKnowNeg	也许
+QCResAWas	{0} 刚刚
+QCResAWasNeg	{0} 刚刚没有
+QCResADid	{0} 做了
+QCResADidNeg	{0} 没有做
+QCResVote	投票
+QCResVoteNeg	跳过投票
+QCResAWasAtB	{0} 刚刚在{1}
+QCResAWasAtBNeg	{0} 刚刚不在{1}
+QCResRip	安息吧
+QCResRipNeg	嘿
+QCResLies	说谎
+QCResLiesNeg	好
+QCQstWhere	哪里？
+QCQstWho	谁？
+QCQstWhoWasWith	{0} 刚刚和谁一起？
+QCQstWhatWasADoing	{0} 刚刚在做什么？
+QCQstWhoFixedA	谁修复了{0}？
+QCQstWhereWasA	{0} 刚刚在哪里？
+QCQstBodyOrMeeting	这是发现尸体还是紧急会议？
+QCStaASawB	{0} 看见 {1}
+QCStaAWasWithB	{1} 刚刚和 {0} 一起
+QCStaADidB	{0} 做了{1}
+QCStaASelfReported	{0} 恶人先告状了
+QCStaDoubleKill	这是双杀
+QCStaWasSelfReport	这是凶手自报
+QCStaPleaseDoTasks	请完成您的任务
+QCStaBodyWasInA	尸体刚刚在{0}
+QCStaACalledMeeting	{0} 召开会议
+QCLocation	位置
+QCSystems	系统
+QCCrew	船员
+QCAccusation	指控
+QCResponse	回应
+QCQuestion	问题
+QCStatements	陈述
+ChatType	聊天类型
+QuickChatOnly	仅限快速聊天
+FreeChatOnly	仅限自由聊天
+FreeOrQuickChat	自由或快速聊天
+DateOfBirth	出生年月日
+DateOfBirthEnter	请输入您的出生年月日：
+Month	月：
+Day	日：
+Year	年：
+January	一月
+February	二月
+March	三月
+April	四月
+May	五月
+June	六月
+July	七月
+August	八月
+September	九月
+October	十月
+November	十一月
+December	十二月
+Submit	提交
+	
+QCAccAKilledB_QCCrewMe_ANY	我杀死了 {1}
+QCAccAKilledB_QCCrewMe_QCCrewNoOne	我没有杀任何人
+QCAccAKilledB_QCCrewMe_QCCrewMe	
+QCAccAKilledB_ANY_QCCrewMe	{0} 杀了我
+QCAccAKilledB	{0} 杀死了 {1}
+QCAccAKilledB_ANY_QCCrewNoOne	{0} 没有杀任何人
+QCAccAKilledB_QCCrewNoOne_QCCrewMe	没有人杀我
+QCAccAKilledB_QCCrewNoOne_ANY	没有人杀了 {1}
+QCAccAKilledB_QCCrewNoOne_QCCrewNoOne	没有人杀死任何人
+QCAccAKilledBNeg_QCCrewMe_ANY	我没有杀 {1}
+QCAccAKilledBNeg_QCCrewMe_QCCrewNoOne	我没有杀任何人
+QCAccAKilledBNeg_QCCrewMe_QCCrewMe	我没有自杀
+QCAccAKilledBNeg_ANY_QCCrewMe	{0} 没有杀我
+QCAccAKilledBNeg	{0} 没有杀死 {1}
+QCAccAKilledBNeg_ANY_QCCrewNoOne	{0} 没有杀任何人
+QCAccAKilledBNeg_QCCrewNoOne_QCCrewMe	
+QCAccAKilledBNeg_QCCrewNoOne_ANY	
+QCAccAKilledBNeg_QCCrewNoOne_QCCrewNoOne	
+QCAccAIsSuspicious_QCCrewMe	我很可疑
+QCAccAIsSuspicious	{0} 很可疑
+QCAccAIsSuspicious_QCCrewNoOne	没有人很可疑
+QCAccAIsSuspiciousNeg_QCCrewMe	我是好人
+QCAccAIsSuspiciousNeg	{0} 是好人
+QCAccAIsSuspiciousNeg_QCCrewNoOne	大家都是坏人
+QCAccASawBVent_QCCrewMe_ANY	我看见 {1} 进出通风口
+QCAccASawBVent_QCCrewMe_QCCrewNoOne	我没看见任何人进出通风口
+QCAccASawBVent_QCCrewMe_QCCrewMe	
+QCAccASawBVent_ANY_QCCrewMe	{0} 看见我进出通风口
+QCAccASawBVent	{0} 看见 {1} 进出通风口
+QCAccASawBVent_ANY_QCCrewNoOne	{0} 没看见有人进出通风口
+QCAccASawBVent_QCCrewNoOne_QCCrewMe	没人看见我进出通风口
+QCAccASawBVent_QCCrewNoOne_ANY	没有人看见 {1} 进出通风口
+QCAccASawBVent_QCCrewNoOne_QCCrewNoOne	没人看见有人进出通风口
+QCAccASawBVentNeg_QCCrewMe_ANY	我没见过 {1} 进出通风口
+QCAccASawBVentNeg_QCCrewMe_QCCrewNoOne	我没见过任何人进出通风口
+QCAccASawBVentNeg_QCCrewMe_QCCrewMe	
+QCAccASawBVentNeg_ANY_QCCrewMe	{0} 没看见我进出通风口
+QCAccASawBVentNeg	{0} 没看过 {1} 进出通风口
+QCAccASawBVentNeg_ANY_QCCrewNoOne	{0} 没见过任何人进出通风口
+QCAccASawBVentNeg_QCCrewNoOne_QCCrewMe	绝对没有人看见我进出通风口
+QCAccASawBVentNeg_QCCrewNoOne_ANY	绝对没有人看见 {1} 进出通风口
+QCAccASawBVentNeg_QCCrewNoOne_QCCrewNoOne	绝对没有人见过任何人进出通风口
+QCAccAWasChasingB_QCCrewMe_ANY	我刚刚在追 {1}
+QCAccAWasChasingB_QCCrewMe_QCCrewNoOne	我刚刚没有在追任何人
+QCAccAWasChasingB_QCCrewMe_QCCrewMe	
+QCAccAWasChasingB_ANY_QCCrewMe	{0} 刚刚在追我
+QCAccAWasChasingB	{0} 刚刚在追 {1}
+QCAccAWasChasingB_ANY_QCCrewNoOne	{0} 刚刚没有在追任何人
+QCAccAWasChasingB_QCCrewNoOne_QCCrewMe	刚刚没有人在追我
+QCAccAWasChasingB_QCCrewNoOne_ANY	刚刚没有人在追 {1}
+QCAccAWasChasingB_QCCrewNoOne_QCCrewNoOne	刚刚没有人在追任何人
+QCAccAWasChasingBNeg_QCCrewMe_ANY	我刚刚没有在追 {1}
+QCAccAWasChasingBNeg_QCCrewMe_QCCrewNoOne	我刚刚没有在追任何人
+QCAccAWasChasingBNeg_QCCrewMe_QCCrewMe	
+QCAccAWasChasingBNeg_ANY_QCCrewMe	{0} 刚刚没有在追我
+QCAccAWasChasingBNeg	{0} 刚刚没有在追 {1}
+QCAccAWasChasingBNeg_ANY_QCCrewNoOne	{0} 刚刚没有在追任何人
+QCAccAWasChasingBNeg_QCCrewNoOne_QCCrewMe	
+QCAccAWasChasingBNeg_QCCrewNoOne_ANY	
+QCAccAWasChasingBNeg_QCCrewNoOne_QCCrewNoOne	
+QCAccAIsLying_QCCrewMe	我在说谎
+QCAccAIsLying	{0} 在说谎
+QCAccAIsLying_QCCrewNoOne	没有人在说谎
+QCAccAIsLyingNeg_QCCrewMe	我说的是实话
+QCAccAIsLyingNeg	{0} 说的是实话
+QCAccAIsLyingNeg_QCCrewNoOne	没人说实话
+QCAccVoteA_QCCrewMe	投票给我
+QCAccVoteA	投票给 {0}
+QCAccVoteA_QCCrewNoOne	别投票驱逐任何人
+QCAccVoteANeg_QCCrewMe	别投票给我
+QCAccVoteANeg	不要投票给 {0}
+QCAccVoteANeg_QCCrewNoOne	
+QCAccADidntReport_QCCrewMe	我没有报告尸体
+QCAccADidntReport	{0} 发现尸体没有报告
+QCAccADidntReport_QCCrewNoOne	
+QCResAWas_QCCrewMe	我刚刚
+QCResAWas	{0} 刚刚
+QCResAWas_QCCrewNoOne	刚刚没有人
+QCResAWasNeg_QCCrewMe	我刚刚没有
+QCResAWasNeg	{0} 刚刚没有
+QCResAWasNeg_QCCrewNoOne	
+QCResADid_QCCrewMe	我做了
+QCResADid	{0} 做了
+QCResADid_QCCrewNoOne	没有人做
+QCResADidNeg_QCCrewMe	我没有做
+QCResADidNeg	{0} 没有做
+QCResADidNeg_QCCrewNoOne	
+QCResAWasAtB_QCCrewMe_ANY	我刚刚在{1}
+QCResAWasAtB	{0} 刚刚在{1}
+QCResAWasAtB_QCCrewNoOne_ANY	刚刚没有人在{1}
+QCResAWasAtBNeg_QCCrewMe_ANY	我刚刚不在{1}
+QCResAWasAtBNeg	{0} 刚刚不在{1}
+QCResAWasAtBNeg_QCCrewNoOne_ANY	
+QCQstWhoWasWith_QCCrewMe	刚刚是谁和我一起？
+QCQstWhoWasWith	{0} 刚刚和谁一起？
+QCQstWhoWasWith_QCCrewNoOne	刚刚谁独自行动？
+QCQstWhatWasADoing_QCCrewMe	
+QCQstWhatWasADoing	{0} 刚刚在做什么？
+QCQstWhatWasADoing_QCCrewNoOne	
+QCQstWhereWasA_QCCrewMe	
+QCQstWhereWasA	{0} 刚刚在哪里？
+QCQstWhereWasA_QCCrewNoOne	
+QCStaASawB_QCCrewMe_ANY	我看见 {1}
+QCStaASawB_QCCrewMe_QCCrewNoOne	我没看见任何人
+QCStaASawB_QCCrewMe_QCCrewMe	
+QCStaASawB_ANY_QCCrewMe	{0} 看见我
+QCStaASawB	{0} 看见 {1}
+QCStaASawB_ANY_QCCrewNoOne	{0} 没看见任何人
+QCStaASawB_QCCrewNoOne_QCCrewMe	没人看见我
+QCStaASawB_QCCrewNoOne_ANY	没人看见 {1}
+QCStaASawB_QCCrewNoOne_QCCrewNoOne	没有人看见任何人
+QCStaAWasWithB_QCCrewMe_ANY	我刚刚和 {1} 一起
+QCStaAWasWithB_QCCrewMe_QCCrewNoOne	我刚刚没有和任何人一起
+QCStaAWasWithB_QCCrewMe_QCCrewMe	
+QCStaAWasWithB_ANY_QCCrewMe	{0} 刚刚和我一起
+QCStaAWasWithB	{1} 刚刚和 {0} 一起
+QCStaAWasWithB_ANY_QCCrewNoOne	{0} 刚刚没有和任何人一起
+QCStaAWasWithB_QCCrewNoOne_QCCrewMe	刚刚没有人和我一起
+QCStaAWasWithB_QCCrewNoOne_ANY	刚刚没有人和 {1} 一起
+QCStaAWasWithB_QCCrewNoOne_QCCrewNoOne	刚刚没有人和任何人一起
+QCStaADidB_QCCrewMe_ANY	我做了{1}
+QCStaADidB	{0} 做了{1}
+QCStaADidB_QCCrewNoOne_ANY	没人做了{1}
+QCStaASelfReported_QCCrewMe	我恶人先告状了
+QCStaASelfReported	{0} 恶人先告状了
+QCStaASelfReported_QCCrewNoOne	没有人恶人先告状
+QCStaACalledMeeting_QCCrewMe	我召开了会议
+QCStaACalledMeeting	{0} 召开了会议
+QCStaACalledMeeting_QCCrewNoOne	没有人召开会议
+QCMore	更多
+SecurityLogsSystem	保安日志
+SecurityCamsSystem	保安摄像头
+AdminMapSystem	管理室地图
+VitalsSystem	生命监测器
+EngagementScreenSignIn	正在登录...
+SaveGameOutOfSpaceConfirm	继续
+EngagementScreen	按任意键开始。
+SaveGameOutOfSpaceMessage	您要在不保存的情况下继续吗？
+SaveGameOutOfSpaceConfirm	继续
+SaveGameOutOfSpaceCancel	重试
+Success	成功！
+Failed	失败！
+ErrorCreate	创建账号时发生问题，请稍后再试。
+SuccessCreate	您已成功创建账号！
+Close	关闭
+ErrorLogIn	登录账号时发生问题，请稍后再试。
+SuccessLogIn	您已成功登录账号！
+AccountInfo	账号信息
+Account	账号
+UserName	用户名称
+Height	身高
+Weight	体重
+SignIn	登录
+CreateAccount	创建账号
+RequestPermission	请求许可
+RandomizeName	随机命名
+AccountLinking	账号链接
+ChangeName	更改名称
+LogOut	登出
+GuardianWait	您必须等候监护人给予许可才能使用自由聊天和更改用户名称。
+EmailEdit	编辑电子邮件
+EmailResend	重新发送电子邮件
+GuestContinue	以游客身份继续
+GuardianEmailSent	已向监护人发送电子邮件
+GuardianCheckEmail	别忘了请您的监护人检查电子邮件，以解锁所有游戏功能。
+EditName	编辑名称
+Name	名称
+CreateAccountQuestion	创建账号？
+DoYouWantCreate	您要创建账号吗？
+PermissionRequired	需要许可
+NeedPermissionText	我们需要以电子邮件征求您监护人的许可才能继续。如果监护人同意，您便可以在线使用自由聊天和更改用户名称。请寻求成年人协助您取得许可吧！
+GuardianEmailTitle	监护人的电子邮件
+Send	发送
+NewEmail	新电邮地址
+ConfirmEmail	确认电邮地址
+EditEmail	编辑电邮地址
+Loading	加载中
+Welcome	欢迎
+GuardianEmail	[您监护人的电子邮件]
+	
+BanButton	封禁
+KickButton	踢出
+ReportButton	报告
+ReportConfirmation	您已成功举报下列用户。
+ReportBadName	不当名称
+ReportBadChat	不当聊天
+ReportHacking	作弊 / 黑客
+ReportHarassment	骚扰 / 不当行为
+ReportWhy	请问您举报这位用户的原因是？
+DLLNotFoundAccountError	您在连接到线上服务时发生了问题。在修复此问题之前，您只能游玩本地或自由模式。请稍后再试。
+ContinueOffline	离线游戏
+WantToLogIn	您当前尚未登录账号。
+GoOffline	离线
+PlayAsGuest	以游客身份游玩
+LogInTitle	登录您的账号
+LogInInfoText	- 游客账号可以让您不链接账号即可在线游玩，但更换设备或卸载《Among Us》后将无法取回数据。\n- 如果您登录完整账号，往后便可再次登录。如果您尚未拥有账号，将会自动为您创建账号。
+LogInInfoTextSwitch	如果您登录完整账号，往后便可再次登录。如果您尚未拥有账号，将会自动为您创建账号。
+ControllerDisconnectedMessage	控制器连接中断
+FollowUs	跟随我们！
+	
+QuickChatInstructionsStart	您游戏内聊天设置为“仅限快速聊天”。
+QuickChatInstructionsChild	您需要先取得家长或监护人的同意才可使用完整聊天功能。
+QuickChatInstructionsGuest	您需要登录才可更改此项目。
+QuickChatInstructionsFull	您可在“设置”菜单中更改。
+	
+SwitchEShopBrowseAll	查看 Nintendo eShop 的所有商品
+	
+Download	下载
+Upload	上传
+pk05_davehat	Dave 的帽子
+pk05_Ellie	Ellie
+pk05_Svenhat	Sven 的帽子
+pk05_Burthat	Burt 的帽子
+pk05_Ellryhat	Ellry 的朋克头
+pk05_monocles	双片眼镜
+pk05_cheesetoppat	芝士高帽
+pk05_Macbethhat	Mr. Macbeth 的高帽
+pk05_HenryToppat	Henry 的高帽
+pk05_EllieToppat	Ellie 的高帽
+pk05_GeoffreyToppat	Geoffrey 的高帽
+	
+	
+InsufficientStorageError	存储空间不足，无法下载资源包。请在设备上挪出空间后再试一次。
+NetworkError	发生网络错误。请检查连接设置后再试一次。
+OtherDownloadError	发生错误：{0}
+DownloadingLabel	正在下载 {0}
+DownloadSizeLabel	下载大小：{0}MB
+	
+TimeRemaining	剩余时间：{0}
+DeadLabel	死亡
+	
+InviteFriends	邀请朋友
+	
+NutriLabel	营养
+CO2Label	CO2
+RADLabel	辐射
+WaterLabel	水
+	
+DoorlogLabel	通行纪录
+VitalsLabel	生命
+OptionsLabel	自定义
+ProceedLabel	继续
+StartLabel	开始
+UseLabel	使用
+PlayAgain	再次游玩
+QuitLabel	退出
+ReportLabel	报告
+SabotageLabel	破坏
+VentLabel	通风口
+KillLabel	击杀
+DiscussLabel	讨论！
+SkippedVoting	已跳过投票
+SkipVoteLabel	跳过投票
+EmergencyMeeting	紧急会议
+BodyReported	通报发现尸体
+SkinLabel	皮肤
+HatLabel	帽子
+PetLabel	宠物
+AnnouncementLabel	公告
+	
+UploadingLabel	上传中
+ConnectionLabel	连接：
+NoneLabel	无
+PoorLabel	微弱
+GoodLabel	良好
+LogLabel	记录档
+ReadingLabel	数值
+WeatherDataDownload	下载气候数据
+AirshipBundle	Airship 捆绑包
+PolusBundle	Polus 捆绑包
+PolusSkinBundle	Polus 地图皮肤捆绑包
+MiraBundle	MIRA HQ 捆绑包
+MiraSkinBundle	MIRA HQ 皮肤捆绑包
+PetAlien2	压床蟹宠物捆绑包
+PetAlien1	脑动虫宠物捆绑包
+PetAnimal	仓鼠球宠物捆绑包
+PetCrewmate	迷你船员捆绑包
+PetStickmin	Stickmin 宠物捆绑包
+PrisonerSkin	囚犯
+Cyborg_RHM	得力助手重生
+CCC_Officer	混乱收容中心主任
+BeginLabel	开始
+QuietLabel	嘘！
+VentCleaning	清理通风口
+CleanUp	清理
+ProgressLabel	进度：
+TermsOfUseTitle	使用条款
+PPAndToUTitle	隐私条款与使用条款
+	
+ErrorNotAuthenticated	《Among Us》服务器无法验证您的身分。\r\n\n您必须拥有《Among Us》账号才能在线游玩 (游客账号也可以！)。
+ComePlayDiscord	来和我一起玩《Among Us》吧！ 
+ShowAccountSupportID5	显示账号支持识别码
+ShowAccountSupportID4	再按 4 次来显示
+ShowAccountSupportID3	请不要分享这个识别码
+ShowAccountSupportID2	直播时请不要点击
+ShowAccountSupportID1	确认要查看这组识别码
+SupportIDLabel	支持识别码： {0}
+YouAreNotOnline	您不在线上。
+NoDeadBodiesFound	未发现尸体
+SupportEmail	若有任何支持相关问题，请联络 support@innersloth.com。
+PerfectLabel	完美

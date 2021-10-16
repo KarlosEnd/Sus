@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b2d28e5017d0d848921d2c59499fc79, type: 3}
+  m_Name: Wall
+  m_EditorClassIdentifier:
+  IdleFrame: {fileID: 21300256, guid: 5ec320aec04e40b40863d6b011ab3fd9, type: 3}
+  IdleAnim: {fileID: 7400000, guid: e24d51f95dbed4e4cb9ec7caa493c27b, type: 2}
+  RunAnim: {fileID: 7400000, guid: badfed5b7feb40b4f999830c8d018488, type: 2}
+  EnterVentAnim: {fileID: 7400000, guid: 8bca97c58c1ea1243b59092f61738faa, type: 2}
+  ExitVentAnim: {fileID: 7400000, guid: 0647f1560367e4842b8af1a54e5442e7, type: 2}
+  ClimbAnim: {fileID: 7400000, guid: 5da3608d096ad7f458fba95099144aa1, type: 2}
+  ClimbDownAnim: {fileID: 7400000, guid: a9bdb7b140517d74dbfcc5e78b6e26b1, type: 2}
+  KillTongueImpostor: {fileID: 7400000, guid: 0d0e3f3c3bff24b4fabccbc1b888b33f, type: 2}
+  KillTongueVictim: {fileID: 7400000, guid: 702973f324fd4214084cf68ef45e0e7b, type: 2}
+  KillShootImpostor: {fileID: 7400000, guid: 4c2ffd01947056f4ea56773489619e8b, type: 2}
+  KillShootVictim: {fileID: 7400000, guid: 00de0ec6bcfea504189bbf55f6c1bf22, type: 2}
+  KillNeckImpostor: {fileID: 7400000, guid: bc59bcc71e3adab46995057c5976f5fd, type: 2}
+  KillStabImpostor: {fileID: 7400000, guid: eced8fbf49afdd943a71863e93d489d5, type: 2}
+  KillStabVictim: {fileID: 7400000, guid: 173e0587d5a39914ebb8cdc9157f7d49, type: 2}
+  KillNeckVictim: {fileID: 7400000, guid: 712a16014a5bce14fa049bd6fde0fdfb, type: 2}
+  KillRHMVictim: {fileID: 7400000, guid: ba865d5e063a4894fa11369c3f2c9488, type: 2}
+  EjectFrame: {fileID: 21300808, guid: 5ec320aec04e40b40863d6b011ab3fd9, type: 3}
+  SpawnAnim: {fileID: 7400000, guid: da7cf16698eb9e14fa2c611506493ecc, type: 2}
+  IdleLeftAnim: {fileID: 7400000, guid: 8609294ceba60864f9bc8d4f499b9e0e, type: 2}
+  RunLeftAnim: {fileID: 7400000, guid: f0407b083ac16e74281ba55bb0680f9b, type: 2}
+  EnterLeftVentAnim: {fileID: 7400000, guid: 8dd5a3c9a30920a4bbc0463fff930af3, type: 2}
+  ExitLeftVentAnim: {fileID: 7400000, guid: 86f1e642aa625d94d99550046b33d01b, type: 2}
+  SpawnLeftAnim: {fileID: 7400000, guid: 29758da44a96ae44e99995dbe746d690, type: 2}
+  KillAnims: []
+  NotInStore: 0
+  Free: 0
+  RelatedHat: {fileID: 11400000, guid: 6ad834106ebb17c4db5cc7710ff2a7bf, type: 2}
+  StoreName: Wall Guard (includes hat!)
+  ProductId:
+  Order: 0

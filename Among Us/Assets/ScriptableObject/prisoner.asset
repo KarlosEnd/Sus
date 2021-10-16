@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b2d28e5017d0d848921d2c59499fc79, type: 3}
+  m_Name: prisoner
+  m_EditorClassIdentifier:
+  IdleFrame: {fileID: 21300534, guid: a0a9efc3e4a13b1479694fa747ecc62e, type: 3}
+  IdleAnim: {fileID: 7400000, guid: 704afab20f03d524c802cc83b582a6ae, type: 2}
+  RunAnim: {fileID: 7400000, guid: a7bf1d295c45cee4db98d12597e5361a, type: 2}
+  EnterVentAnim: {fileID: 7400000, guid: 83298a31f36142c498b6574bf8554519, type: 2}
+  ExitVentAnim: {fileID: 7400000, guid: bc84696b69fd67c4dabe3338a28390bd, type: 2}
+  ClimbAnim: {fileID: 7400000, guid: 9e3f88eaaf09f6a42b402b0342fc21c6, type: 2}
+  ClimbDownAnim: {fileID: 7400000, guid: 46464bf0ffaa20a4faa5ea53c3bea018, type: 2}
+  KillTongueImpostor: {fileID: 7400000, guid: 2535fecbd5b760d45a71889a64f51c6c, type: 2}
+  KillTongueVictim: {fileID: 7400000, guid: d37fe15f4fc452e4884e6f0440835458, type: 2}
+  KillShootImpostor: {fileID: 7400000, guid: 004a9bdfd13319040bdd13c04fd9b526, type: 2}
+  KillShootVictim: {fileID: 7400000, guid: c1c2848c667de964e8d062406281477d, type: 2}
+  KillNeckImpostor: {fileID: 7400000, guid: 1f0aa55096243ee43be6f7a38e43ffed, type: 2}
+  KillStabImpostor: {fileID: 7400000, guid: 612994f8db5cebe48b4b7c44805703c3, type: 2}
+  KillStabVictim: {fileID: 7400000, guid: 65d2238c7e3cb9d4baf2f211e4e1900f, type: 2}
+  KillNeckVictim: {fileID: 7400000, guid: f3374ba3062e2ca44801e5de194171c1, type: 2}
+  KillRHMVictim: {fileID: 7400000, guid: ad907c8e410529f4c805078e1a9258fc, type: 2}
+  EjectFrame: {fileID: 21300552, guid: a0a9efc3e4a13b1479694fa747ecc62e, type: 3}
+  SpawnAnim: {fileID: 7400000, guid: 3c768ad98f06faf4abe9b9310f413138, type: 2}
+  IdleLeftAnim: {fileID: 7400000, guid: cc43b98a061d5a544a45b802957e21df, type: 2}
+  RunLeftAnim: {fileID: 7400000, guid: 21655492d4b17e64eb599529678c51b1, type: 2}
+  EnterLeftVentAnim: {fileID: 0}
+  ExitLeftVentAnim: {fileID: 0}
+  SpawnLeftAnim: {fileID: 0}
+  KillAnims: []
+  NotInStore: 0
+  Free: 0
+  RelatedHat: {fileID: 0}
+  StoreName: PrisonerSkin
+  ProductId: map_airship
+  Order: 0

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a38d6993a26dc044a303e770e227d72, type: 3}
+  m_Name: AirshipMapBuyable
+  m_EditorClassIdentifier:
+  StoreName: 2212
+  productId: map_airship
+  IncludeHats: 1
+  EpicId: da280986190e4e15818f5c585a8d00ac
+  SteamId: 1579150
+  Win10Id: 9PNXTMQB73JT
+  StoreImage: {fileID: 21300002, guid: 497ccf6ed82ed9143ad46a5e687bd121, type: 3}

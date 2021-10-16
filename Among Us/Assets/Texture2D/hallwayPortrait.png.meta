@@ -1,0 +1,236 @@
+fileFormatVersion: 2
+guid: e4199bd9cf9679a469cc2d1082f5ab95
+timeCreated: 1634333961
+licenseType: Free
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: hallportrait_main
+  - first:
+      213: 21300002
+    second: hallway_window
+  externalObjects: {}
+  usedFileIDs: []
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 872
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hallportrait_main
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 125
+        width: 866
+        height: 464
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -305, y: 232}
+        - {x: -106.99999, y: 232}
+        - {x: 397, y: 188}
+        - {x: 433, y: 163}
+        - {x: 433, y: 42}
+        - {x: 425, y: 34}
+        - {x: 425.99997, y: -111}
+        - {x: 433, y: -118.99999}
+        - {x: 433, y: -129}
+        - {x: 429, y: -232}
+        - {x: -425.99997, y: -232}
+        - {x: -433, y: -193}
+        - {x: -433, y: -112}
+        - {x: -416, y: -107.99999}
+        - {x: -425, y: 91}
+        - {x: -433, y: 100}
+        - {x: -433, y: 181}
+        - {x: -399, y: 219}
+      physicsShape:
+      - - {x: 427.99997, y: -141}
+        - {x: 433, y: -127}
+        - {x: 433, y: -119.99999}
+        - {x: 423, y: -117.99999}
+        - {x: 421.99997, y: 34}
+        - {x: 429, y: 42}
+        - {x: 429.99997, y: 45}
+        - {x: 427.99997, y: 57}
+        - {x: 423.99997, y: 91.99999}
+        - {x: 433, y: 95}
+        - {x: 433, y: 101}
+        - {x: 431.99997, y: 102}
+        - {x: 429, y: 110}
+        - {x: 427.99997, y: 119.99999}
+        - {x: 427, y: 143}
+        - {x: 429, y: 154}
+        - {x: 427.99997, y: 163}
+        - {x: 423, y: 168}
+        - {x: 408.99997, y: 175}
+        - {x: 364, y: 187}
+        - {x: 349, y: 188}
+        - {x: 242.99998, y: 197.99998}
+        - {x: 191, y: 202}
+        - {x: 90, y: 211.99998}
+        - {x: 78, y: 212.99998}
+        - {x: 11, y: 218}
+        - {x: -11, y: 221}
+        - {x: -95, y: 229}
+        - {x: -131, y: 232}
+        - {x: -265, y: 232}
+        - {x: -278, y: 231}
+        - {x: -291.99997, y: 230}
+        - {x: -321, y: 227}
+        - {x: -336, y: 225}
+        - {x: -369.99997, y: 219}
+        - {x: -383, y: 214.99998}
+        - {x: -415, y: 197.99998}
+        - {x: -429.99997, y: 177}
+        - {x: -433, y: 170.99998}
+        - {x: -431.99997, y: 151}
+        - {x: -427, y: 145.99998}
+        - {x: -427.99997, y: 118.99999}
+        - {x: -433, y: 104}
+        - {x: -433, y: 102}
+        - {x: -429.99997, y: 101}
+        - {x: -410, y: 101}
+        - {x: -417.99997, y: 56}
+        - {x: -421.99997, y: 53.999996}
+        - {x: -419, y: 48}
+        - {x: -415, y: 42.999996}
+        - {x: -416, y: 31}
+        - {x: -415, y: 29.999998}
+        - {x: -415, y: -114}
+        - {x: -427.99997, y: -114}
+        - {x: -429.99997, y: -116}
+        - {x: -431, y: -119.99999}
+        - {x: -425.99997, y: -133}
+        - {x: -423, y: -146.99998}
+        - {x: -433, y: -173}
+        - {x: -433, y: -192}
+        - {x: -427.99997, y: -200}
+        - {x: -425, y: -229}
+        - {x: -425, y: -231}
+        - {x: -423.99997, y: -232}
+        - {x: 427.99997, y: -232}
+        - {x: 427, y: -191}
+        - {x: 427.99997, y: -177}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270d9462e0e34076b53d19066e3e7553
+      internalID: 21300000
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hallway_window
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 734
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -366.99997, y: -58.999996}
+        - {x: -366.99997, y: 58.999996}
+        - {x: 366.99997, y: 58.999996}
+        - {x: 366.99997, y: -58.999996}
+      physicsShape:
+      - - {x: -366.99997, y: 58.999996}
+        - {x: -366.99997, y: -58.999996}
+        - {x: 366.99997, y: -58.999996}
+        - {x: 366.99997, y: 58.999996}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc12a76c733046f9af98744ddef7f1dc
+      internalID: 21300002
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices:
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag:
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData:
+  assetBundleName:
+  assetBundleVariant:

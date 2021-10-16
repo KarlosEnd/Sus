@@ -1,0 +1,855 @@
+KEY ID	T.Chinese
+LocalButton	本地
+OnlineButton	線上
+HowToPlayButton	如何遊玩
+FreePlayButton	自由模式
+PublicHeader	公開
+PrivateHeader	私人
+HostHeader	主持
+ExitButton	結束
+BackButton	返回
+AvailableGamesLabel	可加入的遊戲
+CreateGameButton	建立遊戲
+FindGameButton	尋找遊戲
+EnterCode	輸入代碼
+GhostIgnoreTasks	您死了。享受這場混亂吧。
+GhostDoTasks	您死了。完成任務來獲得勝利。
+TotalTasksCompleted	已完成任務總數
+GhostImpostor	您死了。您仍可以搞破壞。
+ImpostorTask	搞破壞並殺死所有人。
+FakeTasks	假任務：
+TaskComplete	任務已完成！
+ExileTextSP	{0} 是偽裝者。
+ExileTextSN	{0} 不是偽裝者。
+ExileTextPP	{0} 是偽裝者之一。
+ExileTextPN	{0} 不是偽裝者之一。
+NoExileSkip	沒有人被逐出。(已跳過)
+NoExileTie	沒有人被逐出。(平局)
+ExileTextNonConfirm	{0} 已被逐出。
+ImpostorsRemainS	剩下 {0} 個偽裝者。
+ImpostorsRemainP	剩下 {0} 個偽裝者。
+Hallway	走廊
+Engines	引擎室
+UpperEngine	上引擎室
+Cafeteria	餐廳
+Weapons	艦載武器室
+Reactor	反應爐
+Security	保全室
+MedBay	醫務室
+LifeSupp	氧氣室
+Nav	導航室
+LowerEngine	下引擎室
+Electrical	電氣室
+Admin	管理室
+Storage	儲藏室
+Shields	護盾室
+Comms	通訊室
+Decontamination	除污室
+Launchpad	發射台
+LockerRoom	更衣室
+Laboratory	實驗室
+Balcony	露臺
+Office	辦公室
+Greenhouse	溫室
+DivertPowerTo	將電力轉移至{0}
+AcceptDivertedPower	接受轉移電力
+SubmitScan	提交掃描結果
+PrimeShields	啟動護盾
+FuelEngines	為引擎添加燃料
+ChartCourse	制定航行路線
+StartReactor	啟動反應爐
+SwipeCard	刷卡
+ClearAsteroids	清除小行星
+DownloadData	下載資料
+UploadData	上傳資料
+InspectSample	檢查樣本
+EmptyChute	清空垃圾滑道
+EmptyGarbage	清空垃圾
+AlignEngineOutput	校正引擎輸出
+FixWiring	修復線路
+CalibrateDistributor	校正配電盤
+UnlockManifolds	解鎖歧管
+ResetReactor	反應爐熔毀倒數：
+FixLights	修復照明
+CleanO2Filter	清理氧氣濾器
+FixComms	通訊破壞
+RestoreOxy	氧氣耗盡倒數：
+StabilizeSteering	穩定轉向
+AssembleArtifact	組合文物
+SortSamples	將樣本分類
+MeasureWeather	測量氣候
+EnterIdCode	輸入識別碼
+BuyBeverage	購買飲料
+ProcessData	處理資料
+NumImpostorsS	我們之中有 <color=#FF1919FF>1 個偽裝者</color>
+NumImpostorsP	我們之中有 <color=#FF1919FF>{0} 個偽裝者</color>
+Crewmate	船員
+Impostor	偽裝者
+Victory	勝利
+Defeat	失敗
+CrewmatesDisconnected	大部分船員\n已斷線
+ImpostorDisconnected	偽裝者已斷線
+PickAnomaly	找出異常情況
+WaterPlantsGetCan	取得澆水壺！
+AuthOfficeOkay	辦公室正常
+AuthCommsOkay	通訊室正常
+AuthOfficeActive	辦公室已啟動
+AuthCommsActive	通訊室已啟動
+AuthOfficeNotActive	辦公室未啟動
+AuthCommsNotActive	通訊室未啟動
+SecLogEntry	{0} 已經過{1}感應器
+LogNorth	北側
+LogSouthEast	東南側
+LogSouthWest	西南側
+EnterName	輸入名稱
+SwipeCardPleaseInsert	請插卡
+SwipeCardPleaseSwipe	請刷卡
+SwipeCardBadRead	讀取失敗。請再試一次。
+SwipeCardTooFast	速度過快。請再試一次。
+SwipeCardTooSlow	速度過慢。請再試一次。
+SwipeCardAccepted	已接受。謝謝您。
+ReactorHoldToStop	按住以阻止熔毀
+ReactorWaiting	正在等候第二個使用者
+ReactorNominal	反應爐正常
+MeetingWhoIsTitle	誰是偽裝者？
+MeetingVotingBegins	投票開始倒數：{0} 秒
+MeetingVotingEnds	投票結束倒數：{0} 秒
+MeetingVotingResults	投票結果
+MeetingProceeds	執行倒數：{0} 秒
+MeetingHasVoted	{0} 已投票。{1} 個人尚未投票。
+HowToPlayText1	《Among Us》是款充滿合作與背叛的遊戲。\n\n玩家會扮演船員或偽裝者。
+HowToPlayText2	與 4 到 15 個玩家在線上或透過本地 WiFi 一起遊玩！
+HowToPlayText41	主持遊戲時，您可以控制遊戲進行的方式。
+HowToPlayText42	首先，請決定一起遊玩的對象！\n\n如果您想在線上和朋友一起遊玩，請設定成「私人」並把房間代碼分享給朋友。\n\n如果您想和世界各地的人一起遊玩，請設定成「公開」。
+HowToPlayText43	加入更多任務？把行走速度變快？增加更多偽裝者？身為主持者，您可以變更這些設定。不過，請務必先與其他玩家確認這些變更。
+HowToPlayText44	如果有人表現無禮或濫發訊息，主持者可以暫時踢出玩家作為警告，或禁止玩家進入特定線上房間。
+HowToPlayTextMap	玩家可以存取個人地圖，以協助在船上四處移動。
+HowToPlayTextCrew1	目標：填滿團隊任務列或找出偽裝者。
+HowToPlayTextCrew2	完成任務以填滿量表。
+HowToPlayTextCrew3	處理偽裝者的破壞。
+HowToPlayTextCrew4	在發現偽裝者時召開緊急會議。
+HowToPlayTextCrew5	舉報所發現的屍體。
+HowToPlayTextCrew6	檢查管理室地圖和保全系統以追蹤可疑活動。
+HowToPlayTextImp1	目標：殺死船員。
+HowToPlayTextImp2	混入船員之中。
+HowToPlayTextImp3	經由通風口隱匿行動。
+HowToPlayTextImp4	假裝執行任務。
+HowToPlayTextImp5	在船上搞破壞並混淆船員。
+HowToPlayTextImp6	關門並困住受害者。
+HowToPlayTextImp7	在冷卻時間之間殺死船員。
+HowToPlayText5	在面對面遊玩時，玩家不能彼此交談，以確保船員和偽裝者之間的遊戲公平性。\n\n如果有玩家被偽裝者殺害，該玩家在遊戲結束前都不能說話。\n\n鬼魂仍需執行獲指派的任務，以嘗試使船員獲勝。
+HowToPlayText6	如果有人舉報發現屍體或召開緊急會議，船員會一起討論他們所掌握關於偽裝者的情報。\n\n此時玩家可以公開談論自己認為偽裝者是誰及所掌握的情報。在面對面遊玩時，由於鬼魂已經知道偽裝者是誰，因此不得說話。\n\n偽裝者必須試著證明自己的無辜，或是指控其他船員。
+HowToPlayText7	討論後，請把票投給您認為是偽裝者的人。\n\n得到最多票的玩家將會被逐出船上，因此請明智地投票！\n\n如果您沒有足夠的資訊，而且其他船員也都這麼認為，則可以跳過投票以避免逐出無辜之人，並收集更多資訊。
+HowToPlayText81	在自由模式中練習！
+HowToPlayText82	以船員的身分自行設定任務，或扮演偽裝者來演練殺人謀略！
+SettingsGeneral	一般
+SettingsControls	控制
+SettingsSound	聲音
+SettingsGraphics	圖像
+SettingsData	資料
+SettingsCensorChat	聊天審查
+SettingsMusic	音樂
+SettingsSFX	音效
+SettingsOn	開
+SettingsOff	關
+SettingsSendTelemetry	傳送遙測
+SettingsControlMode	控制模式
+SettingsTouchMode	觸控
+SettingsJoystickMode	搖桿
+SettingsKeyboardMode	滑鼠+鍵盤
+SettingsFullscreen	全螢幕
+SettingsVSync	垂直同步
+SettingsResolution	解析度
+SettingsApply	套用
+SettingsPersonalizeAds	個人化廣告
+SettingsLanguage	語言
+SettingsJoystickSize	大小
+SettingsMouseMode	滑鼠
+MatchMapName	地圖：
+MatchLanguage	聊天：
+MatchImpostors	偽裝者：
+MatchMaxPlayers	玩家上限：
+Cancel	取消
+Confirm	確認
+PlayerColor	色彩
+PlayerHat	帽子
+PlayerSkin	外觀
+PlayerPet	寵物
+GameSettings	遊戲
+GameRecommendedSettings	建議設定
+GameCustomSettings	自訂設定
+GameMapName	地圖
+GameNumImpostors	偽裝者數
+GameNumMeetings	緊急會議數
+GameDiscussTime	討論時間
+GameVotingTime	投票時間
+GamePlayerSpeed	玩家速度
+GameCrewLight	船員視野
+GameImpostorLight	偽裝者視野
+GameKillCooldown	殺人冷卻時間
+GameKillDistance	殺人距離
+GameCommonTasks	普通任務數
+GameLongTasks	長任務數
+GameShortTasks	短任務數
+GameEmergencyCooldown	緊急會議冷卻時間
+GameSecondsAbbrev	{0} 秒
+GameConfirmImpostor	逐出後確認
+GameVisualTasks	視覺性任務
+GameAnonymousVotes	匿名投票
+GameTaskBarMode	任務列更新
+SettingNormalTaskMode	持續
+SettingMeetingTaskMode	會議
+SettingInvisibleTaskMode	永不
+Limit	限制
+RoomCode	代碼
+LeaveGame	離開遊戲
+ReturnToGame	返回遊戲
+LocalHelp	遇到連線問題？\n\n● 確定所有人都已連線至相同的 WiFi 名稱\n● 確定所有人的版本都相同 (顯示在左上角)\n● 確定 WiFi 訊號夠強\n● 有時換人主持能協助解決問題\n● 有時重新啟動應用程式能協助解決問題...\n● 有時重新啟動手機能協助解決問題...\n● 還是有問題？在我們的 Discord 頻道上告訴我們！
+OnlineHelp	該如何進行？\n\n● 主持遊戲時，在開始按鈕旁邊會顯示一組遊戲代碼。\n● 跟朋友分享該代碼以建立私人房間。\n● 或點擊「私人」以在「尋找遊戲」中公開該房間。\n● 主持者可以在可聊天時禁止玩家進入或踢出玩家。\n● 還是有問題？在我們的 Discord 頻道上告訴我們！
+EmergencyCount	船員 {0} 剩下\n\n\n\n次緊急會議召開次數
+EmergencyNotReady	船員必須等候\n\n\n\n才能再次召開緊急會議
+EmergencyDuringCrisis	無法在發生危機時\n召開緊急會議
+EmergencyRequested	已要求召開緊急會議\n正在等候主持者
+AdPolicyTitle	廣告政策
+AdPolicyText	我們是否可以使用您的個人資料來為您提供量身打造的廣告？如果您按一下「是」，我們如 Google AdMob 跟 Unity Ads 的廣告合作夥伴將會自動收集資料，並使用裝置識別碼和 Cookie 來提供個人化的廣告。如果您按一下「否」，您仍可能會看到非個人化的廣告。若要移除所有廣告，請在[httpstore]這裡[]購買無廣告升級。當您主持遊戲時，您和您的朋友將不會看到任何廣告！若要深入了解我們和我們廣告合作夥伴的隱私權做法，請參閱我們的[https://innersloth.com/privacy.php]隱私權政策[]。您隨時都可以在設定選單的「資料」底下變更您的決定。
+Accept	接受
+RemoveAds	移除廣告
+PlainYes	是
+PlainNo	否
+PrivacyPolicyTitle	隱私權政策
+PrivacyPolicyText	Innersloth 負責處理《Among Us》的個人資料。請參閱我們的[https://innersloth.com/privacy.php]隱私權政策[]以了解我們的隱私權做法。您可以在「資料」底下管理您針對《Among Us》的個人資料設定。
+ManageDataButton	管理資料收集
+UnderstandButton	我了解
+WaterPlants	幫植物澆水
+WeatherEta	預估時間：{0} 秒
+WeatherComplete	完成
+RunDiagnostics	執行診斷
+SettingShort	短
+SettingMedium	中
+SettingLong	長
+SamplesPress	按下以開始
+SamplesAdding	添加試劑
+SamplesSelect	選取異常情況
+SamplesThanks	謝謝您！
+SamplesComplete	測試完成
+AstDestroyed	已摧毀：{0}
+TaskTestTitle	任務測試器 2000
+BeginDiagnostics	開始診斷
+UserLeftGame	{0} 已離開遊戲。
+GameStarting	開始倒數：{0}
+ChatRateLimit	太快。請等候 {0} 秒
+Tasks	任務
+MedscanRequested	已要求掃描
+MedscanWaitingFor	正在等候 {0}
+MedscanCompleted	掃描完成！
+MedscanCompleteIn	掃描完成倒數：{0}
+StatsTitle	統計資料
+StatsBodiesReported	舉報屍體次數：\t
+StatsEmergenciesCalled	召開緊急會議次數：\t
+StatsTasksCompleted	完成任務次數：\t
+StatsAllTasksCompleted	完成所有任務次數：\t
+StatsSabotagesFixed	修復破壞次數：\t
+StatsImpostorKills	偽裝者殺人次數：\t\t
+StatsTimesMurdered	被謀殺次數：\t
+StatsTimesEjected	被逐出次數：\t\t
+StatsCrewmateStreak	連續扮演船員次數：\t
+StatsGamesImpostor	扮演偽裝者次數：\t
+StatsGamesCrewmate	扮演船員次數：\t
+StatsGamesStarted	開始遊戲次數：\t
+StatsGamesFinished	完成遊戲次數：\t
+StatsImpostorVoteWins	偽裝者投票勝利次數：\t
+StatsImpostorKillsWins	偽裝者殺人勝利次數：\t
+StatsImpostorSabotageWins	偽裝者破壞勝利次數：\t
+StatsCrewmateVoteWins	船員投票勝利次數：\t
+StatsCrewmateTaskWins	船員任務勝利次數：\t
+MonitorOxygen	監控樹木
+StoreArtifacts	存放文物
+FillCanisters	填滿罐子
+InsertKeys	插入鑰匙
+ResetSeismic	重設抗震穩定器
+SeismicHoldToStop	按住以啟動抗震穩定器
+SeismicNominal	地震活動正常
+ScanBoardingPass	掃描登船證
+FixWeatherNode	修復氣候節點
+OpenWaterways	打開水道
+ReplaceWaterJug	更換水壺
+RepairDrill	修理鑽頭
+AlignTelescope	對準望遠鏡
+RecordTemperature	記錄溫度
+RebootWifi	重新啟動 Wifi
+WifiRebootRequired	需要重新啟動
+WifiPleaseWait	請稍候
+WifiPleaseReturnIn	請於下列時間後返回：{0}
+WifiPleasePowerOn	請開啟電源
+WifiRebootComplete	重新啟動完成
+Outside	戶外
+Dropship	運輸船
+Decontamination2	除污室
+Specimens	標本室
+BoilerRoom	鍋爐室
+GameOverImpostorDead	在正常情況下，船員已經獲勝了，因為偽裝者已經死亡。針對自由模式，我們會改為復活所有人。
+GameOverImpostorKills	在正常情況下，偽裝者已經獲勝了，因為船員已不可能獲勝。針對自由模式，我們會改為復活所有人。
+GameOverTaskWin	在正常情況下，船員已經獲勝了，因為任務列已經填滿。針對自由模式，我們會改為發布新任務。
+GameOverSabotage	在正常情況下，偽裝者已經獲勝了，因為已造成嚴重破壞。但我們會改為將它關閉。
+HowToPlayText2Switch	使用您的 Nintendo Switch Online 會員與 4 到 15 個玩家在線上或透過本地 Wi-Fi 一起遊玩！
+VentDirection	通風口方向
+VentMove	經由通風口移動
+MenuNavigate	引導
+NsoError	無法連上網路。
+ErrorServerOverload	《Among Us》伺服器已超載。\r\n\r\n非常抱歉！請稍後再試！
+ErrorIntentionalLeaving	您在刻意斷線之後，需要再等候 {0} 分鐘才能加入另一個遊戲。
+ErrorFocusLost	您已經斷線，因為有另一個應用程式將《Among Us》暫停。
+ErrorBanned	您被禁止進入 {0}。\r\n\r\n您無法重新加入該房間。
+ErrorKicked	您被踢出 {0}。\r\n\r\n如果該房間尚未開始遊戲，您可以重新加入。
+ErrorBannedNoCode	您被禁止進入該房間。\r\n\r\n您無法重新加入該房間。
+ErrorKickedNoCode	您被踢出該房間。\r\n\r\n如果該房間尚未開始遊戲，您可以重新加入。
+ErrorHacking	您因作弊而被禁止進入。\r\n\r\n請停止此行為。
+ErrorFullGame	您試圖加入的遊戲已滿。\r\n\r\n請詢問主持者您是否能在下回合加入。
+ErrorStartedGame	您試圖加入的遊戲已經開始。\r\n\r\n請詢問主持者您是否能在下回合加入。
+ErrorNotFoundGame	找不到您在尋找的遊戲。
+ErrorInactivity	遊戲伺服器已停止此遊戲。可能是因為處於非使用狀態。
+ErrorGenericOnlineDisconnect	您已和伺服器斷線。\r\n如果此情況經常發生，請確認您的網路強度。\r\n這也可能是伺服器問題。
+ErrorGenericLocalDisconnect	您已和主持者斷線。\r\n\r\n如果此情況經常發生，請確認您的 WiFi 強度。
+ErrorInvalidName	遊戲伺服器拒絕此使用者名稱：{0}
+ErrorUnknown	有未知錯誤使您從伺服器斷線。
+ErrorIncorrectVersion	您執行的是較舊版本的遊戲。\r\n\r\n請更新以和其他人一起遊玩。
+	
+ServerNA	北美洲
+ServerEU	歐洲
+ServerAS	亞洲
+ServerSA	南美洲
+LangEnglish	English
+LangFrench	Français
+LangItalian	Italiano
+LangGerman	Deutsch
+LangSpanish	Español
+LangSpanishLATAM	Español (Latinoamérica)
+LangBrazPort	Português (Brasil)
+LangPort	Português
+LangRussian	Русский
+LangJapanese	日本語
+LangKorean	한국어
+LangDutch	Nederlands
+LangFilipino	Bisaya
+PlayerName	玩家
+MyTablet	我的平板
+Headquarters	總部
+DownloadTestEstTimeS	預估時間：{0} 秒
+DownloadTestEstTimeMS	預估時間：{0} 分 {1} 秒
+DownloadTestEstTimeHMS	預估時間：{0} 小時 {1} 分 {2} 秒
+DownloadTestEstTimeDHMS	預估時間：{0} 天 {1} 小時 {2} 分 {3} 秒
+DownloadComplete	完成
+GrabCoffee	去喝杯咖啡
+TakeBreak	休息一下
+DontNeedWait	您不需要一直等
+DoSomethingElse	去做點別的事
+NodeTB	節點_TB
+NodeIRO	節點_IRO
+NodeGI	節點_GI
+NodePD	節點_PD
+NodeCA	節點_CA
+NodeMLG	節點_MLG
+Vending	販賣
+OtherLanguage	其他
+ImposterAmtAny	1-3
+	
+VitalsORGN	橘
+VitalsBLUE	藍
+VitalsRED	紅
+VitalsBRWN	棕
+VitalsGRN	綠
+VitalsPINK	粉紅
+VitalsWHTE	白
+VitalsYLOW	黃
+VitalsBLAK	黑
+VitalsPURP	紫
+VitalsCYAN	青
+VitalsLIME	黃綠
+ColorOrange	橘色
+ColorBlue	藍色
+ColorRed	紅色
+ColorBrown	棕色
+ColorGreen	綠色
+ColorPink	粉紅色
+ColorWhite	白色
+ColorYellow	黃色
+ColorBlack	黑色
+ColorPurple	紫色
+ColorCyan	青色
+ColorLime	黃綠色
+ColorMaroon	深紅色
+ColorRose	玫紅色
+ColorBanana	蕉黃色
+ColorGray	灰色
+ColorTan	褐色
+ColorCoral	珊瑚紅
+MedID	識別：
+MedC	色彩：
+MedHT	身高：
+MedBT	血型：
+MedWT	體重：
+MedETA	預估時間：{0}
+MedHello	您好！
+LobbySizeWarning	《Among Us》至少需要 4 個玩家，但是建議由 5 個或更多的玩家參與。\n\n只有 4 個玩家的遊戲很快就會結束，且獲勝的通常都是偽裝者。
+Okay	好
+OkayDontShow	好，不要再顯示
+Nevermind	還是算了
+CamEast	東側
+CamCentral	中央
+CamNortheast	東北側
+CamSouth	南側
+CamSouthwest	西南側
+CamNorthwest	西北側
+LoadingFailed	載入失敗：
+PetFailFetchData	無法擷取寵物資料
+BadResult	不良結果
+More	剩下 {0} 次
+Processing	處理中
+ExitGame	結束遊戲
+WaitingForHost	正在等候主持者
+LeftGameError	{0} 因錯誤而離開遊戲。
+PlayerWasBannedBy	{0} 被 {1} 禁止進入
+PlayerWasKickedBy	{0} 被 {1} 踢出
+Dummy	假人
+Bad	錯誤
+Status	狀態：
+Fine	良好
+OK	好
+SecondsAbbv	{0} 秒
+PetTryOn	裝備看看吧！
+DataPolicyWhat	會收集哪些資料？
+	
+	
+	
+VaultRoom	保險庫
+Cockpit	駕駛艙
+Armory	軍械庫
+Kitchen	廚房
+ViewingDeck	觀景台
+HallOfPortraits	肖像廳
+Medical	醫務室
+CargoBay	貨倉
+Ventilation	通風室
+Showers	淋浴間
+Engine	引擎室
+Brig	牢房
+MeetingRoom	會議室
+Records	檔案室
+Lounge	休息室
+GapRoom	間隙室
+MainHall	大廳
+	
+PolishRuby	拋光紅寶石
+ResetBreakers	重設斷路器
+Decontaminate	除污
+MakeBurger	製作漢堡
+UnlockSafe	解鎖保險箱
+SortRecords	將記錄分類
+PutAwayPistols	收起手槍
+PutAwayRifles	收起步槍
+FixShower	修復淋浴間
+CleanToilet	清理馬桶
+DressMannequin	裝飾假人
+PickUpTowels	撿起毛巾
+RewindTapes	倒帶
+StartFans	啟動風扇
+DevelopPhotos	沖洗相片
+GetBiggolSword	取得 Biggol Sword
+StopCharles	避開墜毀路線
+	
+RevealCode	顯示代碼
+DirtyHeader	骯髒程度
+AuthLeftOkay	左側正常
+AuthRightOkay	右側正常
+AuthLeftActive	左側已啟動
+AuthRightActive	右側已啟動
+AuthLeftNotActive	左側未啟動
+AuthRightNotActive	右側未啟動
+EngagementScreen	按下任意按鈕以開始。
+DeleteButton	刪除
+QuickChat	快速聊天
+QCLocationLaptop	筆記型電腦
+QCLocationSkeld	Skeld
+QCLocationMira	Mira
+QCLocationPolus	Polus
+QCSystemsStart	開始
+QCSystemsKick	踢出
+QCCrewI	我
+QCCrewMe	我
+QCCrewNoOne	沒有人
+QCAccAKilledB	{0}殺死{1}
+QCAccAKilledBNeg	{0}沒有殺死{1}
+QCAccAIsSuspicious	{0}很可疑
+QCAccAIsSuspiciousNeg	{0}是好人
+QCAccASawBVent	{0}看到{1}使用通風口
+QCAccASawBVentNeg	{0}沒看過{1}使用通風口
+QCAccAWasChasingB	{0}在追殺{1}
+QCAccAWasChasingBNeg	{0}沒有在追殺{1}
+QCAccAIsLying	{0}在說謊
+QCAccAIsLyingNeg	{0}說的是實話
+QCAccVoteA	投給{0}
+QCAccVoteANeg	不要投給 {0}
+QCAccADidntReport	{0}沒有舉報屍體
+QCResYes	是
+QCResNo	否
+QCResDontKnow	不知道
+QCResDontKnowNeg	也許
+QCResAWas	{0}是
+QCResAWasNeg	{0}不是
+QCResADid	{0}做了
+QCResADidNeg	{0}沒有做
+QCResVote	投票
+QCResVoteNeg	跳過投票
+QCResAWasAtB	{0}在{1}
+QCResAWasAtBNeg	{0}不在{1}
+QCResRip	安息吧
+QCResRipNeg	嘿
+QCResLies	說謊
+QCResLiesNeg	好
+QCQstWhere	哪裡？
+QCQstWho	誰？
+QCQstWhoWasWith	誰和{0}在一起？
+QCQstWhatWasADoing	{0}在做什麼？
+QCQstWhoFixedA	誰修復了{0}？
+QCQstWhereWasA	{0}在哪裡？
+QCQstBodyOrMeeting	這是發現屍體還是緊急會議？
+QCStaASawB	{0}看到{1}
+QCStaAWasWithB	{0}和{1} 一起
+QCStaADidB	{0}做了{1}
+QCStaASelfReported	{0}自行舉報是兇手
+QCStaDoubleKill	那是雙殺
+QCStaWasSelfReport	那是兇手自行舉報
+QCStaPleaseDoTasks	請完成您的任務
+QCStaBodyWasInA	屍體位於{0}
+QCStaACalledMeeting	{0}召開了會議
+QCLocation	地點
+QCSystems	系統
+QCCrew	船員
+QCAccusation	指控
+QCResponse	回應
+QCQuestion	問題
+QCStatements	聲明
+ChatType	聊天類型
+QuickChatOnly	僅限快速聊天
+FreeChatOnly	僅限自由聊天
+FreeOrQuickChat	自由或快速聊天
+DateOfBirth	出生年月日
+DateOfBirthEnter	請輸入您的出生年月日：
+Month	月：
+Day	日：
+Year	年：
+January	一月
+February	二月
+March	三月
+April	四月
+May	五月
+June	六月
+July	七月
+August	八月
+September	九月
+October	十月
+November	十一月
+December	十二月
+Submit	提交
+	
+QCAccAKilledB_QCCrewMe_ANY	我殺了{1}
+QCAccAKilledB_QCCrewMe_QCCrewNoOne	我沒有殺死任何人
+QCAccAKilledB_QCCrewMe_QCCrewMe	
+QCAccAKilledB_ANY_QCCrewMe	{0}殺了我
+QCAccAKilledB	{0}殺了{1}
+QCAccAKilledB_ANY_QCCrewNoOne	{0} 沒有殺死任何人
+QCAccAKilledB_QCCrewNoOne_QCCrewMe	沒有人殺死我
+QCAccAKilledB_QCCrewNoOne_ANY	沒有人殺死{1}
+QCAccAKilledB_QCCrewNoOne_QCCrewNoOne	沒有人殺死任何人
+QCAccAKilledBNeg_QCCrewMe_ANY	我沒有殺死{1}
+QCAccAKilledBNeg_QCCrewMe_QCCrewNoOne	我沒有殺死任何人
+QCAccAKilledBNeg_QCCrewMe_QCCrewMe	我沒有殺死自己
+QCAccAKilledBNeg_ANY_QCCrewMe	{0}沒有殺死我
+QCAccAKilledBNeg	{0}沒有殺死{1}
+QCAccAKilledBNeg_ANY_QCCrewNoOne	{0}沒有殺死任何人
+QCAccAKilledBNeg_QCCrewNoOne_QCCrewMe	
+QCAccAKilledBNeg_QCCrewNoOne_ANY	
+QCAccAKilledBNeg_QCCrewNoOne_QCCrewNoOne	
+QCAccAIsSuspicious_QCCrewMe	我很可疑
+QCAccAIsSuspicious	{0}很可疑
+QCAccAIsSuspicious_QCCrewNoOne	沒有人很可疑
+QCAccAIsSuspiciousNeg_QCCrewMe	我是好人
+QCAccAIsSuspiciousNeg	{0}是好人
+QCAccAIsSuspiciousNeg_QCCrewNoOne	大家都是壞人
+QCAccASawBVent_QCCrewMe_ANY	我看到{1}使用通風口
+QCAccASawBVent_QCCrewMe_QCCrewNoOne	我沒有看到任何人使用通風口
+QCAccASawBVent_QCCrewMe_QCCrewMe	
+QCAccASawBVent_ANY_QCCrewMe	{0}看到我使用通風口
+QCAccASawBVent	{0}看到{1}使用通風口
+QCAccASawBVent_ANY_QCCrewNoOne	{0}沒有看到任何人使用通風口
+QCAccASawBVent_QCCrewNoOne_QCCrewMe	沒有人看到我使用通風口
+QCAccASawBVent_QCCrewNoOne_ANY	沒有人看到{1}使用通風口
+QCAccASawBVent_QCCrewNoOne_QCCrewNoOne	沒有人看到任何人使用通風口
+QCAccASawBVentNeg_QCCrewMe_ANY	我沒看過{1}使用通風口
+QCAccASawBVentNeg_QCCrewMe_QCCrewNoOne	我沒看過任何人使用通風口
+QCAccASawBVentNeg_QCCrewMe_QCCrewMe	
+QCAccASawBVentNeg_ANY_QCCrewMe	{0}沒看過我使用通風口
+QCAccASawBVentNeg	{0}沒看過{1}使用通風口
+QCAccASawBVentNeg_ANY_QCCrewNoOne	{0}沒看過任何人使用通風口
+QCAccASawBVentNeg_QCCrewNoOne_QCCrewMe	沒有人看過我使用通風口
+QCAccASawBVentNeg_QCCrewNoOne_ANY	沒有人看過{1}使用通風口
+QCAccASawBVentNeg_QCCrewNoOne_QCCrewNoOne	沒有人看過任何人使用通風口
+QCAccAWasChasingB_QCCrewMe_ANY	我在追殺{1}
+QCAccAWasChasingB_QCCrewMe_QCCrewNoOne	我沒有在追殺任何人
+QCAccAWasChasingB_QCCrewMe_QCCrewMe	
+QCAccAWasChasingB_ANY_QCCrewMe	{0}在追殺我
+QCAccAWasChasingB	{0}在追殺{1}
+QCAccAWasChasingB_ANY_QCCrewNoOne	{0}沒有在追殺任何人
+QCAccAWasChasingB_QCCrewNoOne_QCCrewMe	沒有人在追殺我
+QCAccAWasChasingB_QCCrewNoOne_ANY	沒有人在追殺{1}
+QCAccAWasChasingB_QCCrewNoOne_QCCrewNoOne	沒有人在追殺任何人
+QCAccAWasChasingBNeg_QCCrewMe_ANY	我沒有在追殺{1}
+QCAccAWasChasingBNeg_QCCrewMe_QCCrewNoOne	我沒有在追殺任何人
+QCAccAWasChasingBNeg_QCCrewMe_QCCrewMe	
+QCAccAWasChasingBNeg_ANY_QCCrewMe	{0}沒有在追殺我
+QCAccAWasChasingBNeg	{0}沒有在追殺{1}
+QCAccAWasChasingBNeg_ANY_QCCrewNoOne	{0}沒有在追殺任何人
+QCAccAWasChasingBNeg_QCCrewNoOne_QCCrewMe	
+QCAccAWasChasingBNeg_QCCrewNoOne_ANY	
+QCAccAWasChasingBNeg_QCCrewNoOne_QCCrewNoOne	
+QCAccAIsLying_QCCrewMe	我在說謊
+QCAccAIsLying	{0}在說謊
+QCAccAIsLying_QCCrewNoOne	沒有人在說謊
+QCAccAIsLyingNeg_QCCrewMe	我說的是實話
+QCAccAIsLyingNeg	{0}說的是實話
+QCAccAIsLyingNeg_QCCrewNoOne	沒有人說的是實話
+QCAccVoteA_QCCrewMe	投給我
+QCAccVoteA	投給{0}
+QCAccVoteA_QCCrewNoOne	不要投給任何人
+QCAccVoteANeg_QCCrewMe	不要投給我
+QCAccVoteANeg	不要投給{0}
+QCAccVoteANeg_QCCrewNoOne	
+QCAccADidntReport_QCCrewMe	我沒有舉報屍體
+QCAccADidntReport	{0}沒有舉報屍體
+QCAccADidntReport_QCCrewNoOne	
+QCResAWas_QCCrewMe	我是
+QCResAWas	{0}是
+QCResAWas_QCCrewNoOne	沒有人是
+QCResAWasNeg_QCCrewMe	我不是
+QCResAWasNeg	{0}不是
+QCResAWasNeg_QCCrewNoOne	
+QCResADid_QCCrewMe	我做了
+QCResADid	{0}做了
+QCResADid_QCCrewNoOne	沒有人做了
+QCResADidNeg_QCCrewMe	我沒有做
+QCResADidNeg	{0}沒有做
+QCResADidNeg_QCCrewNoOne	
+QCResAWasAtB_QCCrewMe_ANY	我在{1}
+QCResAWasAtB	{0}在{1}
+QCResAWasAtB_QCCrewNoOne_ANY	沒有人在{1}
+QCResAWasAtBNeg_QCCrewMe_ANY	我不在{1}
+QCResAWasAtBNeg	{0}不在{1}
+QCResAWasAtBNeg_QCCrewNoOne_ANY	
+QCQstWhoWasWith_QCCrewMe	誰和我在一起？
+QCQstWhoWasWith	誰和{0}在一起？
+QCQstWhoWasWith_QCCrewNoOne	誰獨自行動？
+QCQstWhatWasADoing_QCCrewMe	
+QCQstWhatWasADoing	{0}在做什麼？
+QCQstWhatWasADoing_QCCrewNoOne	
+QCQstWhereWasA_QCCrewMe	
+QCQstWhereWasA	{0}在哪裡？
+QCQstWhereWasA_QCCrewNoOne	
+QCStaASawB_QCCrewMe_ANY	我看到{1}
+QCStaASawB_QCCrewMe_QCCrewNoOne	我沒有看到任何人
+QCStaASawB_QCCrewMe_QCCrewMe	
+QCStaASawB_ANY_QCCrewMe	{0}看到我
+QCStaASawB	{0}看到{1}
+QCStaASawB_ANY_QCCrewNoOne	{0}沒有看到任何人
+QCStaASawB_QCCrewNoOne_QCCrewMe	沒有人看到我
+QCStaASawB_QCCrewNoOne_ANY	沒有人看到{1}
+QCStaASawB_QCCrewNoOne_QCCrewNoOne	沒有人看到任何人
+QCStaAWasWithB_QCCrewMe_ANY	我和{1}在一起
+QCStaAWasWithB_QCCrewMe_QCCrewNoOne	我沒有和任何人在一起
+QCStaAWasWithB_QCCrewMe_QCCrewMe	
+QCStaAWasWithB_ANY_QCCrewMe	{0}和我在一起
+QCStaAWasWithB	{0}和{1}在一起
+QCStaAWasWithB_ANY_QCCrewNoOne	{0}沒有和任何人在一起
+QCStaAWasWithB_QCCrewNoOne_QCCrewMe	沒有任何人和我在一起
+QCStaAWasWithB_QCCrewNoOne_ANY	沒有任何人和{1}在一起
+QCStaAWasWithB_QCCrewNoOne_QCCrewNoOne	沒有人和任何人在一起
+QCStaADidB_QCCrewMe_ANY	我做了{1}
+QCStaADidB	{0} 做了{1}
+QCStaADidB_QCCrewNoOne_ANY	沒有人做了{1}
+QCStaASelfReported_QCCrewMe	我自行舉報是兇手
+QCStaASelfReported	{0}自行舉報是兇手
+QCStaASelfReported_QCCrewNoOne	沒有人自行舉報是兇手
+QCStaACalledMeeting_QCCrewMe	我召開了會議
+QCStaACalledMeeting	{0}召開了會議
+QCStaACalledMeeting_QCCrewNoOne	沒有人召開了會議
+QCMore	更多
+SecurityLogsSystem	保全日誌
+SecurityCamsSystem	保全監視器
+AdminMapSystem	管理室地圖
+VitalsSystem	生命監測器
+EngagementScreenSignIn	正在登入...
+SaveGameOutOfSpaceConfirm	繼續
+EngagementScreen	按下任意按鈕以開始。
+SaveGameOutOfSpaceMessage	您是否想在不儲存的情況下繼續？
+SaveGameOutOfSpaceConfirm	繼續
+SaveGameOutOfSpaceCancel	重試
+Success	成功！
+Failed	失敗！
+ErrorCreate	建立帳號時發生錯誤。請稍後再試。
+SuccessCreate	您已成功建立帳號！
+Close	關閉
+ErrorLogIn	登入帳號時發生錯誤。請稍後再試。
+SuccessLogIn	您已成功登入您的帳號！
+AccountInfo	帳號資訊
+Account	帳號
+UserName	使用者名稱
+Height	身高
+Weight	體重
+SignIn	登入
+CreateAccount	建立帳號
+RequestPermission	要求許可
+RandomizeName	隨機命名
+AccountLinking	帳號連結
+ChangeName	變更名稱
+LogOut	登出
+GuardianWait	您必須等候監護人給予許可，才能使用自由聊天和變更使用者名稱。
+EmailEdit	編輯電子郵件
+EmailResend	重新傳送電子郵件
+GuestContinue	以訪客身分繼續
+GuardianEmailSent	已傳送監護人電子郵件
+GuardianCheckEmail	別忘了請您的監護人檢查他們的電子郵件，以解鎖所有遊戲功能。
+EditName	編輯名稱
+Name	名稱
+CreateAccountQuestion	建立帳號？
+DoYouWantCreate	您是否要建立帳號？
+PermissionRequired	需要許可
+NeedPermissionText	我們需要 (透過電子郵件) 獲得您監護人的許可才能繼續。如果他們同意，您將能使用線上自由聊天和變更使用者名稱。請尋求成人協助您！
+GuardianEmailTitle	監護人電子郵件
+Send	傳送
+NewEmail	新電子郵件
+ConfirmEmail	確認電子郵件
+EditEmail	編輯電子郵件
+Loading	載入中
+Welcome	歡迎
+GuardianEmail	[您監護人的電子郵件]
+	
+BanButton	禁止進入
+KickButton	踢出
+ReportButton	舉報
+ReportConfirmation	您已成功舉報下列使用者。
+ReportBadName	不當名稱
+ReportBadChat	不當聊天
+ReportHacking	破解/作弊
+ReportHarassment	騷擾/不當行為
+ReportWhy	您舉報這個使用者的原因是？
+DLLNotFoundAccountError	您在連線到線上服務時發生錯誤。在修正此問題之前，您只能以本地或自由模式進行遊戲。請稍後再試。
+ContinueOffline	進行離線遊戲
+WantToLogIn	您目前沒有登入任何帳號。
+GoOffline	離線
+PlayAsGuest	以訪客身分遊玩
+LogInTitle	登入您的帳號
+LogInInfoText	- 訪客帳號可以讓您不須連結帳號即可在線上遊玩，但如果您變更裝置或解除安裝《Among Us》，便無法取回您的帳號。\n- 如果您登入完整的帳號，便一律可以於未來再次登入。如果您沒有帳號，遊戲將自動為您建立一個。
+LogInInfoTextSwitch	如果您登入完整的帳號，便一律可以於未來再次登入。如果您沒有帳號，遊戲將自動為您建立一個。
+ControllerDisconnectedMessage	控制器已斷線
+FollowUs	追蹤我們！
+	
+QuickChatInstructionsStart	您的遊戲已設定為「僅限快速聊天」。
+QuickChatInstructionsChild	您必須獲得家長或監護人的許可才能使用完整聊天功能。
+QuickChatInstructionsGuest	您必須登入以變更此項目。
+QuickChatInstructionsFull	您可以在「設定」選單中變更此項目。
+	
+SwitchEShopBrowseAll	在 Nintendo eShop 上瀏覽所有物品
+	
+Download	下載
+Upload	上傳
+pk05_davehat	Dave 的帽子
+pk05_Ellie	Ellie
+pk05_Svenhat	Sven 的帽子
+pk05_Burthat	Burt 的帽子
+pk05_Ellryhat	Ellry 的龐克頭
+pk05_monocles	雙眼眼鏡
+pk05_cheesetoppat	起司高帽
+pk05_Macbethhat	Mr. Macbeth 的高帽
+pk05_HenryToppat	Henry 的高帽
+pk05_EllieToppat	Ellie 的高帽
+pk05_GeoffreyToppat	Geoffrey 的高帽
+	
+	
+InsufficientStorageError	儲存空間不足，無法下載資源包。請在裝置上挪出空間後再試一次。
+NetworkError	發生網路錯誤。請檢查連線設定後再試一次。
+OtherDownloadError	發生錯誤：{0}
+DownloadingLabel	正在下載 {0}
+DownloadSizeLabel	下載大小：{0}MB
+	
+TimeRemaining	剩餘時間：{0}
+DeadLabel	死亡
+	
+InviteFriends	邀請好友
+	
+NutriLabel	營養
+CO2Label	CO2
+RADLabel	輻射
+WaterLabel	水
+	
+DoorlogLabel	門禁日誌
+VitalsLabel	生命
+OptionsLabel	自訂
+ProceedLabel	繼續
+StartLabel	開始
+UseLabel	使用
+PlayAgain	再玩一次
+QuitLabel	退出
+ReportLabel	舉報
+SabotageLabel	破壞
+VentLabel	通風口
+KillLabel	殺死
+DiscussLabel	討論！
+SkippedVoting	已跳過投票
+SkipVoteLabel	跳過投票
+EmergencyMeeting	緊急會議
+BodyReported	已舉報屍體
+SkinLabel	外觀
+HatLabel	帽子
+PetLabel	寵物
+AnnouncementLabel	公告
+	
+UploadingLabel	上傳中
+ConnectionLabel	連線：
+NoneLabel	無
+PoorLabel	不佳
+GoodLabel	良好
+LogLabel	日誌
+ReadingLabel	數值
+WeatherDataDownload	下載氣候資料
+AirshipBundle	Airship 組合包
+PolusBundle	Polus 組合包
+PolusSkinBundle	Polus 地圖造型包
+MiraBundle	MIRA HQ 組合包
+MiraSkinBundle	MIRA HQ 造型包
+PetAlien2	壓床蟹寵物組合包
+PetAlien1	腦洞蟲寵物組合包
+PetAnimal	倉鼠球寵物組合包
+PetCrewmate	迷你船員組合包
+PetStickmin	Stickmin 寵物組合包
+PrisonerSkin	囚犯
+Cyborg_RHM	得力助手重生
+CCC_Officer	混亂控管中心主任
+BeginLabel	開始
+QuietLabel	噓！
+VentCleaning	清理通風口
+CleanUp	清理
+ProgressLabel	進度：
+TermsOfUseTitle	使用條款
+PPAndToUTitle	隱私權政策與使用條款
+	
+ErrorNotAuthenticated	《Among Us》伺服器無法驗證您的身分。\r\n\n您必須擁有《Among Us》帳號才能線上遊玩 (訪客帳號也可以！)。
+ComePlayDiscord	來和我一起玩《Among Us》吧！ 
+ShowAccountSupportID5	顯示帳號支援識別碼
+ShowAccountSupportID4	再按 4 次以顯示
+ShowAccountSupportID3	不要分享這組識別碼
+ShowAccountSupportID2	直播期間請勿點擊
+ShowAccountSupportID1	務必給我看這組識別碼
+SupportIDLabel	支援識別碼： {0}
+YouAreNotOnline	您不在線上。
+NoDeadBodiesFound	未發現屍體
+SupportEmail	如有任何支援相關問題，請連絡 support@innersloth.com。
+PerfectLabel	完美

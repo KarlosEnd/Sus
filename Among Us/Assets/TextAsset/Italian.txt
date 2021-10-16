@@ -1,0 +1,855 @@
+KEY ID	Italian
+LocalButton	Locale
+OnlineButton	Online
+HowToPlayButton	Istruzioni
+FreePlayButton	Gioco libero
+PublicHeader	Pubblica
+PrivateHeader	Privata
+HostHeader	Ospita
+ExitButton	Esci
+BackButton	Indietro
+AvailableGamesLabel	Partite disponibili
+CreateGameButton	Crea partita
+FindGameButton	Trova partita
+EnterCode	Inserisci codice
+GhostIgnoreTasks	Sei morto. Goditi il caos.
+GhostDoTasks	Sei morto. Completa gli incarichi per vincere.
+TotalTasksCompleted	Totale incarichi completati
+GhostImpostor	Sei morto. Puoi ancora sabotare.
+ImpostorTask	Sabota e uccidi tutti.
+FakeTasks	Finti incarichi:
+TaskComplete	Incarico completato!
+ExileTextSP	{0} era l'impostore.
+ExileTextSN	{0} non era l'impostore.
+ExileTextPP	{0} era un impostore.
+ExileTextPN	{0} non era un impostore.
+NoExileSkip	Nessuno è stato espulso. (Saltato)
+NoExileTie	Nessuno è stato espulso. (Pareggio)
+ExileTextNonConfirm	{0} è stato espulso.
+ImpostorsRemainS	Rimane {0} impostore.
+ImpostorsRemainP	Rimangono {0} impostori.
+Hallway	Corridoio
+Engines	Motori
+UpperEngine	Motore superiore
+Cafeteria	Mensa
+Weapons	Armeria
+Reactor	Reattore
+Security	Sicurezza
+MedBay	Infermeria
+LifeSupp	O2
+Nav	Sala comandi
+LowerEngine	Motore inferiore
+Electrical	Manutenzione
+Admin	Amministrazione
+Storage	Stiva
+Shields	Scudi
+Comms	Comunicazioni
+Decontamination	Decontaminazione
+Launchpad	Rampa di lancio
+LockerRoom	Spogliatoio
+Laboratory	Laboratorio
+Balcony	Balcone
+Office	Ufficio
+Greenhouse	Serra
+DivertPowerTo	Devia energia a: {0}
+AcceptDivertedPower	Accetta energia
+SubmitScan	Effettua scansione
+PrimeShields	Attiva scudi
+FuelEngines	Rifornisci motori
+ChartCourse	Traccia rotta
+StartReactor	Avvia reattore
+SwipeCard	Scorri tessera
+ClearAsteroids	Distruggi asteroidi
+DownloadData	Scarica dati
+UploadData	Carica dati
+InspectSample	Esamina campione
+EmptyChute	Svuota scivolo
+EmptyGarbage	Scarica rifiuti
+AlignEngineOutput	Allinea motore
+FixWiring	Ripara cavi
+CalibrateDistributor	Calibra distributore
+UnlockManifolds	Sblocca collettori
+ResetReactor	Fusione del reattore in
+FixLights	Ripara luci
+CleanO2Filter	Pulisci filtro O2
+FixComms	Comunicazioni sabotate
+RestoreOxy	Ossigeno esaurito tra
+StabilizeSteering	Stabilizza guida
+AssembleArtifact	Assembla artefatto
+SortSamples	Ordina campioni
+MeasureWeather	Misura clima
+EnterIdCode	Inserisci codice ID
+BuyBeverage	Compra bibita
+ProcessData	Elabora dati
+NumImpostorsS	<color=#FF1919FF>Un impostore</color> è tra di noi
+NumImpostorsP	Ci sono <color=#FF1919FF>{0} impostori</color> tra di noi
+Crewmate	Astronauta
+Impostor	Impostore
+Victory	Vittoria
+Defeat	Sconfitta
+CrewmatesDisconnected	Gran parte degli astronauti\nsi è disconnessa
+ImpostorDisconnected	L'impostore si è disconnesso
+PickAnomaly	Scegli anomalia
+WaterPlantsGetCan	Innaffiatoio preso!
+AuthOfficeOkay	Ufficio OK
+AuthCommsOkay	Comunicazioni OK
+AuthOfficeActive	Ufficio ATTIVO
+AuthCommsActive	Comunicazioni ATTIVE
+AuthOfficeNotActive	Ufficio INATTIVO
+AuthCommsNotActive	Comunicazioni INATTIVE
+SecLogEntry	{0} ha superato il sensore {1}
+LogNorth	Nord
+LogSouthEast	Sud-Est
+LogSouthWest	Sud-Ovest
+EnterName	Username
+SwipeCardPleaseInsert	Inserisci tessera
+SwipeCardPleaseSwipe	Scorri tessera
+SwipeCardBadRead	Errore. Riprova.
+SwipeCardTooFast	Troppo veloce. Riprova.
+SwipeCardTooSlow	Troppo lento. Riprova.
+SwipeCardAccepted	Accettato. Grazie.
+ReactorHoldToStop	Tieni premuto per fermare la fusione
+ReactorWaiting	In attesa del secondo utente
+ReactorNominal	Reattore stabile
+MeetingWhoIsTitle	Chi è l'impostore?
+MeetingVotingBegins	Il voto inizia tra {0} s
+MeetingVotingEnds	Il voto termina tra {0} s
+MeetingVotingResults	Risultati
+MeetingProceeds	Inizio tra: {0} s
+MeetingHasVoted	{0} ha votato. {1} rimanenti.
+HowToPlayText1	Among Us è un gioco di collaborazione e tradimenti.\n\nI giocatori sono astronauti o impostori.
+HowToPlayText2	Gioca in partite da 4 a 15 giocatori online o in locale via Wi-Fi!
+HowToPlayText41	Quando ospiti una partita, decidi tu le regole del gioco.
+HowToPlayText42	Prima, scegli con chi vuoi giocare!\n\nSe vuoi giocare con i tuoi amici online, imposta su "privata" e condividi il codice della stanza.\n\nSe vuoi giocare con altri giocatori da tutto il mondo, imposta su "pubblica".
+HowToPlayText43	Vuoi giocare con più incarichi, camminare più rapidamente o vuoi più impostori? Se sei l'host, puoi cambiare queste impostazioni. Consultati con gli altri giocatori riguardo alle tue modifiche.
+HowToPlayText44	Se qualcuno è sgarbato o spamma, l'host può espellere temporaneamente un giocatore come avvertimento o bannarlo dalla stanza.
+HowToPlayTextMap	I giocatori hanno accesso a una mappa personale per orientarsi.
+HowToPlayTextCrew1	Obiettivo: riempi la barra degli incarichi o identifica l'impostore.
+HowToPlayTextCrew2	Completa gli incarichi per riempire la barra.
+HowToPlayTextCrew3	Reagisci al sabotaggio dell'impostore.
+HowToPlayTextCrew4	Trovato l'impostore?\nConvoca una riunione!
+HowToPlayTextCrew5	Segnala i cadaveri.
+HowToPlayTextCrew6	Fai attenzione ad attività sospette in Amministrazione e Sicurezza.
+HowToPlayTextImp1	Obiettivo: uccidi l'equipaggio.
+HowToPlayTextImp2	Mimetizzati tra l'equipaggio.
+HowToPlayTextImp3	Muoviti attraverso i condotti.
+HowToPlayTextImp4	Fingi di completare incarichi.
+HowToPlayTextImp5	Sabota la nave e confondi l'equipaggio.
+HowToPlayTextImp6	Chiudi le porte e intrappola le tue vittime.
+HowToPlayTextImp7	Uccidi l'equipaggio quando le riunioni sono sospese.
+HowToPlayText5	Per mantenere il gioco bilanciato quando si gioca di persona, è vietato parlare.\n\nSe un giocatore viene ucciso dall'impostore, non può parlare fino alla fine della partita.\n\nI fantasmi continuano a completare gli incarichi assegnati per far vincere l'equipaggio.
+HowToPlayText6	Quando qualcuno segnala un cadavere o convoca una riunione d'emergenza, gli astronauti si riuniscono per discutere quello che sanno sull'impostore.\n\nI giocatori possono parlare liberamente e dire chi pensano sia un impostore. Quando si gioca di persona, i fantasmi non possono parlare, poiché sanno già chi è l'impostore.\n\nGli impostori provano a dimostrare la propria innocenza o ad accusare un altro astronauta.
+HowToPlayText7	Dopo la discussione, vota chi pensi che sia un impostore.\n\nChi riceve la maggioranza dei voti viene espulso dalla nave, perciò vota con attenzione!\n\nSe non ci sono abbastanza informazioni e l'equipaggio è d'accordo, si può anche saltare il voto per evitare di espellere un innocente e ottenere altre informazioni.
+HowToPlayText81	Fai pratica nella modalità Gioco libero!
+HowToPlayText82	Scegli i tuoi incarichi come astronauta o allenati a uccidere come impostore.
+SettingsGeneral	Generali
+SettingsControls	Comandi
+SettingsSound	Suono
+SettingsGraphics	Grafica
+SettingsData	Dati
+SettingsCensorChat	Censura chat
+SettingsMusic	Musica
+SettingsSFX	Effetti
+SettingsOn	Sì
+SettingsOff	No
+SettingsSendTelemetry	Invia telemetria
+SettingsControlMode	Modalità comandi
+SettingsTouchMode	Touch
+SettingsJoystickMode	Joystick
+SettingsKeyboardMode	Mouse e tastiera
+SettingsFullscreen	Schermo intero
+SettingsVSync	VSync
+SettingsResolution	Risoluzione
+SettingsApply	Applica
+SettingsPersonalizeAds	Personalizza annunci
+SettingsLanguage	Lingua
+SettingsJoystickSize	Dimensione
+SettingsMouseMode	Mouse
+MatchMapName	Mappa:
+MatchLanguage	Chat:
+MatchImpostors	Impostori:
+MatchMaxPlayers	Max giocatori:
+Cancel	Annulla
+Confirm	Conferma
+PlayerColor	Colore
+PlayerHat	Cappello
+PlayerSkin	Skin
+PlayerPet	Compagno
+GameSettings	Partita
+GameRecommendedSettings	Impostazioni suggerite
+GameCustomSettings	Impostazioni personalizzate
+GameMapName	Mappa
+GameNumImpostors	N° impostori
+GameNumMeetings	N° riunioni d'emergenza
+GameDiscussTime	Durata discussione
+GameVotingTime	Durata voto
+GamePlayerSpeed	Velocità giocatori
+GameCrewLight	Campo visivo astronauti
+GameImpostorLight	Campo visivo impostore
+GameKillCooldown	Ricarica uccisione
+GameKillDistance	Distanza uccisione
+GameCommonTasks	N° incarichi comuni
+GameLongTasks	N° incarichi lunghi
+GameShortTasks	N° incarichi brevi
+GameEmergencyCooldown	Ricarica riunione
+GameSecondsAbbrev	{0}s
+GameConfirmImpostor	Conferma espulsioni
+GameVisualTasks	Incarichi visivi
+GameAnonymousVotes	Voti anonimi
+GameTaskBarMode	Aggiornamento barra degli incarichi
+SettingNormalTaskMode	Sempre
+SettingMeetingTaskMode	Riunioni
+SettingInvisibleTaskMode	Mai
+Limit	Limite
+RoomCode	Codice
+LeaveGame	Abbandona
+ReturnToGame	Torna alla partita
+LocalHelp	Problemi di connessione?\n\n● Assicurati che tutti siano collegati alla stessa rete Wi-Fi\n● Assicurati che tutti abbiano la stessa versione del gioco (visibile in alto a sinistra)\n● Assicurati che il segnale Wi-Fi sia forte\n● A volte può essere utile che qualcun altro faccia da host\n● A volte può essere utile riavviare l'app...\n● A volte può essere utile riavviare lo smartphone...\n● Hai ancora problemi? Contattaci sul nostro server Discord!
+OnlineHelp	Come funziona?\n\n● Ospitare una partita fornisce un codice vicino al\npulsante Inizia.\n● Condividi il codice con i tuoi amici per creare una stanza privata.\n● Oppure tocca "Privata" per rendere la stanza pubblica e visibile a chi cerca una partita.\n● L'host può bannare o espellere i giocatori quando la\nchat è disponibile.\n● Hai ancora problemi? Contattaci sul nostro server Discord!
+EmergencyCount	L'ASTRONAUTA {0} HA\n\n\n\nRIUNIONI D'EMERGENZA RIMANENTI
+EmergencyNotReady	L'EQUIPAGGIO DEVE ASPETTARE\n\n\n\nPRIMA DELLA PROSSIMA EMERGENZA
+EmergencyDuringCrisis	NIENTE RIUNIONI D'EMERGENZA\nDURANTE LE CRISI
+EmergencyRequested	RICHIESTA RIUNIONE D'EMERGENZA\nIN ATTESA DELL'HOST
+AdPolicyTitle	Politica sugli annunci pubblicitari
+AdPolicyText	Possiamo utilizzare i tuoi dati personali per personalizzare gli annunci pubblicitari per te? Selezionando sì, i nostri partner pubblicitari come Google AdMob e Unity Ads raccoglieranno dati e utilizzeranno cookie e identificatori di dispositivo per la personalizzazione degli annunci. Selezionando no, potresti vedere annunci non personalizzati. Per non vedere nessuno annuncio, acquista [httpstore]qui[] l'aggiornamento per rimuovere gli annunci. In questo modo, quando fai da host, tu e i tuoi amici non vedrete nessun annuncio! Per saperne di più sulle nostre pratiche relative alla privacy e su quelle dei nostri partner pubblicitari, consulta la nostra [https://innersloth.com/privacy.php]informativa sulla privacy[]. Puoi modificare la tua scelta in qualsiasi momento nel menu impostazioni, alla voce Dati.
+Accept	Accetta
+RemoveAds	Rimuovi annunci
+PlainYes	Sì
+PlainNo	No
+PrivacyPolicyTitle	Informativa sulla privacy
+PrivacyPolicyText	Innersloth processa alcuni dati personali per Among Us. Leggi la nostra <link="https://innersloth.com/privacy.php">informativa sulla privacy</link> per saperne di più sulle nostre norme relative alla privacy. Puoi modificare le impostazioni sui tuoi dati personali sotto "Dati".
+ManageDataButton	Gestisci
+UnderstandButton	Ho capito
+WaterPlants	Innaffia le piante
+WeatherEta	Attendi {0}s
+WeatherComplete	Completato
+RunDiagnostics	Avvia diagnostica
+SettingShort	Breve
+SettingMedium	Medio
+SettingLong	Lungo
+SamplesPress	Premi per iniziare
+SamplesAdding	Aggiunta reagente
+SamplesSelect	Scegli anomalia
+SamplesThanks	Grazie!
+SamplesComplete	Test completato
+AstDestroyed	Distrutti: {0}
+TaskTestTitle	Incaricator 2000
+BeginDiagnostics	Inizia diagnostica
+UserLeftGame	{0} ha abbandonato.
+GameStarting	Inizio tra {0}
+ChatRateLimit	Troppo veloce. Aspetta {0} secondi
+Tasks	Incarichi
+MedscanRequested	Scansione richiesta
+MedscanWaitingFor	In attesa di {0}
+MedscanCompleted	Scansione completa!
+MedscanCompleteIn	Scansione completa tra {0}
+StatsTitle	Statistiche
+StatsBodiesReported	Cadaveri segnalati:\t
+StatsEmergenciesCalled	Riunioni avviate:\t
+StatsTasksCompleted	Incarichi completati:\t
+StatsAllTasksCompleted	Tutti gli incarichi completati:\t
+StatsSabotagesFixed	Sabotaggi riparati:\t
+StatsImpostorKills	Uccisioni da impostore:\t\t
+StatsTimesMurdered	Morti:\t
+StatsTimesEjected	Espulsioni:\t\t
+StatsCrewmateStreak	Serie da astronauta:\t
+StatsGamesImpostor	Partite da impostore:\t
+StatsGamesCrewmate	Partite da astronauta:\t
+StatsGamesStarted	Partite avviate:\t
+StatsGamesFinished	Partite completate:\t
+StatsImpostorVoteWins	Vittorie da impostore (voto):\t
+StatsImpostorKillsWins	Vittorie da impostore (uccisioni):\t
+StatsImpostorSabotageWins	Vittorie da impostore (sabotaggio):\t
+StatsCrewmateVoteWins	Vittorie da astronauta (voto):\t
+StatsCrewmateTaskWins	Vittorie da astronauta (incarichi):\t
+MonitorOxygen	Controlla albero
+StoreArtifacts	Riponi artefatti
+FillCanisters	Riempi bombole
+InsertKeys	Inserisci chiavi
+ResetSeismic	Ripristina stabilizzatori sismici
+SeismicHoldToStop	Tieni premuto per attivare gli stabilizzatori sismici
+SeismicNominal	Attività sismica stabile
+ScanBoardingPass	Scansiona carta d'imbarco
+FixWeatherNode	Ripara modulo climatico
+OpenWaterways	Apri valvole
+ReplaceWaterJug	Sostituisci boccione dell'acqua
+RepairDrill	Ripara trivella
+AlignTelescope	Allinea telescopio
+RecordTemperature	Registra temperatura
+RebootWifi	Riavvia WiFi
+WifiRebootRequired	Riavvio richiesto
+WifiPleaseWait	Attendi
+WifiPleaseReturnIn	Torna fra {0}
+WifiPleasePowerOn	Prego attivare
+WifiRebootComplete	Riavvio completato
+Outside	Esterno
+Dropship	Navicella
+Decontamination2	Decontaminazione
+Specimens	Sala campioni
+BoilerRoom	Locale caldaia
+GameOverImpostorDead	Normalmente, l'equipaggio avrebbe vinto perché l'impostore è morto. Nella modalità Gioco libero, tutti tornano in vita.
+GameOverImpostorKills	Normalmente, l'impostore avrebbe vinto perché l'equipaggio non può più vincere. Nella modalità Gioco libero, tutti tornano in vita.
+GameOverTaskWin	Normalmente, l'equipaggio avrebbe vinto perché la barra degli incarichi è piena. Nella modalità Gioco libero, vengono avviati nuovi incarichi.
+GameOverSabotage	Normalmente, l'impostore avrebbe vinto a causa del sabotaggio critico. Nella modalità Gioco libero, viene semplicemente riparato.
+HowToPlayText2Switch	Gioca in partite da 4 a 15 giocatori online con la tua iscrizione a Nintendo Switch Online o in locale via Wi-Fi!
+VentDirection	Direzione condotto
+VentMove	Muoviti nel condotto
+MenuNavigate	Esplora
+NsoError	Impossibile connettersi alla rete.
+ErrorServerOverload	I server di Among Us sono sovraccarichi.\r\n\r\nCi dispiace, riprova più tardi!
+ErrorIntentionalLeaving	Dopo esserti disconnesso volontariamente, non puoi unirti a un'altra partita per {0} minuti.
+ErrorFocusLost	Sei stato disconnesso perché Among Us è stato sospeso da un'altra app.
+ErrorBanned	Sei stato bannato da {0}.\r\n\r\nNon puoi tornare in quella stanza.
+ErrorKicked	Sei stato espulso da {0}.\r\n\r\nPuoi rientrare se la stanza non ha iniziato una partita.
+ErrorBannedNoCode	Sei stato bannato dalla stanza.\r\n\r\nNon puoi tornare in quella stanza.
+ErrorKickedNoCode	Sei stato espulso dalla stanza.\r\n\r\nPuoi rientrare se la stanza non ha iniziato una partita.
+ErrorHacking	Sei stato bannato per hacking.\r\n\r\nSmetti di farlo.
+ErrorFullGame	La partita è al completo e non puoi unirti.\r\n\r\nChiedi all'host se puoi partecipare alla prossima partita.
+ErrorStartedGame	La partita è iniziata e non puoi unirti.\r\n\r\nChiedi all'host se puoi partecipare alla prossima partita.
+ErrorNotFoundGame	Non è stato possibile trovare la partita che stai cercando.
+ErrorInactivity	Il server ha interrotto questa partita, forse per inattività.
+ErrorGenericOnlineDisconnect	Sei stato disconnesso dal server.\r\nSe succede spesso, controlla la potenza del segnale di rete.\r\nPotrebbe anche trattarsi di un problema al server.
+ErrorGenericLocalDisconnect	Sei stato disconnesso dall'host.\r\n\r\nSe succede spesso, controlla la potenza del segnale Wi-Fi.
+ErrorInvalidName	Il server ha rifiutato il nome utente: {0}
+ErrorUnknown	Sei stato disconnesso dal server per un errore sconosciuto.
+ErrorIncorrectVersion	Stai utilizzando una vecchia versione dell'applicazione.\r\n\r\nAggiornala per giocare con gli altri.
+	
+ServerNA	Nord America
+ServerEU	Europa
+ServerAS	Asia
+ServerSA	Sud America
+LangEnglish	English
+LangFrench	Français
+LangItalian	Italiano
+LangGerman	Deutsch
+LangSpanish	Español
+LangSpanishLATAM	Español (Latinoamérica)
+LangBrazPort	Português (Brasil)
+LangPort	Português
+LangRussian	Русский
+LangJapanese	日本語
+LangKorean	한국어
+LangDutch	Nederlands
+LangFilipino	Bisaya
+PlayerName	Astronauta
+MyTablet	Il mio tablet
+Headquarters	Quartier gener.
+DownloadTestEstTimeS	Tempo stimato: {0}s
+DownloadTestEstTimeMS	Tempo stimato: {0}m {1}s
+DownloadTestEstTimeHMS	Tempo stimato: {0}hr {1}m {2}s
+DownloadTestEstTimeDHMS	Tempo stimato: {0}d {1}hr {2}m {3}s
+DownloadComplete	Completato
+GrabCoffee	FATTI UN PANINO
+TakeBreak	FAI UNA PAUSA
+DontNeedWait	NON DEVI ASPETTARE
+DoSomethingElse	VAI A FARE ALTRO
+NodeTB	Nodo_TB
+NodeIRO	Nodo_IRO
+NodeGI	Nodo_GI
+NodePD	Nodo_PD
+NodeCA	Nodo_CA
+NodeMLG	Nodo_MLG
+Vending	ATTENDI
+OtherLanguage	Altra
+ImposterAmtAny	1-3
+	
+VitalsORGN	ARNC
+VitalsBLUE	BLU
+VitalsRED	ROSS
+VitalsBRWN	MARR
+VitalsGRN	VERD
+VitalsPINK	ROSA
+VitalsWHTE	BIAN
+VitalsYLOW	GIAL
+VitalsBLAK	NERO
+VitalsPURP	VIOL
+VitalsCYAN	CIAN
+VitalsLIME	LIME
+ColorOrange	ARANCIONE
+ColorBlue	BLU
+ColorRed	ROSSO
+ColorBrown	MARRONE
+ColorGreen	VERDE
+ColorPink	ROSA
+ColorWhite	BIANCO
+ColorYellow	GIALLO
+ColorBlack	NERO
+ColorPurple	VIOLA
+ColorCyan	CIANO
+ColorLime	LIME
+ColorMaroon	BORDEAUX
+ColorRose	CONFETTO
+ColorBanana	CREMA
+ColorGray	GRIGIO
+ColorTan	TORTORA
+ColorCoral	CORALLO
+MedID	ID:
+MedC	C:
+MedHT	A:
+MedBT	GS:
+MedWT	P:
+MedETA	ATTENDI {0}
+MedHello	SALVE!
+LobbySizeWarning	È possibile giocare ad Among Us in 4, ma consigliamo almeno 5 giocatori.\n\nLe partite con 4 giocatori saranno molto brevi e l'impostore vincerà spesso.
+Okay	OK
+OkayDontShow	OK, non mostrare più
+Nevermind	Annulla
+CamEast	Est
+CamCentral	Centrale
+CamNortheast	Nord-Est
+CamSouth	Sud
+CamSouthwest	Sud-Ovest
+CamNorthwest	Nord-Ovest
+LoadingFailed	Caricamento fallito:
+PetFailFetchData	dati compagni non trovati
+BadResult	ERRORE
+More	ANCORA {0}
+Processing	Elaborazione
+ExitGame	Abbandona partita
+WaitingForHost	In attesa dell'host
+LeftGameError	{0} ha abbandonato la partita a causa di un errore.
+PlayerWasBannedBy	{1} ha bannato {0}
+PlayerWasKickedBy	{1} ha espulso {0}
+Dummy	IA
+Bad	ERRORE
+Status	Stato: 
+Fine	BENE
+OK	OK
+SecondsAbbv	{0}s
+PetTryOn	Scegli qualcosa!
+DataPolicyWhat	Quali dati vengono raccolti?
+	
+	
+	
+VaultRoom	Caveau
+Cockpit	Cabina
+Armory	Armeria
+Kitchen	Cucina
+ViewingDeck	Ponte d'osservazione
+HallOfPortraits	Galleria
+Medical	Infermeria
+CargoBay	Stiva
+Ventilation	Ventilazione
+Showers	Docce
+Engine	Motori
+Brig	Celle
+MeetingRoom	Sala riunioni
+Records	Archivio
+Lounge	Lounge
+GapRoom	Stanza divisa
+MainHall	Salone
+	
+PolishRuby	Lucida rubino
+ResetBreakers	Ripristina interruttori
+Decontaminate	Decontamina
+MakeBurger	Prepara panino
+UnlockSafe	Sblocca cassaforte
+SortRecords	Ordina archivi
+PutAwayPistols	Riordina pistole
+PutAwayRifles	Riordina fucili
+FixShower	Aggiusta docce
+CleanToilet	Pulisci gabinetto
+DressMannequin	Vesti manichino
+PickUpTowels	Raccogli asciugamani
+RewindTapes	Riavvolgi nastri
+StartFans	Avvia ventole
+DevelopPhotos	Sviluppa foto
+GetBiggolSword	Prendi spada Biggol
+StopCharles	Evita collisione
+	
+RevealCode	Rivela codice
+DirtyHeader	SPORCO
+AuthLeftOkay	Lato sinistro OK
+AuthRightOkay	Lato destro OK
+AuthLeftActive	Lato sinistro ATTIVO
+AuthRightActive	Lato destro ATTIVO
+AuthLeftNotActive	Lato sinistro INATTIVO
+AuthRightNotActive	Lato destro INATTIVO
+EngagementScreen	Premi un pulsante per iniziare.
+DeleteButton	Elimina
+QuickChat	Chat rapida
+QCLocationLaptop	Portatile
+QCLocationSkeld	Skeld
+QCLocationMira	Mira 
+QCLocationPolus	Polus
+QCSystemsStart	Inizia
+QCSystemsKick	Espelli
+QCCrewI	Io
+QCCrewMe	Me
+QCCrewNoOne	Nessuno
+QCAccAKilledB	{0} ha ucciso {1}
+QCAccAKilledBNeg	{0} non ha ucciso {1}
+QCAccAIsSuspicious	{0} è sospetto
+QCAccAIsSuspiciousNeg	{0} è innocente
+QCAccASawBVent	{0} ha visto {1} usare un condotto
+QCAccASawBVentNeg	{0} non ha visto {1} usare un condotto
+QCAccAWasChasingB	{0} stava seguendo {1}
+QCAccAWasChasingBNeg	{0} non stava seguendo {1}
+QCAccAIsLying	{0} sta mentendo
+QCAccAIsLyingNeg	{0} dice la verità
+QCAccVoteA	Votate {0}
+QCAccVoteANeg	Non votate {0}
+QCAccADidntReport	{0} non ha segnalato il cadavere
+QCResYes	Sì
+QCResNo	No
+QCResDontKnow	Non lo so
+QCResDontKnowNeg	Forse
+QCResAWas	Era {0}
+QCResAWasNeg	Non era {0}
+QCResADid	L'ha fatto {0}
+QCResADidNeg	Non l'ha fatto {0}
+QCResVote	Votiamo
+QCResVoteNeg	Saltiamo il voto
+QCResAWasAtB	{0} era in {1}
+QCResAWasAtBNeg	{0} non era in {1}
+QCResRip	RIP
+QCResRipNeg	Fuori!
+QCResLies	Non è vero
+QCResLiesNeg	OK
+QCQstWhere	Dove?
+QCQstWho	Chi?
+QCQstWhoWasWith	Chi era con {0}?
+QCQstWhatWasADoing	Cosa stava facendo {0}?
+QCQstWhoFixedA	Chi ha riparato {0}?
+QCQstWhereWasA	Dov'era {0}?
+QCQstBodyOrMeeting	È stato trovato un cadavere o è una riunione d'emergenza?
+QCStaASawB	{0} ha visto {1}
+QCStaAWasWithB	{0} ero con {1}
+QCStaADidB	{0} ha fatto {1}
+QCStaASelfReported	{0} si è segnalato da solo
+QCStaDoubleKill	Era una doppia uccisione
+QCStaWasSelfReport	È un'auto-segnalazione
+QCStaPleaseDoTasks	Completate i vostri incarichi
+QCStaBodyWasInA	Il cadavere era in {0}
+QCStaACalledMeeting	{0} ha convocato una riunione
+QCLocation	Luoghi
+QCSystems	Sistemi
+QCCrew	Equipaggio
+QCAccusation	Accuse
+QCResponse	Risposte
+QCQuestion	Domande
+QCStatements	Dichiarazioni
+ChatType	Tipo di chat
+QuickChatOnly	Solo chat rapida
+FreeChatOnly	Solo chat libera
+FreeOrQuickChat	Chat libera e rapida
+DateOfBirth	Data di nascita
+DateOfBirthEnter	Inserisci la tua data di nascita:
+Month	Mese:
+Day	Giorno:
+Year	Anno:
+January	Gennaio
+February	Febbraio
+March	Marzo
+April	Aprile
+May	Maggio
+June	Giugno
+July	Luglio
+August	Agosto
+September	Settembre
+October	Ottobre
+November	Novembre
+December	Dicembre
+Submit	Conferma
+	
+QCAccAKilledB_QCCrewMe_ANY	Ho ucciso {1}
+QCAccAKilledB_QCCrewMe_QCCrewNoOne	Non ho ucciso nessuno
+QCAccAKilledB_QCCrewMe_QCCrewMe	
+QCAccAKilledB_ANY_QCCrewMe	{0} mi ha ucciso
+QCAccAKilledB	{0} ha ucciso {1}
+QCAccAKilledB_ANY_QCCrewNoOne	{0} non ha ucciso nessuno
+QCAccAKilledB_QCCrewNoOne_QCCrewMe	Nessuno mi ha ucciso
+QCAccAKilledB_QCCrewNoOne_ANY	Nessuno ha ucciso {1}
+QCAccAKilledB_QCCrewNoOne_QCCrewNoOne	Nessuno ha ucciso nessuno
+QCAccAKilledBNeg_QCCrewMe_ANY	Non ho ucciso {1}
+QCAccAKilledBNeg_QCCrewMe_QCCrewNoOne	Non ho ucciso nessuno
+QCAccAKilledBNeg_QCCrewMe_QCCrewMe	Non mi sono ucciso
+QCAccAKilledBNeg_ANY_QCCrewMe	{0} non mi ha ucciso
+QCAccAKilledBNeg	{0} non ha ucciso {1}
+QCAccAKilledBNeg_ANY_QCCrewNoOne	{0} non ha ucciso nessuno
+QCAccAKilledBNeg_QCCrewNoOne_QCCrewMe	
+QCAccAKilledBNeg_QCCrewNoOne_ANY	
+QCAccAKilledBNeg_QCCrewNoOne_QCCrewNoOne	
+QCAccAIsSuspicious_QCCrewMe	Sono sospetto
+QCAccAIsSuspicious	{0} è sospetto
+QCAccAIsSuspicious_QCCrewNoOne	Nessuno è sospetto
+QCAccAIsSuspiciousNeg_QCCrewMe	Sono innocente
+QCAccAIsSuspiciousNeg	{0} è innocente
+QCAccAIsSuspiciousNeg_QCCrewNoOne	Tutti sono sospetti
+QCAccASawBVent_QCCrewMe_ANY	Ho visto {1} usare un condotto
+QCAccASawBVent_QCCrewMe_QCCrewNoOne	Non ho visto nessuno usare un condotto
+QCAccASawBVent_QCCrewMe_QCCrewMe	
+QCAccASawBVent_ANY_QCCrewMe	{0} mi ha visto usare un condotto
+QCAccASawBVent	{0} ha visto {1} usare un condotto
+QCAccASawBVent_ANY_QCCrewNoOne	{0} non ha visto nessuno usare un condotto
+QCAccASawBVent_QCCrewNoOne_QCCrewMe	Nessuno mi ha visto usare un condotto
+QCAccASawBVent_QCCrewNoOne_ANY	Nessuno ha visto {1} usare un condotto
+QCAccASawBVent_QCCrewNoOne_QCCrewNoOne	Nessuno ha visto qualcuno usare un condotto
+QCAccASawBVentNeg_QCCrewMe_ANY	Non ho mai visto {1} usare un condotto
+QCAccASawBVentNeg_QCCrewMe_QCCrewNoOne	Non ho mai visto nessuno usare un condotto
+QCAccASawBVentNeg_QCCrewMe_QCCrewMe	
+QCAccASawBVentNeg_ANY_QCCrewMe	{0} non mi ha mai visto usare un condotto
+QCAccASawBVentNeg	{0} non ha mai visto {1} usare un condotto
+QCAccASawBVentNeg_ANY_QCCrewNoOne	{0} non ha mai visto nessuno usare un condotto
+QCAccASawBVentNeg_QCCrewNoOne_QCCrewMe	Nessuno mi ha mai visto usare un condotto
+QCAccASawBVentNeg_QCCrewNoOne_ANY	Nessuno ha mai visto {1} usare un condotto
+QCAccASawBVentNeg_QCCrewNoOne_QCCrewNoOne	Nessuno ha mai visto qualcuno usare un condotto
+QCAccAWasChasingB_QCCrewMe_ANY	Stavo seguendo {1}
+QCAccAWasChasingB_QCCrewMe_QCCrewNoOne	Non stavo seguendo nessuno
+QCAccAWasChasingB_QCCrewMe_QCCrewMe	
+QCAccAWasChasingB_ANY_QCCrewMe	{0} mi stava seguendo
+QCAccAWasChasingB	{0} stava seguendo {1}
+QCAccAWasChasingB_ANY_QCCrewNoOne	{0} non stava seguendo nessuno
+QCAccAWasChasingB_QCCrewNoOne_QCCrewMe	Nessuno mi stava seguendo
+QCAccAWasChasingB_QCCrewNoOne_ANY	Nessuno stava seguendo {1}
+QCAccAWasChasingB_QCCrewNoOne_QCCrewNoOne	Nessuno stava seguendo nessuno
+QCAccAWasChasingBNeg_QCCrewMe_ANY	Non stavo seguendo {1}
+QCAccAWasChasingBNeg_QCCrewMe_QCCrewNoOne	Non stavo seguendo nessuno
+QCAccAWasChasingBNeg_QCCrewMe_QCCrewMe	
+QCAccAWasChasingBNeg_ANY_QCCrewMe	{0} non mi stava seguendo
+QCAccAWasChasingBNeg	{0} non stava seguendo {1}
+QCAccAWasChasingBNeg_ANY_QCCrewNoOne	{0} non stava seguendo nessuno
+QCAccAWasChasingBNeg_QCCrewNoOne_QCCrewMe	
+QCAccAWasChasingBNeg_QCCrewNoOne_ANY	
+QCAccAWasChasingBNeg_QCCrewNoOne_QCCrewNoOne	
+QCAccAIsLying_QCCrewMe	Sto mentendo
+QCAccAIsLying	{0} sta mentendo
+QCAccAIsLying_QCCrewNoOne	Nessuno sta mentendo
+QCAccAIsLyingNeg_QCCrewMe	Dico la verità
+QCAccAIsLyingNeg	{0} dice la verità
+QCAccAIsLyingNeg_QCCrewNoOne	Nessuno dice la verità
+QCAccVoteA_QCCrewMe	Votatemi
+QCAccVoteA	Votate {0}
+QCAccVoteA_QCCrewNoOne	Non votate nessuno
+QCAccVoteANeg_QCCrewMe	Non votatemi
+QCAccVoteANeg	Non votate {0}
+QCAccVoteANeg_QCCrewNoOne	
+QCAccADidntReport_QCCrewMe	Non ho segnalato il cadavere
+QCAccADidntReport	{0} non ha segnalato il cadavere
+QCAccADidntReport_QCCrewNoOne	
+QCResAWas_QCCrewMe	Ero io
+QCResAWas	{0} era
+QCResAWas_QCCrewNoOne	Nessuno era
+QCResAWasNeg_QCCrewMe	Io no
+QCResAWasNeg	{0} no
+QCResAWasNeg_QCCrewNoOne	
+QCResADid_QCCrewMe	Io l'ho fatto
+QCResADid	{0} l'ha fatto
+QCResADid_QCCrewNoOne	Nessuno l'ha fatto
+QCResADidNeg_QCCrewMe	Io no
+QCResADidNeg	{0} no
+QCResADidNeg_QCCrewNoOne	
+QCResAWasAtB_QCCrewMe_ANY	Ero in {1}
+QCResAWasAtB	{0} era in {1}
+QCResAWasAtB_QCCrewNoOne_ANY	Nessuno era in {1}
+QCResAWasAtBNeg_QCCrewMe_ANY	Non ero in {1}
+QCResAWasAtBNeg	{0} non era in {1}
+QCResAWasAtBNeg_QCCrewNoOne_ANY	
+QCQstWhoWasWith_QCCrewMe	Chi era con me?
+QCQstWhoWasWith	Chi era con {0}?
+QCQstWhoWasWith_QCCrewNoOne	Chi era da solo?
+QCQstWhatWasADoing_QCCrewMe	
+QCQstWhatWasADoing	Cosa stava facendo {0}?
+QCQstWhatWasADoing_QCCrewNoOne	
+QCQstWhereWasA_QCCrewMe	
+QCQstWhereWasA	Dov'era {0}?
+QCQstWhereWasA_QCCrewNoOne	
+QCStaASawB_QCCrewMe_ANY	Ho visto {1}
+QCStaASawB_QCCrewMe_QCCrewNoOne	Non ho visto nessuno
+QCStaASawB_QCCrewMe_QCCrewMe	
+QCStaASawB_ANY_QCCrewMe	{0} mi ha visto
+QCStaASawB	{0} ha visto {1}
+QCStaASawB_ANY_QCCrewNoOne	{0} non ha visto nessuno
+QCStaASawB_QCCrewNoOne_QCCrewMe	Nessuno mi ha visto
+QCStaASawB_QCCrewNoOne_ANY	Nessuno ha visto {1}
+QCStaASawB_QCCrewNoOne_QCCrewNoOne	Nessuno ha visto qualcuno
+QCStaAWasWithB_QCCrewMe_ANY	Ero con {1}
+QCStaAWasWithB_QCCrewMe_QCCrewNoOne	Non ero con nessuno
+QCStaAWasWithB_QCCrewMe_QCCrewMe	
+QCStaAWasWithB_ANY_QCCrewMe	{0} era con me
+QCStaAWasWithB	{0} era con {1}
+QCStaAWasWithB_ANY_QCCrewNoOne	{0} non era con nessuno
+QCStaAWasWithB_QCCrewNoOne_QCCrewMe	Nessuno era con me
+QCStaAWasWithB_QCCrewNoOne_ANY	Nessuno era con {1}
+QCStaAWasWithB_QCCrewNoOne_QCCrewNoOne	Tutti erano da soli
+QCStaADidB_QCCrewMe_ANY	Io ho fatto: {1}
+QCStaADidB	{0} ha fatto: {1}
+QCStaADidB_QCCrewNoOne_ANY	Nessuno ha fatto: {1}
+QCStaASelfReported_QCCrewMe	Mi sono segnalato da solo
+QCStaASelfReported	{0} si è segnalato da solo
+QCStaASelfReported_QCCrewNoOne	Nessuno si è segnalato da solo
+QCStaACalledMeeting_QCCrewMe	Ho convocato una riunione
+QCStaACalledMeeting	{0} ha convocato una riunione
+QCStaACalledMeeting_QCCrewNoOne	Nessuno ha convocato una riunione
+QCMore	ANCORA
+SecurityLogsSystem	Registri di sicurezza
+SecurityCamsSystem	Telecamere di sicurezza
+AdminMapSystem	Mappa amministrazione
+VitalsSystem	Rilevatore segni vitali
+EngagementScreenSignIn	Accesso in corso...
+SaveGameOutOfSpaceConfirm	Continua
+EngagementScreen	Premi un pulsante per iniziare.
+SaveGameOutOfSpaceMessage	Vuoi continuare senza salvare?
+SaveGameOutOfSpaceConfirm	Continua
+SaveGameOutOfSpaceCancel	Riprova
+Success	Successo!
+Failed	Errore!
+ErrorCreate	Qualcosa è andato storto durante la creazione del tuo account. Riprova più tardi.
+SuccessCreate	Hai creato un account!
+Close	Chiudi
+ErrorLogIn	Qualcosa è andato storto durante l'accesso al tuo account. Riprova più tardi.
+SuccessLogIn	Hai effettuato l'accesso al tuo account!
+AccountInfo	INFORMAZIONI ACCOUNT
+Account	ACCOUNT
+UserName	NOME UTENTE
+Height	Altezza
+Weight	Peso
+SignIn	Accedi
+CreateAccount	Crea account
+RequestPermission	Richiedi permesso
+RandomizeName	Nome casuale
+AccountLinking	Collegamento account
+ChangeName	Cambia nome
+LogOut	Esci
+GuardianWait	Devi aspettare che il tuo tutore ti dia il permesso per usare la chat libera e modificare il tuo nome utente.
+EmailEdit	Modifica email
+EmailResend	Invia di nuovo email
+GuestContinue	Modalità ospite
+GuardianEmailSent	Inviata email al tutore
+GuardianCheckEmail	Non dimenticare di dire al tuo tutore di controllare l'email per sbloccare tutte le funzionalità del gioco
+EditName	Modifica nome
+Name	Nome
+CreateAccountQuestion	Creare account?
+DoYouWantCreate	Vuoi creare un account?
+PermissionRequired	Permesso richiesto
+NeedPermissionText	Prima di continuare, dovremo chiedere il permesso al tuo tutore (via email). Se avrai il permesso, potrai usare la chat libera online e cambiare il tuo nome utente. Chiedi aiuto a un adulto!
+GuardianEmailTitle	Email del tutore
+Send	Invia
+NewEmail	Nuova email
+ConfirmEmail	Conferma email
+EditEmail	Modifica email
+Loading	Caricamento
+Welcome	BENVENUTO
+GuardianEmail	[Email del tuo tutore]
+	
+BanButton	BANNA
+KickButton	ESPELLI
+ReportButton	SEGNALA
+ReportConfirmation	Hai segnalato l'utente seguente con successo.
+ReportBadName	Nome inappropriato
+ReportBadChat	Messaggi inappropriati
+ReportHacking	Hacking/Cheating
+ReportHarassment	Molestie/Comportamenti inappropriati
+ReportWhy	Perché stai segnalando questo utente?
+DLLNotFoundAccountError	Non è stato possibile connetterti ai servizi online. Finché il problema non sarà risolto, puoi giocare nelle modalità Locale e Gioco libero. Riprova più tardi.
+ContinueOffline	Gioca offline
+WantToLogIn	Al momento, non hai effettuato l'accesso a un account.
+GoOffline	Vai offline
+PlayAsGuest	Gioca come ospite
+LogInTitle	Accedi al tuo account
+LogInInfoText	- Un account ospite permette di giocare online senza collegare un account, ma non può essere recuperato se cambi dispositivo o rimuovi Among Us.\n- Se crei un account completo, puoi sempre accedere di nuovo in un secondo momento. Se non hai un account, ne verrà creato uno per te automaticamente.
+LogInInfoTextSwitch	Se crei un account completo, puoi sempre accedere di nuovo in un secondo momento. Se non hai un account, ne verrà creato uno per te automaticamente.
+ControllerDisconnectedMessage	Controller non collegato
+FollowUs	Seguici!
+	
+QuickChatInstructionsStart	Le tue impostazioni di chat sono regolate su: Solo chat rapida
+QuickChatInstructionsChild	Per accedere alla chat completa, devi chiedere il permesso a un genitore o a un tutore.
+QuickChatInstructionsGuest	Per modificare questa opzione, devi aver effettuato l'accesso.
+QuickChatInstructionsFull	Puoi modificare questa opzione nel menu Impostazioni.
+	
+SwitchEShopBrowseAll	Scopri tutti i prodotti sul Nintendo eShop
+	
+Download	Scarica
+Upload	Carica
+pk05_davehat	Cappello di Dave
+pk05_Ellie	Ellie
+pk05_Svenhat	Cappello di Sven
+pk05_Burthat	Cappello di Burt
+pk05_Ellryhat	Cresta di Ellry
+pk05_monocles	Doppio monocolo
+pk05_cheesetoppat	Tuba di formaggio
+pk05_Macbethhat	Tuba di Mr. Macbeth
+pk05_HenryToppat	Tuba di Henry
+pk05_EllieToppat	Tuba di Ellie
+pk05_GeoffreyToppat	Tuba di Geoffrey
+	
+	
+InsufficientStorageError	Spazio di archiviazione disponibile insufficiente per scaricare il pacchetto. Libera spazio sul tuo dispositivo e riprova.
+NetworkError	Si è verificato un errore di rete. Controlla le tue impostazioni di rete e riprova.
+OtherDownloadError	Si è verificato un errore: {0}
+DownloadingLabel	Download di {0} in corso
+DownloadSizeLabel	Dimensioni del download: {0} MB
+	
+TimeRemaining	Tempo rimanente: {0}
+DeadLabel	MORTI
+	
+InviteFriends	Invita amici
+	
+NutriLabel	NUTRIENTI
+CO2Label	CO2
+RADLabel	RAD
+WaterLabel	ACQUA
+	
+DoorlogLabel	PORTE
+VitalsLabel	SEGNI VITALI
+OptionsLabel	PERSONALIZZA
+ProceedLabel	PROCEDI
+StartLabel	INIZIA
+UseLabel	USA
+PlayAgain	GIOCA ANCORA
+QuitLabel	ESCI
+ReportLabel	SEGNALA
+SabotageLabel	SABOTA
+VentLabel	CONDOTTO
+KillLabel	UCCIDI
+DiscussLabel	DISCUTETE!
+SkippedVoting	VOTO SALTATO
+SkipVoteLabel	SALTA VOTO
+EmergencyMeeting	RIUNIONE D'EMERGENZA
+BodyReported	CADAVERE SEGNALATO
+SkinLabel	SKIN
+HatLabel	CAPPELLI
+PetLabel	COMPAGNI
+AnnouncementLabel	ANNUNCI
+	
+UploadingLabel	CARICAMENTO IN CORSO
+ConnectionLabel	Connessione:
+NoneLabel	NESSUNA
+PoorLabel	DEBOLE
+GoodLabel	BUONA
+LogLabel	REGISTRO
+ReadingLabel	ANALISI
+WeatherDataDownload	DOWNLOAD DATI CLIMA
+AirshipBundle	Pacchetto Airship
+PolusBundle	Pacchetto Polus
+PolusSkinBundle	Pacchetto skin Polus
+MiraBundle	Pacchetto MIRA HQ
+MiraSkinBundle	Pacchetto skin MIRA HQ
+PetAlien2	Pacchetto compagni Xenogranchio
+PetAlien1	Pacchetto compagni Cerebrolumaca
+PetAnimal	Pacchetto compagni Criceto
+PetCrewmate	Pacchetto Mininauta
+PetStickmin	Pacchetto compagni Stickmin
+PrisonerSkin	Prigioniero
+Cyborg_RHM	Right Hand Man Reborn
+CCC_Officer	Center for Chaos Containment Chief
+BeginLabel	AVVIA
+QuietLabel	SHHHHHHH!
+VentCleaning	Pulisci condotto
+CleanUp	Pulisci
+ProgressLabel	Progressi:
+TermsOfUseTitle	Termini d'utilizzo
+PPAndToUTitle	Informativa sulla privacy e Termini d'utilizzo
+	
+ErrorNotAuthenticated	Non è stato possibile autenticarti sui server di Among Us.\r\n\nPer giocare online, devi avere un account di Among Us. (Va bene anche un account ospite!)
+ComePlayDiscord	Gioca ad Among Us con me! 
+ShowAccountSupportID5	Mostra ID assistenza account
+ShowAccountSupportID4	Premi altre 4 volte per mostrare
+ShowAccountSupportID3	Non condividere questo ID
+ShowAccountSupportID2	Non cliccare se stai effettuando uno stream
+ShowAccountSupportID1	Confermo, mostrami questo ID
+SupportIDLabel	ID assistenza: {0}
+YouAreNotOnline	Sei offline.
+NoDeadBodiesFound	Nessun cadavere trovato
+SupportEmail	Contatta support@innersloth.com per qualsiasi richiesta di supporto.
+PerfectLabel	PERFETTO

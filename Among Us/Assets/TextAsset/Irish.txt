@@ -1,0 +1,855 @@
+KEY ID	Irish
+LocalButton	Logánta
+OnlineButton	Ar líne
+HowToPlayButton	Treoir imeartha
+FreePlayButton	Saorimirt
+PublicHeader	Poiblí
+PrivateHeader	Príobháideach
+HostHeader	Óstáil
+ExitButton	Scoir
+BackButton	Siar
+AvailableGamesLabel	Cluichí ar fáil
+CreateGameButton	Cruthaigh cluiche
+FindGameButton	Cuardaigh cluiche
+EnterCode	Iontráil an cód
+GhostIgnoreTasks	Fuair tú bás. Bain sult as an anord.
+GhostDoTasks	Fuair tú bás. Críochnaigh do chuid tascanna chun buachaint.
+TotalTasksCompleted	Líon na dtascanna críochnaithe
+GhostImpostor	Fuair tú bás. Féadfaidh tú fós sabaitéireacht a dhéanamh.
+ImpostorTask	Déan sabaitéireacht agus maraigh gach duine.
+FakeTasks	Bréagthascanna:
+TaskComplete	Tasc críochnaithe!
+ExileTextSP	Ba é {0} an Fealltóir.
+ExileTextSN	Níorbh é {0} an Fealltóir.
+ExileTextPP	Bhí {0} ina Fhealltóir.
+ExileTextPN	Ní raibh {0} ina Fhealltóir.
+NoExileSkip	Níor eisteilgeadh aon duine. (Léimthe)
+NoExileTie	Níor eisteilgeadh aon duine. (Comhscór)
+ExileTextNonConfirm	Eisteilgeadh {0}.
+ImpostorsRemainS	{0} Fealltóir fágtha.
+ImpostorsRemainP	{0} Fealltóir fágtha.
+Hallway	Halla
+Engines	Innill
+UpperEngine	Inneall Uachtair
+Cafeteria	Caifitéire
+Weapons	Armra
+Reactor	Imoibreoir
+Security	Slándáil
+MedBay	Otharlann
+LifeSupp	O2
+Nav	Stiúradh
+LowerEngine	Inneall Íochtair
+Electrical	Leictreach
+Admin	Riarachán
+Storage	Stóras
+Shields	Sciatha
+Comms	Cumarsáid
+Decontamination	Dí-éilliúchán
+Launchpad	Ceap Lainseála
+LockerRoom	Taisceadáin
+Laboratory	Saotharlann
+Balcony	Balcóin
+Office	Oifig
+Greenhouse	Teach Gloine
+DivertPowerTo	Seol cumhacht chuig {0}
+AcceptDivertedPower	Glac leis an gcumhacht sheolta
+SubmitScan	Cuir isteach scanadh
+PrimeShields	Prímeáil na sciatha
+FuelEngines	Cuir breosla sna hinnill
+ChartCourse	Rianaigh an cúrsa
+StartReactor	Tosaigh an t-imoibreoir
+SwipeCard	Svaidhpeáil do chárta
+ClearAsteroids	Scrios na hastaróidigh
+DownloadData	Íoslódáil na sonraí
+UploadData	Uaslódáil na sonraí
+InspectSample	Scrúdaigh an sampla
+EmptyChute	Folmhaigh an fánán
+EmptyGarbage	Folmhaigh an bruscar
+AlignEngineOutput	Ailínigh aschur na n-inneall
+FixWiring	Deisigh na sreanga
+CalibrateDistributor	Calabraigh an dáileoir
+UnlockManifolds	Díghlasáil na hiolracháin
+ResetReactor	Róthéifidh an t-imoibreoir i gceann
+FixLights	Deisigh na soilse
+CleanO2Filter	Glan an scagaire O2
+FixComms	Gabhadh den chumarsáid
+RestoreOxy	Folmhófar an ocsaigin i gceann
+StabilizeSteering	Cobhsaigh an stiúradh
+AssembleArtifact	Cóimeáil an déantúsán
+SortSamples	Rangaigh na samplaí
+MeasureWeather	Tomhais an aimsir
+EnterIdCode	Iontráil do chód ID
+BuyBeverage	Ceannaigh deoch
+ProcessData	Próiseáil na sonraí
+NumImpostorsS	Tá <color=#FF1919FF>Fealltóir amháin</color> inár measc
+NumImpostorsP	Tá <color=#FF1919FF>{0} Fealltóirí</color> inár measc
+Crewmate	Leathbhádóir
+Impostor	Fealltóir
+Victory	Bua
+Defeat	Cailleadh
+CrewmatesDisconnected	Dhícheangail\nan chuid is mó den chriú
+ImpostorDisconnected	Dhícheangail an Fealltóir
+PickAnomaly	Roghnaigh an aimhrialtacht
+WaterPlantsGetCan	Canna spréite a fháil
+AuthOfficeOkay	Oifig CGL
+AuthCommsOkay	Cumarsáid CGL
+AuthOfficeActive	Oifig BEO
+AuthCommsActive	Cumarsáid BEO
+AuthOfficeNotActive	Oifig MÚCHTA
+AuthCommsNotActive	Cumarsáid MÚCHTA
+SecLogEntry	Chuaigh {0} thar an mbraiteoir {1}
+LogNorth	thuaidh
+LogSouthEast	thoir theas
+LogSouthWest	thiar theas
+EnterName	Iontráil d'ainm
+SwipeCardPleaseInsert	Iontráil do chárta
+SwipeCardPleaseSwipe	Svaidhpeáil do chárta
+SwipeCardBadRead	Theip ar léamh. Bain triail as arís.
+SwipeCardTooFast	Róthapa! Bain triail as arís.
+SwipeCardTooSlow	Rómhall! Bain triail as arís.
+SwipeCardAccepted	Glacadh leis. Go raibh maith agat.
+ReactorHoldToStop	Coinnigh síos chun an róthéamh a stopadh.
+ReactorWaiting	Ag fanacht le húsáideoir eile
+ReactorNominal	Imoibreoir Ainmniúil
+MeetingWhoIsTitle	Cé hé an Fealltóir?
+MeetingVotingBegins	Tosóidh an Vótáil i gceann: {0}s
+MeetingVotingEnds	Críochnóidh an Vótáil i gceann: {0}s
+MeetingVotingResults	Torthaí Vótála
+MeetingProceeds	Ar aghaidh i gceann: {0}s
+MeetingHasVoted	Vótáil {0}. Ag fanacht le {1} duine.
+HowToPlayText1	Is cluiche comhoibhriú agus fealladh é Among Us.\n\nTá imreoirí in ann a bheith ina gcriú nó ina bhfealltóir.
+HowToPlayText2	Imir in éindí le 4 go 15 imreoir ar líne nó ar an WiFi áitiúil
+HowToPlayText41	Agus tú i d'óstach, tá smacht agat ar imirt an chluiche.
+HowToPlayText42	Ar dtús, roghnaigh cé leis a bhfuil tú chun imirt! \n\nFonn ort imirt le cairde ar líne? Cuir cluiche príobháideach ar bun agus roinn an cód. \n\nFonn ort imirt ar líne? Roghnaigh cluiche poiblí.
+HowToPlayText43	An bhfuil níos mó tascanna uait? Fonn ort rith níos tapúla? Níos mó Fealltóirí? Mar an t-óstach, is féidir leat na socruithe seo a athrú! Féach chuige go ndeimhníonn tú na hathruithe le do chomhimreoirí.
+HowToPlayText44	Má tá aon duine míbhéasach nó ag spamáil, féadfaidh an t-óstach fainic a chur ar imreoirí ach iad a dhíbirt go sealadach nó cosc a chur ar rochtain seomra ar líne áirithe.
+HowToPlayTextMap	Tá léarscáil ag gach duine chun a mbealach a dhéanamh tríd an spáslong.
+HowToPlayTextCrew1	Sprioc: Líon tascbharra an ghrúpa nó aimsigh an fealltóir.
+HowToPlayTextCrew2	Críochnaigh tascanna chun an barra a líonadh.
+HowToPlayTextCrew3	Téigh i ngleic leis an sabaitéireacht
+HowToPlayTextCrew4	Cuir cruinniú éigeandála ar bun nuair a thagtar ar an bhfealltóir.
+HowToPlayTextCrew5	Tuairiscigh coirp mharbha.
+HowToPlayTextCrew6	Seiceáil léarscáil an riaracháin agus an córas slándála le haghaidh ghníomhaíocht amhrasach.
+HowToPlayTextImp1	Sprioc: Maraigh an criú uilig.
+HowToPlayTextImp2	Tit isteach leis an gcriú.
+HowToPlayTextImp3	Éalaigh trí na gaothairí.
+HowToPlayTextImp4	Lig ort féin go bhfuil tú ag déanamh tascanna.
+HowToPlayTextImp5	Déan sabaitéireacht ar an spáslong agus cuir mearbhall ar an gcriú.
+HowToPlayTextImp6	Dún na doirse agus sáinnigh íospartaigh.
+HowToPlayTextImp7	Maraigh an Criú idir agaí athnuachana.
+HowToPlayText5	Fad is atá sibh i mbun cluichíochta libh féin, ní cheadaítear caint le go gcoinneofar an cluiche cothrom idir an Chriú agus an Fealltóir. \n\nMá mharaíonn an Fealltóir imreoir, ní féidir leo labhairt go gcríochnóidh an cluiche. \n\nReáchtálann Taibhsí a gcuid tascanna ag oibriú i dtreo buachan féideartha an criú.
+HowToPlayText6	Nuair a thuairiscítear corp nó nuair a chuirtear cruinniú éigeandála ar bun, pléann an Criú an méid atá ar eolas acu faoin bhfealltóir.\n\nIs féidir le himreoirí labhairt gan srian faoin té a cheapann siad arb é an fealltóir é agus an t-eolas atá acu air. Nuair a imríonn tú in éineacht le daoine eile, ní féidir le Taibhsí labhairt mar go bhfuil a fhios acu cé hé an Fealltóir.\n\nDéanfaidh an Fealltóir a n-iarracht go bhfuil siad gan urchóid a chruthú nó féadfaidh siad an milleán a chur ar leathbhádóirí eile.
+HowToPlayText7	Tar éis an scéal a phlé, vótáil don té a cheapann tú arb é an fealltóir é.\n\nPé duine a bhaineann tromlach na vótaí amach, eisteilgfear iad; vótáil go cúramach!\n\nMura bhfuil do dhóthain eolais agat agus chinn sibh mar Chriú, is féidir libh léim thar an bpróiseas vótála le heistealgan duine neamhchiontach a sheachaint. Gheobhaidh sibh deis eile teacht ar tuilleadh eolais dá bharr.
+HowToPlayText81	Déan cleachtadh sa mhód saorimeartha!
+HowToPlayText82	Socraigh do chuid thascanna féin mar Leathbhádóir nó déan cleachtadh ar do straitéisí maraithe mar Fhealltóir!
+SettingsGeneral	Ginearálta
+SettingsControls	Rialtáin
+SettingsSound	Fuaim
+SettingsGraphics	Graificí
+SettingsData	Sonraí
+SettingsCensorChat	Cinsireacht Chomhrá
+SettingsMusic	Ceol
+SettingsSFX	SFX
+SettingsOn	Ar siúl
+SettingsOff	Múchta
+SettingsSendTelemetry	Seol teiliméadracht
+SettingsControlMode	Mód smachta
+SettingsTouchMode	Tadhall
+SettingsJoystickMode	Luamhán Stiúrtha
+SettingsKeyboardMode	Luchóg+Méarchlár
+SettingsFullscreen	Lánscáileán
+SettingsVSync	VSync
+SettingsResolution	Taifeach
+SettingsApply	Cuir i bhfeidhm
+SettingsPersonalizeAds	Pearsantaigh fógraí
+SettingsLanguage	Teanga
+SettingsJoystickSize	Méid
+SettingsMouseMode	Luchóg
+MatchMapName	Léarscáil:
+MatchLanguage	Comhrá:
+MatchImpostors	Fealltóirí:
+MatchMaxPlayers	Uasimreoirí
+Cancel	Cealaigh
+Confirm	Deimhnigh
+PlayerColor	Dath
+PlayerHat	Hata
+PlayerSkin	Culaith
+PlayerPet	Peata
+GameSettings	Cluiche
+GameRecommendedSettings	Socruithe molta
+GameCustomSettings	Socruithe Saincheaptha
+GameMapName	Léarscáil
+GameNumImpostors	Fealltóirí
+GameNumMeetings	Cruinnithe Éigeandála
+GameDiscussTime	Am Díospóireachta
+GameVotingTime	Am Vótála
+GamePlayerSpeed	Luas Imreora
+GameCrewLight	Radharc an Chriú
+GameImpostorLight	Radharc an Fhealltóra
+GameKillCooldown	Aga Athnuachana (marú)
+GameKillDistance	Raon Inmharaithe
+GameCommonTasks	Tascanna Comónta
+GameLongTasks	Tascanna Fada
+GameShortTasks	Tascanna Gearra
+GameEmergencyCooldown	Athnuachan Éigeandála
+GameSecondsAbbrev	{0}s
+GameConfirmImpostor	Deimhnigh Eisteilgin
+GameVisualTasks	Tascanna Físiúla
+GameAnonymousVotes	Vótaí Gan Ainm
+GameTaskBarMode	Uasdátuithe Tascbharra
+SettingNormalTaskMode	I gcónaí
+SettingMeetingTaskMode	Cruinnithe
+SettingInvisibleTaskMode	Choíche
+Limit	Teorainn
+RoomCode	Cód
+LeaveGame	Fág an cluiche
+ReturnToGame	Fill ar an gcluiche
+LocalHelp	Fadhbanna ceangail?\n\n● Cinntigh go bhfuil gach duine ceangailte leis an WiFi céanna\n● Cinntigh go bhfuil an leagan ionann ag gach duine (féach ar an taobh clé thuas)\n● Cinntigh go bhfuil ceangal WiFi láidir agat\n● Scaití, cabhraíonn sé má óstálann duine eile\n● Scaití, cabhraíonn sé má atosaíonn tú an aip... \n● Scaití, cabhraíonn sé má atosaíonn tú d'fhón...\n● Fadhbanna fós agat? Cuir ar an eolas muid inár Discord!
+OnlineHelp	Conas a oibríonn sé?\n\n● Nuair a óstaíonn tú cluiche, bíonn cód in aice leis an gcnaipe chun tosú.\n● Roinn an cód le cairde chun cluiche príobháideach a chruthú.\n● Nó clic ar "Príobháideach" chun seomra poiblí a chruthú chun cluiche a lorg.\n● Is féidir leis an óstach imreoirí a dhíbirt nó cosc a chur orthu nuair atá an comhrá ar oscailt.\n● Fadhbanna fós agat? Inis dúinn ar Discord! 
+EmergencyCount	TÁ\n\n\n\nCRUINNIÚ FÁGTHA AG {0}
+EmergencyNotReady	CAITHFIDH AN CRIÚ FANACHT\n\n\n\nGO DTAGA AN CHÉAD CHRUINNIÚ EILE
+EmergencyDuringCrisis	NÍ FÉIDIR LEAT CRUINNIÚ A CHUR AR BUN\nI RITH GEARCHÉIME
+EmergencyRequested	CRUINNIÚ IARRTHA\nAG FANACHT LEIS AN ÓSTACH
+AdPolicyTitle	Polasaí Fógraíochta
+AdPolicyText	An féidir linn do shonraí pearsanta a úsáid chun fograí saincheaptha a chruthú duit? Má ghlacann tú leis seo, baileoidh ár gcuid comhpháirtithe fógraíochta Google AdMob agus Unity Ads do shonraí go huathoibríoch agus úsáidfidh siad fianáin agus aitheantóirí chun fógraí pearsantaithe a chruthú. Muna nglacann tú leo, seans ann go bhfeicfeá fógraí nach bhfuil curtha in oiriúint duit. Chun na fógraí ar fad a scriosadh, ceannaigh an t-uasghrádú saor ó fhógraí [httpstore]anseo[], agus ní fheicfidh tú nó do chairde aon fhógraí agus tú i d'óstach! Chun tuilleadh eolais a fhoghlaim faoinár gcomhpáirtithe fógraíochta agus ár mbeartas príobháideachais, téigh go [https://innersloth.com/privacy.php]Polasaí Príobháideachais[]. Is féidir do chinneadh a athrú uair ar bith i ríomhchlár na socruithe faoi "Sonraí".
+Accept	Glacaim leis
+RemoveAds	Bain fógraí
+PlainYes	Glacaim
+PlainNo	Ní ghlacaim
+PrivacyPolicyTitle	Polasaí Príobháideachais
+PrivacyPolicyText	Próiseálann Innersloth sonraí pearsanta ar mhaithe le Among Us. Léigh ár [https://innersloth.com/privacy.php]bPolasaí Príobháideachais[] le do thoil chun tuilleadh eolais a fháil faoinár gcleachtas príobháideachais. Is féidir leat socruithe do shonraí pearsanta in Among Us a bhainistiú faoi "Sonraí".
+ManageDataButton	Bainistigh Bailiú sonraí
+UnderstandButton	Tuigim
+WaterPlants	Uiscigh na plandaí
+WeatherEta	Fad measta: {0}s
+WeatherComplete	Críochnaithe
+RunDiagnostics	Rith diagnóisic
+SettingShort	Gearr
+SettingMedium	Meánach
+SettingLong	Fada
+SamplesPress	Brúigh chun tosú
+SamplesAdding	Ag cur imoibri
+SamplesSelect	Roghnaigh an aimhrialtacht
+SamplesThanks	Go raibh maith agat!
+SamplesComplete	Tastail chriochnaithe
+AstDestroyed	Scriosta: {0}
+TaskTestTitle	Tástálaí Tascanna 2000
+BeginDiagnostics	Tosaigh diagnóisic
+UserLeftGame	D'fhág {0} an cluiche.
+GameStarting	Ag tosú i gceann {0}
+ChatRateLimit	Róthapa. Fan go ceann {0} soicind
+Tasks	Tascanna
+MedscanRequested	Scanadh iarrtha
+MedscanWaitingFor	Ag fanacht le {0}
+MedscanCompleted	Scanadh críochnaithe!
+MedscanCompleteIn	Críochnaithe i gceann {0}
+StatsTitle	Staitisticí
+StatsBodiesReported	Coirp tuairiscithe:\t
+StatsEmergenciesCalled	Cruinnithe glaoite:\t
+StatsTasksCompleted	Tascanna críochnaithe:\t
+StatsAllTasksCompleted	Tascanna uile críochnaithe:\t
+StatsSabotagesFixed	Sabaitéireachtaí deisithe:\t
+StatsImpostorKills	Maruithe mar Fhealltóir:\t\t
+StatsTimesMurdered	Líon na mbásanna:\t
+StatsTimesEjected	Líon na n-eisteilgean:\t\t
+StatsCrewmateStreak	Sraith mar Chriú:\t
+StatsGamesImpostor	Cluichí mar Fhealltóir:\t
+StatsGamesCrewmate	Cluichí mar Chriú:\t
+StatsGamesStarted	Cluichí tosaithe:\t
+StatsGamesFinished	Cluichí críochnaithe:\t
+StatsImpostorVoteWins	Buanna fealltóra (Vóta):\t
+StatsImpostorKillsWins	Buanna fealltóra (Marú):\t
+StatsImpostorSabotageWins	Buanna fealltóra (Sabaitéireacht):\t
+StatsCrewmateVoteWins	Buanna criú (Vóta):\t
+StatsCrewmateTaskWins	Buanna criú (Tasc):\t
+MonitorOxygen	Coinnigh súil ar an gcrann
+StoreArtifacts	Stóráil na déantúsáin
+FillCanisters	Líon na ceanastair
+InsertKeys	Ionsáigh na heochracha
+ResetSeismic	Athshocraigh na cobhsaitheoirí seisemeacha
+SeismicHoldToStop	Coinnigh síos chun an cobhsaitheoir seismeach a chur ar siúl
+SeismicNominal	Gníomhaíocht sheismeach ainmniúil
+ScanBoardingPass	Scan do phas bordála
+FixWeatherNode	Deisigh nód na haimsire
+OpenWaterways	Oscail na huiscebhealaí
+ReplaceWaterJug	Athraigh an crúiscín uisce
+RepairDrill	Deisigh an druilire
+AlignTelescope	Ailínigh an teileascóp
+RecordTemperature	Taifead an teocht
+RebootWifi	Athbhútáil an Wi-Fi
+WifiRebootRequired	Athbhútáil de dhíth
+WifiPleaseWait	Fan linn
+WifiPleaseReturnIn	Fill i gceann {0}
+WifiPleasePowerOn	Cuir ar siúl
+WifiRebootComplete	Athbhútáil críochnaithe
+Outside	Lasmuigh
+Dropship	Loingín
+Decontamination2	Dí-éilliúchán
+Specimens	Seomra Eiseamail
+BoilerRoom	Seomra Coire
+GameOverImpostorDead	De ghnáth bheadh an bua ag an gCriú toisc go bhfuil an Fealltóir marbh. I gcás saorimeartha, athbheoitear gach duine.
+GameOverImpostorKills	De ghnáth bheadh an bua ag an bhFealltóir toisc nach bhféidir leis an gcriú buachan a fháil a thuilleadh. I gcás saorimeartha, athbheoitear gach duine.
+GameOverTaskWin	De ghnáth bheadh an bua ag an gCriú. I gcás saorimeartha, eisímid tascanna nua.
+GameOverSabotage	De ghnáth bheadh an bua ag an bhFealltóir de dheasca na sabaitéireachta criticiúla. Sa gcás seo, ní ghearann muid na hiarmhairtí.
+HowToPlayText2Switch	Imir in éindí le 4 go 15 imreoir le do bhallraíocht\n\nNintendo Switch Online nó ar an WiFi áitiúil!!
+VentDirection	Treo an ghaothaire
+VentMove	Bog tríd an ngaothaire
+MenuNavigate	Stiúir
+NsoError	Níorbh fhéidir ceangal leis an líonra.
+ErrorServerOverload	Tá an iomarca daoine ar na freastalaithe Among Us.\r\n\r\nGabhann muid ár leithscéal! Bain triail as arís níos déanaí!
+ErrorIntentionalLeaving	Ní féidir leat dul isteach i gcluiche eile go ceann {0} nóiméad eile tar éis duit dícheangal d'aon turas.
+ErrorFocusLost	Dícheangalaíodh thú mar gur cuireadh Among Us ar fionraí ag app eile.
+ErrorBanned	Cuireadh cosc ort ó {0}.\r\n\r\nNí féidir leat dul ar ais sa seomra seo.
+ErrorKicked	Díbríodh thú ó {0}.\r\n\r\nIs féidir leat dul ar ais mura bhfuil an seomra tosaithe.
+ErrorBannedNoCode	Cuireadh cosc ort ón seomra.\r\n\r\nNí féidir leat dul isteach sa seomra seo.
+ErrorKickedNoCode	Díbríodh thú ón seomra.\r\n\r\nIs féidir leat dul isteach mura bhfuil an seomra tosaithe.
+ErrorHacking	Cuireadh cosc ort toisc haiceála.\r\n\r\nStop, le do thoil.
+ErrorFullGame	Tá an cluiche a ndearna tú iarracht dul isteach ann lán.\r\n\r\nSeiceáil leis an óstach an féidir leat dul isteach ar an gcéad bhabhta eile.
+ErrorStartedGame	Thosaigh an cluiche a ndearna tú iarracht dul isteach ann cheana féin.\r\n\r\nSeiceáil leis an óstach an féidir leat dul isteach ar an gcéad bhabhta eile.
+ErrorNotFoundGame	Níorbh fhéidir do chluiche a bhí uait a aimsiú.
+ErrorInactivity	Stop freastalaí na gcluichí an cluiche seo. B'fhéidir mar gheall ar neamhghníomhaíocht.
+ErrorGenericOnlineDisconnect	Dícheangalaíodh thú ón bhfreastalaí.\r\nMá tharlaíonn sé seo go minic, seiceáil láidreacht do líonra.\r\nIs féidir go bhfuil an locht ar an bhfreastálaí chomh maith.
+ErrorGenericLocalDisconnect	Dícheangalaíodh thú ón bhfreastalaí.\r\nMá tharlaíonn sé seo go minic, seiceáil láidreacht do WiFi.
+ErrorInvalidName	Dhiúltaigh freastalaí na gcluichí an t-ainm úsáideora: {0}
+ErrorUnknown	Dhícheangal earráid anaithnid thú ón bhfreastalaí.
+ErrorIncorrectVersion	Tá seanleagan den chluiche in úsáid agat.\r\n\r\nUasdátaigh an cluiche chun imirt le daoine eile.
+	
+ServerNA	Meiriceá Thuaidh
+ServerEU	An Eoraip
+ServerAS	An Áise
+ServerSA	Meiriceá Theas
+LangEnglish	English
+LangFrench	Français
+LangItalian	Italiano
+LangGerman	Deutsch
+LangSpanish	Español
+LangSpanishLATAM	Español (Latinoamérica)
+LangBrazPort	Português (Brasil)
+LangPort	Português
+LangRussian	Русский
+LangJapanese	日本語
+LangKorean	한국어
+LangDutch	Nederlands
+LangFilipino	Bisaya
+PlayerName	Imreoir
+MyTablet	Mo tháibléad
+Headquarters	Ceannáras
+DownloadTestEstTimeS	Fad measta: {0}s
+DownloadTestEstTimeMS	Fad measta: {0}n {1}s
+DownloadTestEstTimeHMS	Fad measta: {0}u {0}n {1}s
+DownloadTestEstTimeDHMS	Fad measta: {0}l {0}u {0}n {1}s
+DownloadComplete	Críochnaithe
+GrabCoffee	FAIGH CAIFE
+TakeBreak	LIG DO SCITH
+DontNeedWait	NIL ORT FANACHT
+DoSomethingElse	DEAN RUD EIGIN EILE
+NodeTB	Nód_TB
+NodeIRO	Nód_IRO
+NodeGI	Nód_GI
+NodePD	Nód_PD
+NodeCA	Nód_CA
+NodeMLG	Nód_MLG
+Vending	Á DHÍOL
+OtherLanguage	Eile
+ImposterAmtAny	3-1
+	
+VitalsORGN	ORST
+VitalsBLUE	GORM
+VitalsRED	DRG
+VitalsBRWN	DONN
+VitalsGRN	GLAS
+VitalsPINK	BNDG
+VitalsWHTE	BÁN
+VitalsYLOW	BUÍ
+VitalsBLAK	DUBH
+VitalsPURP	CRCA
+VitalsCYAN	CIAN
+VitalsLIME	LMA
+ColorOrange	ORÁISTE
+ColorBlue	GORM
+ColorRed	DEARG
+ColorBrown	DONN
+ColorGreen	GLAS
+ColorPink	BÁNDEARG
+ColorWhite	BÁN
+ColorYellow	BUÍ
+ColorBlack	DUBH
+ColorPurple	CORCRA
+ColorCyan	CIAN
+ColorLime	LÍOMA
+ColorMaroon	MARÚN
+ColorRose	RÓS
+ColorBanana	BANANA
+ColorGray	LIATH
+ColorTan	CRÓN
+ColorCoral	COIRÉALACH
+MedID	ID:
+MedC	D:
+MedHT	A:
+MedBT	FG:
+MedWT	M:
+MedETA	Fad measta: {0}
+MedHello	HEILEO!
+LobbySizeWarning	Tá Among Us inimeartha le 4 imreoir, ach moltar 5 imreoir nó níos mó.\n\nCríochnóidh cluichí le 4 imreoir an-tapa agus bíonn an Fealltóir ina bhuaiteoir go minic.
+Okay	CGL
+OkayDontShow	Ceart go leor, ná taispeáin dom é seo
+Nevermind	Is cuma
+CamEast	Thoir
+CamCentral	Lárnach
+CamNortheast	Thoir Thuaidh
+CamSouth	Theas
+CamSouthwest	Thiar Theas
+CamNorthwest	Thiar Thuaidh
+LoadingFailed	Theip ar lódáil:
+PetFailFetchData	Níorbh fhéidir sonraí peata a aisghabháil
+BadResult	EARRÁID
+More	{0} EILE
+Processing	Á phróiseáil
+ExitGame	Scoir an Cluiche
+WaitingForHost	Ag fanacht leis an óstach
+LeftGameError	D'fhág {0} de dheasca earráide.
+PlayerWasBannedBy	Chuir {1} cosc ar {0}
+PlayerWasKickedBy	Dhíbir {1} {0}
+Dummy	Caochadán
+Bad	EARRÁID
+Status	Stádas:
+Fine	GLACTHA LEIS
+OK	CGL
+SecondsAbbv	{0}s
+PetTryOn	Triail rud éigin!
+DataPolicyWhat	Cad a bhailítear?
+	
+	
+	
+VaultRoom	Daingean
+Cockpit	Cró Píolóta
+Armory	Armlann
+Kitchen	Cistin
+ViewingDeck	Deic Féachana
+HallOfPortraits	Halla na bPortráidí
+Medical	Otharlann
+CargoBay	Bá Lastais
+Ventilation	Aeráil
+Showers	Cithfholcthaí
+Engine	Seomra Innill
+Brig	Bruig
+MeetingRoom	Seomra Cruinnithe
+Records	Cartlann
+Lounge	Tolglann
+GapRoom	Nascseomra
+MainHall	Príomh-halla
+	
+PolishRuby	Snasaigh an rúbín
+ResetBreakers	Athshocraigh na scoradáin
+Decontaminate	Dí-éilligh
+MakeBurger	Réitigh burgar
+UnlockSafe	Díghlasáil an taisceadán
+SortRecords	Rangaigh na taifid
+PutAwayPistols	Cuir na piostail ar shiúl
+PutAwayRifles	Cuir na raidhfilí ar shiúl
+FixShower	Deisigh an cith
+CleanToilet	Glan an leithreas
+DressMannequin	Gléas an mainicín
+PickUpTowels	Pioc suas na tuáillí
+RewindTapes	Cúlchas na fístéipeanna
+StartFans	Cuir ar siúl na gaothráin
+DevelopPhotos	Réal na grianghraif
+GetBiggolSword	Faigh an claíomh Biggol
+StopCharles	Iompaigh Cúrsa Tubaiste
+	
+RevealCode	Nocht an cód
+DirtyHeader	SALACH
+AuthLeftOkay	Taobh Clé CGL
+AuthRightOkay	Taobh Deas CGL
+AuthLeftActive	Taobh Clé BEO
+AuthRightActive	Taobh Deas BEO
+AuthLeftNotActive	Taobh Clé MÚCHTA
+AuthRightNotActive	Taobh Deas MÚCHTA
+EngagementScreen	Brúigh aon chnaipe chun tosú
+DeleteButton	Scrios
+QuickChat	Mearchomhrá
+QCLocationLaptop	Ríomhaire glúine
+QCLocationSkeld	Skeld
+QCLocationMira	Mira
+QCLocationPolus	Polus
+QCSystemsStart	Tosaigh
+QCSystemsKick	Díbir
+QCCrewI	Mise
+QCCrewMe	Mé
+QCCrewNoOne	Duine ar bith
+QCAccAKilledB	Mharaigh {0} {1}
+QCAccAKilledBNeg	Níor mharaigh {0} {1}
+QCAccAIsSuspicious	Tá {0} faoi amhras
+QCAccAIsSuspiciousNeg	Tá {0} gan amhras
+QCAccASawBVent	Chonaic {0} {1} ag dul i bhfolach sna gaothairí
+QCAccASawBVentNeg	Ní fhaca {0} {1} ag dul i bhfolach sna gaothairí
+QCAccAWasChasingB	Bhí {0} ar thóir {1}
+QCAccAWasChasingBNeg	Ní raibh {0} ar thóir {1}
+QCAccAIsLying	Tá {0} ag insint bréaga
+QCAccAIsLyingNeg	Tá {0} ag insint na fírinne
+QCAccVoteA	Vótáil do {0}
+QCAccVoteANeg	Ná vótáil do {0}
+QCAccADidntReport	Níor thuairiscigh {0} an corp
+QCResYes	Tá
+QCResNo	Níl
+QCResDontKnow	Níl a fhios agam
+QCResDontKnowNeg	B'fhéidir
+QCResAWas	Bhí {0}
+QCResAWasNeg	Ní raibh {0}
+QCResADid	Rinne {0}
+QCResADidNeg	Ní dhearna {0}
+QCResVote	Vótáil
+QCResVoteNeg	Léim thar vóta
+QCResAWasAtB	Bhí {0} sa {1}
+QCResAWasAtBNeg	Ní raibh {0} sa {1}
+QCResRip	RIP
+QCResRipNeg	dhíííteáil
+QCResLies	bréaga
+QCResLiesNeg	ceart go leor
+QCQstWhere	cén áit?
+QCQstWho	cé?
+QCQstWhoWasWith	cé a bhí le {0}?
+QCQstWhatWasADoing	céard a bhí ar bun ag {0}?
+QCQstWhoFixedA	cé a dheisigh {0}?
+QCQstWhereWasA	cá raibh {0}?
+QCQstBodyOrMeeting	Arbh é corp marbh nó cruinniú éigeandála a bhí i gceist?
+QCStaASawB	Chonaic {0} {1}
+QCStaAWasWithB	Bhí {0} le {1}
+QCStaADidB	Rinne {0} {1}
+QCStaASelfReported	Thuairiscigh {0} iad féin
+QCStaDoubleKill	Marú dúbailte a bhí ann
+QCStaWasSelfReport	Féinthuairisc a bhí ann
+QCStaPleaseDoTasks	Déan do chuid tascanna
+QCStaBodyWasInA	Bhí an corp sa {0}
+QCStaACalledMeeting	Chuir {0} cruinniú ar bun
+QCLocation	Suíomh
+QCSystems	Córais
+QCCrew	Criú
+QCAccusation	Cúiseamh
+QCResponse	Freagra
+QCQuestion	Ceist
+QCStatements	Ráitis
+ChatType	Cineál Comhrá
+QuickChatOnly	Mearchomhrá amháin
+FreeChatOnly	Saorchomhrá amháin
+FreeOrQuickChat	Saor nó Mearchomhrá
+DateOfBirth	Dáta breithe
+DateOfBirthEnter	Iontráil do dháta breithe
+Month	Mí:
+Day	Lá:
+Year	Bliain:
+January	Eanáir
+February	Feabhra
+March	Márta
+April	Aibreán
+May	Bealtaine
+June	Meitheamh
+July	Iúil
+August	Lúnasa
+September	Meán Fómhair
+October	Deireadh Fómhair
+November	Samhain
+December	Nollaig
+Submit	Cuir isteach
+	
+QCAccAKilledB_QCCrewMe_ANY	Mharaigh mé {1}
+QCAccAKilledB_QCCrewMe_QCCrewNoOne	Níor mharaigh mé éinne
+QCAccAKilledB_QCCrewMe_QCCrewMe	
+QCAccAKilledB_ANY_QCCrewMe	Mharaigh {0} mé
+QCAccAKilledB	Mharaigh {0} {1}
+QCAccAKilledB_ANY_QCCrewNoOne	Níor mharaigh {0} éinne
+QCAccAKilledB_QCCrewNoOne_QCCrewMe	Níor mharaigh duine ar bith mé
+QCAccAKilledB_QCCrewNoOne_ANY	Níor mharaigh duine ar bith {1}
+QCAccAKilledB_QCCrewNoOne_QCCrewNoOne	Níor mharaigh duine ar bith éinne
+QCAccAKilledBNeg_QCCrewMe_ANY	Níor mharaigh mé {1}
+QCAccAKilledBNeg_QCCrewMe_QCCrewNoOne	Níor mharaigh mé éinne
+QCAccAKilledBNeg_QCCrewMe_QCCrewMe	Níor chuir mé lámh i mo bhás féin
+QCAccAKilledBNeg_ANY_QCCrewMe	Níor mharaigh {0} mé
+QCAccAKilledBNeg	Níor mharaigh {0} {1}
+QCAccAKilledBNeg_ANY_QCCrewNoOne	Níor mharaigh {0} éinne
+QCAccAKilledBNeg_QCCrewNoOne_QCCrewMe	
+QCAccAKilledBNeg_QCCrewNoOne_ANY	
+QCAccAKilledBNeg_QCCrewNoOne_QCCrewNoOne	
+QCAccAIsSuspicious_QCCrewMe	Tá mé faoi amhras
+QCAccAIsSuspicious	Tá {0} faoi amhras
+QCAccAIsSuspicious_QCCrewNoOne	Níl aon duine faoi amhras
+QCAccAIsSuspiciousNeg_QCCrewMe	Tá mé gan amhras
+QCAccAIsSuspiciousNeg	Tá {0} gan amhras
+QCAccAIsSuspiciousNeg_QCCrewNoOne	Tá chuile dhuine faoi amhras
+QCAccASawBVent_QCCrewMe_ANY	Chonaic mé {1} ag dul i bhfolach sna gaothairí
+QCAccASawBVent_QCCrewMe_QCCrewNoOne	Chonaic mé duine ar bith ag dul i bhfolach sna gaothairí
+QCAccASawBVent_QCCrewMe_QCCrewMe	
+QCAccASawBVent_ANY_QCCrewMe	Chonaic {0} mé ag dul i bhfolach sna gaothairí
+QCAccASawBVent	Chonaic {0} {1} ag dul i bhfolach sna gaothairí
+QCAccASawBVent_ANY_QCCrewNoOne	Chonaic {0} duine ar bith ag dul i bhfolach sna gaothairí
+QCAccASawBVent_QCCrewNoOne_QCCrewMe	Ní fhaca éinne mé ag dul i bhfolach sna gaothairí
+QCAccASawBVent_QCCrewNoOne_ANY	Ní fhaca éinne {1} ag dul i bhfolach sna gaothairí
+QCAccASawBVent_QCCrewNoOne_QCCrewNoOne	Ní fhaca éinne duine ar bith ag dul i bhfolach sna gaothairí
+QCAccASawBVentNeg_QCCrewMe_ANY	Ní fhaca mé riamh {1} ag dul i bhfolach sna gaothairí
+QCAccASawBVentNeg_QCCrewMe_QCCrewNoOne	Ní fhaca mé riamh éinne ag dul i bhfolach sna gaothairí
+QCAccASawBVentNeg_QCCrewMe_QCCrewMe	
+QCAccASawBVentNeg_ANY_QCCrewMe	Ní fhaca {0} riamh mé ag dul i bhfolach sna gaothairí
+QCAccASawBVentNeg	Ní fhaca {0} riamh {1} ag dul i bhfolach sna gaothairí
+QCAccASawBVentNeg_ANY_QCCrewNoOne	Ní fhaca {0} riamh éinne ag dul i bhfolach sna gaothairí
+QCAccASawBVentNeg_QCCrewNoOne_QCCrewMe	Ní fhaca éinne riamh mé ag dul i bhfolach sna gaothairí
+QCAccASawBVentNeg_QCCrewNoOne_ANY	Ní fhaca éinne riamh {1} ag dul i bhfolach sna gaothairí
+QCAccASawBVentNeg_QCCrewNoOne_QCCrewNoOne	Ní fhaca éinne riamh duine ar bith ag dul i bhfolach sna gaothairí
+QCAccAWasChasingB_QCCrewMe_ANY	Bhí mé ar thóir {1}
+QCAccAWasChasingB_QCCrewMe_QCCrewNoOne	Ní raibh mé ar thóir éinne
+QCAccAWasChasingB_QCCrewMe_QCCrewMe	
+QCAccAWasChasingB_ANY_QCCrewMe	Bhí {0} ar mo thóir
+QCAccAWasChasingB	Bhí {0} ar thóir {1}
+QCAccAWasChasingB_ANY_QCCrewNoOne	Ní raibh {0} ar thóir éinne
+QCAccAWasChasingB_QCCrewNoOne_QCCrewMe	Ní raibh duine ar bith ar mo thóir
+QCAccAWasChasingB_QCCrewNoOne_ANY	Ní raibh duine ar bith ar thóir {1)
+QCAccAWasChasingB_QCCrewNoOne_QCCrewNoOne	Ní raibh duine ar bith ar thóir éinne
+QCAccAWasChasingBNeg_QCCrewMe_ANY	Ní raibh mé ar thóir {1}
+QCAccAWasChasingBNeg_QCCrewMe_QCCrewNoOne	Ní raibh mé ar thóir éinne
+QCAccAWasChasingBNeg_QCCrewMe_QCCrewMe	
+QCAccAWasChasingBNeg_ANY_QCCrewMe	Ní raibh {0} ar mo thóir
+QCAccAWasChasingBNeg	Ní raibh {0} ar thóir {1}
+QCAccAWasChasingBNeg_ANY_QCCrewNoOne	Ní raibh {0} ar thóir éinne
+QCAccAWasChasingBNeg_QCCrewNoOne_QCCrewMe	
+QCAccAWasChasingBNeg_QCCrewNoOne_ANY	
+QCAccAWasChasingBNeg_QCCrewNoOne_QCCrewNoOne	
+QCAccAIsLying_QCCrewMe	Tá mé ag insint bréaga
+QCAccAIsLying	Tá {0} ag insint bréaga
+QCAccAIsLying_QCCrewNoOne	Níl éinne ag insint bréaga
+QCAccAIsLyingNeg_QCCrewMe	Tá mé ag insint na fírinne
+QCAccAIsLyingNeg	Tá {0} ag insint na fírinne
+QCAccAIsLyingNeg_QCCrewNoOne	Níl éinne ag insint na fírinne
+QCAccVoteA_QCCrewMe	vótáil dom
+QCAccVoteA	vótáil do {0}
+QCAccVoteA_QCCrewNoOne	ná vótáil do dhuine ar bith
+QCAccVoteANeg_QCCrewMe	ná vótáil dom
+QCAccVoteANeg	ná vótáil do {0}
+QCAccVoteANeg_QCCrewNoOne	
+QCAccADidntReport_QCCrewMe	Níor thuairiscigh mé an corp
+QCAccADidntReport	Níor thuairiscigh {0} an corp
+QCAccADidntReport_QCCrewNoOne	
+QCResAWas_QCCrewMe	Bhí mé
+QCResAWas	Bhí {0}
+QCResAWas_QCCrewNoOne	Ní raibh éinne
+QCResAWasNeg_QCCrewMe	Ní raibh mé
+QCResAWasNeg	Ní raibh {0}
+QCResAWasNeg_QCCrewNoOne	
+QCResADid_QCCrewMe	Rinne mé
+QCResADid	Rinne {0}
+QCResADid_QCCrewNoOne	Ní dhearna duine
+QCResADidNeg_QCCrewMe	Ní dhearna mé
+QCResADidNeg	Ní dhearna {0}
+QCResADidNeg_QCCrewNoOne	
+QCResAWasAtB_QCCrewMe_ANY	Bhí mé sa {1}
+QCResAWasAtB	Bhí {0} sa {1}
+QCResAWasAtB_QCCrewNoOne_ANY	Ní raibh duine sa {1}
+QCResAWasAtBNeg_QCCrewMe_ANY	Ní raibh mé sa {1}
+QCResAWasAtBNeg	Ní raibh {0} sa {1}
+QCResAWasAtBNeg_QCCrewNoOne_ANY	
+QCQstWhoWasWith_QCCrewMe	cé a bhí liom?
+QCQstWhoWasWith	cé a bhí le {0}?
+QCQstWhoWasWith_QCCrewNoOne	cé a bhí ina n-aonar?
+QCQstWhatWasADoing_QCCrewMe	
+QCQstWhatWasADoing	céard a bhí ar bun ag {0}?
+QCQstWhatWasADoing_QCCrewNoOne	
+QCQstWhereWasA_QCCrewMe	
+QCQstWhereWasA	cá raibh {0}?
+QCQstWhereWasA_QCCrewNoOne	
+QCStaASawB_QCCrewMe_ANY	Chonaic mé {1}
+QCStaASawB_QCCrewMe_QCCrewNoOne	Ní fhaca mé éinne
+QCStaASawB_QCCrewMe_QCCrewMe	
+QCStaASawB_ANY_QCCrewMe	Chonaic {0} mé
+QCStaASawB	Chonaic {0} {1}
+QCStaASawB_ANY_QCCrewNoOne	Ní fhaca {0} éinne
+QCStaASawB_QCCrewNoOne_QCCrewMe	Ní fhaca éinne mé
+QCStaASawB_QCCrewNoOne_ANY	Ní fhaca éinne {1}
+QCStaASawB_QCCrewNoOne_QCCrewNoOne	Ní fhaca éinne duine ar bith
+QCStaAWasWithB_QCCrewMe_ANY	Bhí mé le {1}
+QCStaAWasWithB_QCCrewMe_QCCrewNoOne	Ní raibh mé le héinne
+QCStaAWasWithB_QCCrewMe_QCCrewMe	
+QCStaAWasWithB_ANY_QCCrewMe	Bhí {0} liom
+QCStaAWasWithB	Bhí {0} le {1}
+QCStaAWasWithB_ANY_QCCrewNoOne	Ní raibh {0} le héinne
+QCStaAWasWithB_QCCrewNoOne_QCCrewMe	Ní raibh éinne liom
+QCStaAWasWithB_QCCrewNoOne_ANY	Ní raibh éinne le {1}
+QCStaAWasWithB_QCCrewNoOne_QCCrewNoOne	Ní raibh éinne le duine ar bith
+QCStaADidB_QCCrewMe_ANY	Rinne mé an tasc "{1}"
+QCStaADidB	Rinne {0} an tasc "{1}"
+QCStaADidB_QCCrewNoOne_ANY	Ní dhearna éinne an tasc "{1}"
+QCStaASelfReported_QCCrewMe	Thuairiscigh mé mé féin
+QCStaASelfReported	Thuairiscigh {0} iad féin
+QCStaASelfReported_QCCrewNoOne	Níor thuairiscigh éinne iad féin
+QCStaACalledMeeting_QCCrewMe	Chuir mé cruinniú ar bun
+QCStaACalledMeeting	Chuir {0} cruinniú ar bun
+QCStaACalledMeeting_QCCrewNoOne	Níor chuir éinne cruinniú ar bun
+QCMore	NÍOS MÓ
+SecurityLogsSystem	Logaí Slándála
+SecurityCamsSystem	Ceamaraí Slándála
+AdminMapSystem	Léarscáil an Riaracháin
+VitalsSystem	Comharthaí Beatha
+EngagementScreenSignIn	Ag síneáil isteach...
+SaveGameOutOfSpaceConfirm	Ar aghaidh
+EngagementScreen	Brúigh aon chnaipe chun tosú
+SaveGameOutOfSpaceMessage	Ar mhaith leat leanúint ort gan sábháil?
+SaveGameOutOfSpaceConfirm	Ar aghaidh
+SaveGameOutOfSpaceCancel	Atriail
+Success	D'éirigh leis!
+Failed	Theip air!
+ErrorCreate	Tharla rud éigin as bealach agus an cuntas á chruthú. Bain triail as arís níos déanaí.
+SuccessCreate	D'éirigh leat cuntas a chruthú!
+Close	Dún
+ErrorLogIn	Tharla rud éigin as bealach agus tú ag síneáil isteach i do chuntas. Bain triail as arís níos déanaí.
+SuccessLogIn	D'éirigh leat síneáil isteach i do chuntas!
+AccountInfo	FAISNÉIS CHUNTAIS
+Account	CUNTAS
+UserName	Ainm Úsáideora
+Height	Airde
+Weight	Meáchan
+SignIn	Sínigh Isteach
+CreateAccount	Cruthaigh Cuntas
+RequestPermission	Iarr ar Chead
+RandomizeName	Randamaigh Ainm
+AccountLinking	Nascadh Cuntais
+ChangeName	Athraigh Ainm
+LogOut	Logáil Amach
+GuardianWait	Caithfidh tú fanacht le do chaomhnóir cead a thabhairt duit le húsáid a bhaint as an saorchomhrá agus le d'ainm úsáideora a athrú.
+EmailEdit	Cuir ríomhphost in eagar
+EmailResend	Athsheol ríomhphost
+GuestContinue	Lean ort mar Chuairteoir
+GuardianEmailSent	Ríomhphost caomhnóra seolta
+GuardianCheckEmail	Ná déan dearmad iarraidh ar do chaomhnóir a ríomhphost a sheiceáil le gnéithe an chluiche uilig a gnothú
+EditName	Cuir ainm in eagar
+Name	Ainm
+CreateAccountQuestion	Cruthaigh cuntas?
+DoYouWantCreate	An bhfuil fonn ort cuntas a chruthú?
+PermissionRequired	Cead de dhíth
+NeedPermissionText	Beidh orainn cead a iarradh ar do chaomhnóir (trí ríomhphost) sula leanóidh tú ort. Má thugann siad cead, beidh tú in ann úsáid a bhaint as saorchomhrá agus d'ainm úsáideora a athrú. Iarr ar dhuine fásta chun cabhrú leat!
+GuardianEmailTitle	Ríomhphost caomhnóra
+Send	Seol
+NewEmail	Ríomhphost nua
+ConfirmEmail	Deimhnigh ríomhphost
+EditEmail	Cuir ríomhphost in eagar
+Loading	Á lódáil
+Welcome	FÁILTE
+GuardianEmail	[r-phost do chaomhnóra]
+	
+BanButton	Coisc
+KickButton	Díbir
+ReportButton	Tuairisc
+ReportConfirmation	D'éirigh leat an t-úsáideoir a leanas a thuairisciú.
+ReportBadName	Ainm Úsáideora Neamhoiriúnach
+ReportBadChat	Teachtaireacht Neamhoiriúnach
+ReportHacking	Hacáil/Caimiléireacht
+ReportHarassment	Ciapadh/Mí-iompar
+ReportWhy	Cén fáth a bhfuil tú ag tuairisciú an úsáideora seo?
+DLLNotFoundAccountError	Tharla rud éigin as bealach agus tú ag ceangal le seirbhísí ar líne. Go dtí go mbeidh caoi air, ní féidir leat ach dul sa mhód Áitiúil nó Saorimeartha. Bain triail as níos déanaí.
+ContinueOffline	Imir as líne
+WantToLogIn	Níl tú logáilte isteach i gcuntas ar bith
+GoOffline	Téigh as líne
+PlayAsGuest	Imir mar Chuairteoir
+LogInTitle	Sínigh Isteach i do Chuntas
+LogInInfoText	- Ligeann cuntas cuairteora duit imirt ar líne gan chuntas a nascadh, ach ní féidir é a aisghabháil má athraíonn tú gléas nó má dhíshuiteálann tú Among Us.\n- Má shíneálann tú isteach i gcuntas ceart, is féidir leat síneáil isteach níos déanaí. Mura bhfuil cuntas agat, déanfar ceann go huathoibríoch duit.
+LogInInfoTextSwitch	Má shíneálann tú isteach i gcuntas ceart, is féidir leat síneáil isteach níos déanaí. Mura bhfuil cuntas agat, déanfar ceann go huathoibríoch duit.
+ControllerDisconnectedMessage	Dícheanglaíodh an Rialtán
+FollowUs	Lean muid!
+	
+QuickChatInstructionsStart	Tá do chuid socruithe chomhrá ionchluiche socraithe ar Mhearchomhrá Amháin.
+QuickChatInstructionsChild	Ní mór duit cead iarradh ar do thuiste nó caomhnóir le Lánchomhrá a rochtain.
+QuickChatInstructionsGuest	Sínigh isteach chun é seo a athrú
+QuickChatInstructionsFull	Féadfaidh tú é seo a athrú sa roghchlár Socruithe
+	
+SwitchEShopBrowseAll	Brabhsáil na hearraí uile ar Nintendo eShop
+	
+Download	Íoslódáil
+Upload	Uaslódáil
+pk05_davehat	Hata Dave
+pk05_Ellie	Ellie
+pk05_Svenhat	Hata Sven
+pk05_Burthat	Hata Burt
+pk05_Ellryhat	Mohawk Ellry
+pk05_monocles	Leathspéacla Dúbáilte
+pk05_cheesetoppat	Hata Ard Cáise
+pk05_Macbethhat	Hata Ard an Uasail Mhic Bheatha
+pk05_HenryToppat	Hata Ard Anraoi
+pk05_EllieToppat	Hata Ard Ellie
+pk05_GeoffreyToppat	Hata Ard Geoffrey
+	
+	
+InsufficientStorageError	Ní raibh do dhóthain stórais agat leis an bpaca acmhainne a íoslódáil. Cuir spás stóráis ar fáil ar do ghléas agus bain triail as arís le do thoil.
+NetworkError	Earráid líonra. Déan seic ar do shocruithe líonraí agus bain triail as arís
+OtherDownloadError	Earráid: {0}
+DownloadingLabel	Ag íoslódáil {0}
+DownloadSizeLabel	Méid an íoslódála: {0}MB
+	
+TimeRemaining	Am fágtha: {0}
+DeadLabel	MARBH
+	
+InviteFriends	Tabhair cuireadh do chairde
+	
+NutriLabel	BEATHAÍ
+CO2Label	CO₂
+RADLabel	RAD
+WaterLabel	UISCE
+	
+DoorlogLabel	LOGA DORAIS
+VitalsLabel	BEOCHT
+OptionsLabel	SAINCHEAP
+ProceedLabel	LEAN ORT
+StartLabel	TOSAIGH
+UseLabel	ÚSÁID
+PlayAgain	IMIR ARÍS
+QuitLabel	SCOIR
+ReportLabel	TUAIRISCIGH
+SabotageLabel	SABAITÉIREACHT
+VentLabel	TÉIGH SA GHAOTHAIRE
+KillLabel	MARAIGH
+DiscussLabel	PLÉIGÍ!
+SkippedVoting	VÓTA LÉIMTHE
+SkipVoteLabel	LÉIM AN VÓTA
+EmergencyMeeting	CRUINNIÚ ÉIGEANDÁLA
+BodyReported	CORP MARBH TUAIRISCITHE
+SkinLabel	CULTACHA
+HatLabel	HATAÍ
+PetLabel	PEATAÍ
+AnnouncementLabel	FÓGRAÍ
+	
+UploadingLabel	Á UASLÓDÁIL
+ConnectionLabel	Ceangal:
+NoneLabel	TADA
+PoorLabel	BOCHT
+GoodLabel	GO MAITH
+LogLabel	LOGA
+ReadingLabel	Á LÉAMH
+WeatherDataDownload	ÍOSLÓDÁIL SONRAÍ AIMSIRE
+AirshipBundle	Beart Airship
+PolusBundle	Beart Polus
+PolusSkinBundle	Beart Chulaith Polus
+MiraBundle	Beart MIRA HQ
+MiraSkinBundle	Beart Chulaith MIRA HQ
+PetAlien2	Beart Pheata Seadáin Leapa
+PetAlien1	Beart Pheata Smugairle Cinn
+PetAnimal	Beart Pheata Hamstair
+PetCrewmate	Beart Leathbhádóirín
+PetStickmin	Beart Pheata Stickmin
+PrisonerSkin	Príosúnach
+Cyborg_RHM	Cyborg RHM
+CCC_Officer	CCC
+BeginLabel	TOSAIGH
+QuietLabel	FUISTTTTTT!
+VentCleaning	Glan an Gaothaire
+CleanUp	Glan Suas
+ProgressLabel	Dul chun cinn:
+TermsOfUseTitle	Coinníollacha Úsáide
+PPAndToUTitle	Polasaí Príobháideachais agus Coinníollacha Úsáide
+	
+ErrorNotAuthenticated	Ní féidir le freastalaithe Among Us thu a dheimhniú.\r\n\nNí mór duit cuntas Among Us a fháil chun imirt ar líne. (Tá cuntas cuairteora ceart go leor!)
+ComePlayDiscord	Gabh i leith uait agus imir Among us liom!
+ShowAccountSupportID5	Taispeáin Aitheantas Thacaíocht Chuntais
+ShowAccountSupportID4	Brúigh 4 huair eile le taispeáint
+ShowAccountSupportID3	Ná scaip an t-aitheantas seo (3)
+ShowAccountSupportID2	Ná brúigh agus tú ag sruthú (2)
+ShowAccountSupportID1	Taispeáin dom an t-aitheantas seo go deimhin (1)
+SupportIDLabel	Aitheantas Tacaíochta: {0}
+YouAreNotOnline	Níl tú ar líne.
+NoDeadBodiesFound	Níor aimsíodh aon chorp marbh
+SupportEmail	Déan teagmháil le support@innersloth.com i gcás aon fhiosrúcháin tacaíochta.
+PerfectLabel	FOIRFE

@@ -1,0 +1,370 @@
+fileFormatVersion: 2
+guid: ec766ea11c67d0c4eae689ed0e77b29f
+timeCreated: 1634333954
+licenseType: Free
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: meeting_open
+  - first:
+      213: 21300002
+    second: meeting_textBubble
+  - first:
+      213: 21300004
+    second: meeting_base
+  - first:
+      213: 21300006
+    second: meeting_baseFront
+  - first:
+      213: 21300008
+    second: meeting_button
+  - first:
+      213: 21300010
+    second: meeting_closed
+  externalObjects: {}
+  usedFileIDs: []
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 1004
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: meeting_open
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 216
+        width: 146
+        height: 282
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45, y: 141}
+        - {x: -13, y: 141}
+        - {x: 4.9999995, y: 132}
+        - {x: 72.99999, y: 75}
+        - {x: 72.99999, y: 62}
+        - {x: 26, y: -141}
+        - {x: 13, y: -141}
+        - {x: -42.999996, y: -130}
+        - {x: -72.99999, y: -9}
+        - {x: -72.99999, y: 9}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d64d6affc8a42678c2d123727b8f52e
+      internalID: 21300000
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meeting_textBubble
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 296
+        width: 404
+        height: 202
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -76, y: 101}
+        - {x: -69, y: 101}
+        - {x: -64, y: 17}
+        - {x: 202, y: 17}
+        - {x: 202, y: -101}
+        - {x: -202, y: -101}
+        - {x: -202, y: 17}
+        - {x: -124, y: 22.999998}
+      physicsShape:
+      - - {x: 195, y: -101}
+        - {x: 201, y: -96}
+        - {x: 202, y: -94}
+        - {x: 202, y: 8}
+        - {x: 199, y: 12}
+        - {x: 195, y: 14.999999}
+        - {x: 187, y: 16}
+        - {x: 52, y: 16}
+        - {x: 39.999996, y: 17}
+        - {x: 28, y: 17}
+        - {x: -41, y: 16}
+        - {x: -65, y: 16}
+        - {x: -69, y: 17}
+        - {x: -69, y: 29.999998}
+        - {x: -70, y: 31}
+        - {x: -70, y: 98.99999}
+        - {x: -72, y: 101}
+        - {x: -75, y: 100}
+        - {x: -78, y: 95}
+        - {x: -81, y: 88}
+        - {x: -85, y: 82}
+        - {x: -97.99999, y: 56}
+        - {x: -101, y: 52}
+        - {x: -104, y: 45}
+        - {x: -107.99999, y: 39}
+        - {x: -112, y: 31}
+        - {x: -117.99999, y: 19.999998}
+        - {x: -123, y: 16}
+        - {x: -190, y: 16}
+        - {x: -195.99998, y: 14.999999}
+        - {x: -202, y: 9}
+        - {x: -202, y: -93}
+        - {x: -200, y: -97.99999}
+        - {x: -195, y: -101}
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb834db38dc402999115ef767e5c7a1
+      internalID: 21300002
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meeting_base
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 500
+        width: 503
+        height: 503
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -251.49998, y: -251.49998}
+        - {x: -251.49998, y: 251.49998}
+        - {x: 251.49998, y: 251.49998}
+        - {x: 251.49998, y: -251.49998}
+      physicsShape:
+      - - {x: -251.49998, y: 251.49998}
+        - {x: -251.49998, y: -251.49998}
+        - {x: 251.49998, y: -251.49998}
+        - {x: 251.49998, y: 251.49998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff09aa47439404797e20005609ab641
+      internalID: 21300004
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meeting_baseFront
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 183
+        width: 332
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -101, y: 17.5}
+        - {x: -88, y: 55.5}
+        - {x: -71, y: 55.5}
+        - {x: -28, y: 27.5}
+        - {x: 26, y: 29.499998}
+        - {x: 72, y: 55.5}
+        - {x: 88, y: 55.5}
+        - {x: 104, y: 2.4999998}
+        - {x: 151, y: 3.5}
+        - {x: 166, y: -49.499996}
+        - {x: 166, y: -55.5}
+        - {x: -166, y: -55.5}
+        - {x: -166, y: -48.5}
+        - {x: -148, y: 1.5}
+      physicsShape:
+      - - {x: 149, y: -3.5}
+        - {x: 145, y: 2.4999998}
+        - {x: 102, y: 2.4999998}
+        - {x: 91.99999, y: 39.5}
+        - {x: 89, y: 50.5}
+        - {x: 87, y: 55.5}
+        - {x: 72.99999, y: 55.5}
+        - {x: 69, y: 49.499996}
+        - {x: 66.99999, y: 45.5}
+        - {x: 50, y: 32.5}
+        - {x: 35, y: 26.499998}
+        - {x: 14.999999, y: 20.5}
+        - {x: -13, y: 20.5}
+        - {x: -32, y: 24.499998}
+        - {x: -59.999996, y: 38.5}
+        - {x: -72.99999, y: 55.5}
+        - {x: -85.99999, y: 55.5}
+        - {x: -89, y: 53.499996}
+        - {x: -98.99999, y: 15.5}
+        - {x: -102, y: 2.4999998}
+        - {x: -145, y: 2.4999998}
+        - {x: -149, y: 0.5}
+        - {x: -165, y: -46.5}
+        - {x: -166, y: -48.5}
+        - {x: -166, y: -55.5}
+        - {x: 166, y: -55.5}
+        - {x: 166, y: -48.5}
+        - {x: 155, y: -19.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d43fef80c94cb18b85cbb4945ed4c1
+      internalID: 21300006
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meeting_button
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 148
+        height: 179
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 74, y: 64.5}
+        - {x: 74, y: -89.5}
+        - {x: -74, y: -89.5}
+        - {x: -74, y: 78.5}
+        - {x: -24, y: 89.5}
+        - {x: 38, y: 89.5}
+      physicsShape:
+      - - {x: 33, y: 89.5}
+        - {x: -33, y: 89.5}
+        - {x: -53.999996, y: 80.5}
+        - {x: -74, y: 66.5}
+        - {x: -74, y: -89.5}
+        - {x: 74, y: -89.5}
+        - {x: 74, y: 68.5}
+        - {x: 42, y: 88.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85cd77deccce4e74808c2fc4339fcbff
+      internalID: 21300008
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meeting_closed
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 41
+        width: 222
+        height: 171
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -110, y: -24.499998}
+        - {x: -79.99999, y: 85.49999}
+        - {x: 79, y: 85.49999}
+        - {x: 111, y: -26.499998}
+        - {x: 111, y: -85.49999}
+        - {x: -111, y: -85.49999}
+        - {x: -111, y: -29.499998}
+      physicsShape:
+      - - {x: -98.99999, y: 81.5}
+        - {x: -101, y: 85.49999}
+        - {x: -111, y: 85.49999}
+        - {x: -111, y: 53.499996}
+        - {x: -93, y: 53.499996}
+        - {x: -91, y: 55.5}
+        - {x: -91, y: 59.499996}
+        - {x: -96, y: 73.49999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4c064a82c946feaa62c89efb69126c
+      internalID: 21300010
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices:
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag:
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData:
+  assetBundleName:
+  assetBundleVariant:

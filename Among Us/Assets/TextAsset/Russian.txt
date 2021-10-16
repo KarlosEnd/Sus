@@ -1,0 +1,855 @@
+KEY ID	Russian
+LocalButton	Локально
+OnlineButton	Онлайн
+HowToPlayButton	Как играть
+FreePlayButton	Песочница
+PublicHeader	Публичные комнаты
+PrivateHeader	Частная комната
+HostHeader	Создать комнату
+ExitButton	Выйти
+BackButton	Назад
+AvailableGamesLabel	Доступные игры
+CreateGameButton	Создать
+FindGameButton	Найти игру
+EnterCode	Ввести код
+GhostIgnoreTasks	Вы мертвы. Наслаждайтесь хаосом.
+GhostDoTasks	Вы мертвы. Для победы выполните все задания.
+TotalTasksCompleted	Всего заданий выполнено
+GhostImpostor	Вы мертвы. Все еще можно устроить саботаж.
+ImpostorTask	Устройте саботаж и убейте всех.
+FakeTasks	Фальшивые задания:
+TaskComplete	Задание выполнено!
+ExileTextSP	Член экипажа {0} был(-а) предателем.
+ExileTextSN	Член экипажа {0} не был(-а) предателем.
+ExileTextPP	Член экипажа {0} был(-а) одним из предателей.
+ExileTextPN	Член экипажа {0} не был(-а) предателем.
+NoExileSkip	Никого не выбросили (пропуск).
+NoExileTie	Никого не выбросили (ничья).
+ExileTextNonConfirm	{0} выбрасывают.
+ImpostorsRemainS	Берегитесь еще {0} предателя.
+ImpostorsRemainP	Берегитесь еще {0} предателей.
+Hallway	Коридор
+Engines	Моторы
+UpperEngine	Верхний мотор 
+Cafeteria	Столовая
+Weapons	Оружие
+Reactor	Реактор
+Security	Охрана
+MedBay	Медотсек
+LifeSupp	O2
+Nav	Навигация
+LowerEngine	Ниж. Мотор
+Electrical	Электрощит
+Admin	Админ
+Storage	Склад
+Shields	Щиты
+Comms	Связь
+Decontamination	Дезинфекция
+Launchpad	Стартовая площадка
+LockerRoom	Гардероб
+Laboratory	Лаб.
+Balcony	Балкон
+Office	Офис
+Greenhouse	Теплица
+DivertPowerTo	Подать энергию: «{0}»
+AcceptDivertedPower	Принять подачу энергии
+SubmitScan	Пройти скан.
+PrimeShields	Запустить щиты
+FuelEngines	Заправить моторы
+ChartCourse	Проложить маршрут
+StartReactor	Запустить реактор
+SwipeCard	Провести картой
+ClearAsteroids	Разрушить астероиды
+DownloadData	Скачать данные
+UploadData	Загрузить данные
+InspectSample	Исследовать образец
+EmptyChute	Очистить мусоросбор.
+EmptyGarbage	Выбросить мусор
+AlignEngineOutput	Выровнять отдачу моторов
+FixWiring	Починить проводку
+CalibrateDistributor	Откалибр. распред.
+UnlockManifolds	Открыть коллекторы
+ResetReactor	Расплавление в реакторе  
+FixLights	Освещение нарушено
+CleanO2Filter	Очистить фильтр O2
+FixComms	Саботаж связи
+RestoreOxy	Прекращение подачи O2  
+StabilizeSteering	Выровнять курс
+AssembleArtifact	Собрать артефакт
+SortSamples	Разобрать образцы
+MeasureWeather	Изучить погодные условия
+EnterIdCode	Ввести код доступа
+BuyBeverage	Купить напиток
+ProcessData	Обработать данные
+NumImpostorsS	Берегитесь <color=#FF1919FF>1 предателя</color> среди нас
+NumImpostorsP	Берегитесь <color=#FF1919FF>{0} предателей</color> среди нас
+Crewmate	Член экипажа
+Impostor	Предатель
+Victory	Победа
+Defeat	Поражение
+CrewmatesDisconnected	Большая часть экипажа\nотключилась
+ImpostorDisconnected	Предатель отключился
+PickAnomaly	Выберите аномалию
+WaterPlantsGetCan	Лейка найдена!
+AuthOfficeOkay	Офис: ОК
+AuthCommsOkay	Связь: ОК
+AuthOfficeActive	Офис: АКТИВНО
+AuthCommsActive	Связь: АКТИВНО
+AuthOfficeNotActive	Офис: НЕАКТИВНО
+AuthCommsNotActive	Связь: НЕАКТИВНО
+SecLogEntry	{0} проходит {1} сенсор
+LogNorth	северный
+LogSouthEast	юго-восточный
+LogSouthWest	юго-западный
+EnterName	Ваш ник
+SwipeCardPleaseInsert	Вставьте карту
+SwipeCardPleaseSwipe	Проведите картой
+SwipeCardBadRead	Не прочитано. Повторите.
+SwipeCardTooFast	Повторите медленнее.
+SwipeCardTooSlow	Повторите быстрее.
+SwipeCardAccepted	Принято. Спасибо.
+ReactorHoldToStop	Удерживайте для остановки расплавления
+ReactorWaiting	Ожидание второго пользователя
+ReactorNominal	Реактор в норме
+MeetingWhoIsTitle	Кто предатель?
+MeetingVotingBegins	До начала голосования: {0} с
+MeetingVotingEnds	До конца голосования: {0} с
+MeetingVotingResults	Итоги голосования
+MeetingProceeds	Продолжение через: {0} с
+MeetingHasVoted	{0}: голос отдан. Не голосовало: {1}.
+HowToPlayText1	Among Us — игра о командной работе и предательстве,\nгде игроки получают роль члена экипажа или предателя.
+HowToPlayText2	Можно играть онлайн или по локальной беспроводной сети в команде от 4 до 15 человек!
+HowToPlayText41	При создании игры можно установить собственные правила.
+HowToPlayText42	Сначала выберите, с кем хотите сыграть!\n\nЕсли хотите играть с друзьями, создайте частную комнату и поделитесь с ними кодом.\n\nЧтобы сыграть со случайными игроками, сделайте комнату общей.
+HowToPlayText43	Вам не хватает заданий? Или хочется бегать побыстрее? А может быть, нужно больше предателей? Создавая комнату, владелец может настроить игру по своему вкусу. Только не забудьте обсудить это с остальными!
+HowToPlayText44	Владелец может выгнать игроков за грубое поведение или спам в чате либо полностью их заблокировать для своей онлайн-комнаты.
+HowToPlayTextMap	У каждого игрока есть личная карта, которая поможет ориентироваться на корабле.
+HowToPlayTextCrew1	Цель: заполнить шкалу заданий или вычислить предателя.
+HowToPlayTextCrew2	Заполняйте шкалу, выполняя задания.
+HowToPlayTextCrew3	Устраняйте последствия саботажа.
+HowToPlayTextCrew4	Вычиcлили предателя? Созывайте собрание!
+HowToPlayTextCrew5	Сообщайте о найденных трупах.
+HowToPlayTextCrew6	Комнаты админа и охраны помогут засечь подозрительные действия.
+HowToPlayTextImp1	Ваша цель: убить всех членов экипажа.
+HowToPlayTextImp2	Смешивайтесь с толпой.
+HowToPlayTextImp3	Пробирайтесь по вентиляции.
+HowToPlayTextImp4	Притворяйтесь, что выполняете задания.
+HowToPlayTextImp5	Занимайтесь саботажем и запутывайте других.
+HowToPlayTextImp6	Блокируйте двери и готовьте засады.
+HowToPlayTextImp7	Убивайте по окончании перезарядки.
+HowToPlayText5	Играете вместе? Никаких разговоров! Игра должна быть честной.\n\nИгроки, убитые предателем, молчат до конца игры.\n\nПризраки по-прежнему могут выполнять задания, чтобы помочь команде победить.
+HowToPlayText6	Если кто-то сообщил о трупе или созвал срочное собрание, команда пытается вычислить предателя.\n\nТеперь игроки могут открыто предполагать, кто предатель, и делиться наблюдениями. Если вы играете вместе, призраки должны молчать, поскольку им точно известно, кто предатель.\n\nПредатели попытаются доказать свою невиновность или перевести подозрения на другого игрока.
+HowToPlayText7	После обсуждения проголосуйте за игрока, которого вы считаете предателем.\n\nИгрок, набравший большинство голосов, будет выброшен, так что хорошо обдумайте свое решение!\n\nЕсли имеющихся у вас сведений недостаточно, можно пропустить голосование, чтобы не выбросить невиновного и собрать больше информации.
+HowToPlayText81	Практикуйтесь в режиме песочницы!
+HowToPlayText82	Подберите себе задания, сыграв за члена экипажа, или отточите навыки убийства в роли предателя.
+SettingsGeneral	Общее
+SettingsControls	Управление
+SettingsSound	Звук
+SettingsGraphics	Графика
+SettingsData	Данные
+SettingsCensorChat	Фильтр чата
+SettingsMusic	Музыка
+SettingsSFX	Эффекты
+SettingsOn	Вкл.
+SettingsOff	Выкл.
+SettingsSendTelemetry	Отправка телеметрии
+SettingsControlMode	Режим управления
+SettingsTouchMode	Касание
+SettingsJoystickMode	Джойстик
+SettingsKeyboardMode	Клавиатура/мышь
+SettingsFullscreen	Полный экран
+SettingsVSync	Верт. синхронизация
+SettingsResolution	Разрешение
+SettingsApply	Применить
+SettingsPersonalizeAds	Подбор рекламы
+SettingsLanguage	Язык
+SettingsJoystickSize	Размер
+SettingsMouseMode	Мышь
+MatchMapName	Карта:
+MatchLanguage	Чат:
+MatchImpostors	Предателей:
+MatchMaxPlayers	Игроков (макс.):
+Cancel	Назад
+Confirm	Подтверд.
+PlayerColor	Цвет
+PlayerHat	Шапка
+PlayerSkin	Костюм
+PlayerPet	Питомец
+GameSettings	Игра
+GameRecommendedSettings	Рекомендованные настройки
+GameCustomSettings	Пользовательские настройки
+GameMapName	Карта
+GameNumImpostors	Предателей
+GameNumMeetings	Срочных собраний
+GameDiscussTime	Время на обсуждение
+GameVotingTime	Время на голосование
+GamePlayerSpeed	Скорость игроков
+GameCrewLight	Дальность обзора членов экипажа
+GameImpostorLight	Дальность обзора предателя
+GameKillCooldown	Перезарядка для убийства
+GameKillDistance	Дистанция убийств
+GameCommonTasks	Обычных заданий
+GameLongTasks	Долгих заданий
+GameShortTasks	Быстрых заданий
+GameEmergencyCooldown	Перерыв между собраниями
+GameSecondsAbbrev	{0} с
+GameConfirmImpostor	Показывать роль выброшенного
+GameVisualTasks	Видимые задания
+GameAnonymousVotes	Тайное голосование
+GameTaskBarMode	Обновление шкалы заданий
+SettingNormalTaskMode	Постоянно
+SettingMeetingTaskMode	На собрании
+SettingInvisibleTaskMode	Никогда
+Limit	максимум; сейчас
+RoomCode	Код
+LeaveGame	Покинуть игру
+ReturnToGame	Вернуться в игру
+LocalHelp	Проблемы с соединением?\n\n● Убедитесь, что все игроки подключены к одной\nточке доступа Wi-Fi.\n● Убедитесь, что у всех игроков установлена одна версия игры (указана в левом верхнем углу).\n● Убедитесь, что сигнал Wi-Fi стабилен.\n● Попробуйте сменить владельца создаваемой игры.\n● Попробуйте перезапустить приложение...\n● Попробуйте перезапустить устройство...\n● Не получилось решить проблему? Напишите нам в Discord!
+OnlineHelp	Как все устроено?\n\n● После создания игры вы увидите код рядом с кнопкой начала игры.\n● Поделитесь кодом с друзьями для создания\nчастной комнаты.\n● Нажмите «Частная», если хотите сделать комнату открытой для поиска другими игроками.\n● Владелец может выгнать или заблокировать любого игрока, если доступен чат.\n● Остались вопросы? Напишите нам в Discord!
+EmergencyCount	СРОЧНЫХ СОБРАНИЙ, КОТОРЫЕ\n\n\n\nМОЖЕТ СОЗВАТЬ {0}:
+EmergencyNotReady	ТРЕБУЕТСЯ ПОДОЖДАТЬ\n\n\n\nДО СЛЕДУЮЩЕГО СОБРАНИЯ:
+EmergencyDuringCrisis	СРОЧНОЕ СОБРАНИЕ НЕЛЬЗЯ\nСОЗВАТЬ В КРИЗИС
+EmergencyRequested	ЗАПРОС НА СРОЧНОЕ СОБРАНИЕ\n\n\n\nОЖИДАНИЕ ВЛАДЕЛЬЦА
+AdPolicyTitle	Рекламная политика
+AdPolicyText	Позвольте нам использовать ваши данные для подбора персонализированной рекламы. Если вы выберете «Да», наши партнеры Google AdMob и Unity Ads начнут автоматически собирать данные и использовать идентификаторы устройств и файлы cookie для подбора рекламы, соответствующей вашим интересам. Если нажать «Нет», вы все равно будете видеть стандартную рекламу. Можно также приобрести специальное обновление [httpstore]по этой ссылке[], и тогда в играх, владельцем которых вы являетесь, ни вы, ни ваши друзья рекламы видеть не будут! Чтобы узнать больше о практиках конфиденциальности наших партнеров по рекламе, см. нашу [https://innersloth.com/privacy.php]Политику конфиденциальности[]. Решение можно изменить в любой момент в разделе «Данные» меню настроек.
+Accept	Принять
+RemoveAds	Убрать рекламу
+PlainYes	Да
+PlainNo	Нет
+PrivacyPolicyTitle	Политика конфиденциальности
+PrivacyPolicyText	Обработкой персональных данных для Among Us занимается компания Innersloth. Ознакомьтесь с <link="https://innersloth.com/privacy.php">Политикой конфиденциальности</link>, чтобы узнать больше о том, как мы обеспечиваем конфиденциальность информации. Настройки персональных данных в Among Us находятся в разделе «Данные».
+ManageDataButton	Настройка сбора данных
+UnderstandButton	Я понимаю
+WaterPlants	Полить растения
+WeatherEta	Время:\n{0} с
+WeatherComplete	Завершено
+RunDiagnostics	Провести диагностику
+SettingShort	Короткая
+SettingMedium	Средняя
+SettingLong	Большая
+SamplesPress	Нажмите
+SamplesAdding	Добавление реагента
+SamplesSelect	Выберите аномалию
+SamplesThanks	Спасибо!
+SamplesComplete	Опыт завершен
+AstDestroyed	Уничтожено: {0}
+TaskTestTitle	Мегатестировщик заданий
+BeginDiagnostics	Начать диагностику
+UserLeftGame	{0} покидает игру.
+GameStarting	Начало через {0}
+ChatRateLimit	Слишком быстро. Подождите {0} с.
+Tasks	Задания
+MedscanRequested	Сканирование запрошено
+MedscanWaitingFor	Ожидание: {0}
+MedscanCompleted	Завершено!
+MedscanCompleteIn	Завершение через {0}
+StatsTitle	Статистика
+StatsBodiesReported	Сообщений о трупах:\t
+StatsEmergenciesCalled	Созвано срочных собраний:\t
+StatsTasksCompleted	Выполнено заданий:\t
+StatsAllTasksCompleted	Все задания выполнены:\t
+StatsSabotagesFixed	Устранено саботажей:\t
+StatsImpostorKills	Убийств при игре за предателя:\t\t
+StatsTimesMurdered	Смертей:\t
+StatsTimesEjected	Выбрасываний:\t\t
+StatsCrewmateStreak	Игр за экипаж подряд:\t
+StatsGamesImpostor	Игр за предателя:\t
+StatsGamesCrewmate	Игр за экипаж:\t
+StatsGamesStarted	Игр начато:\t
+StatsGamesFinished	Игр завершено:\t
+StatsImpostorVoteWins	Побед голосованием (предатель):\t
+StatsImpostorKillsWins	Побед убийством (предатель):\t
+StatsImpostorSabotageWins	Побед саботажем (предатель):\t
+StatsCrewmateVoteWins	Побед голосованием (экипаж):\t
+StatsCrewmateTaskWins	Побед заданиями (экипаж):\t
+MonitorOxygen	Проверить дерево
+StoreArtifacts	Сложить артефакты
+FillCanisters	Наполнить баллоны
+InsertKeys	Вставить ключи
+ResetSeismic	Перезапустить сейсмостабилизаторы
+SeismicHoldToStop	Удерживайте для активации сейсмостабилизаторов
+SeismicNominal	Сейсмическая активность в норме
+ScanBoardingPass	Проверить посадочный талон
+FixWeatherNode	Починить
+OpenWaterways	Открыть водопровод
+ReplaceWaterJug	Заменить кулер
+RepairDrill	Починить бур
+AlignTelescope	Навести телескоп
+RecordTemperature	Записать температуру
+RebootWifi	Перезагруз. Wi-Fi
+WifiRebootRequired	Выключить
+WifiPleaseWait	Подождите
+WifiPleaseReturnIn	Вернитесь через {0}
+WifiPleasePowerOn	Включить
+WifiRebootComplete	Готово
+Outside	Снаружи
+Dropship	Челнок
+Decontamination2	Дезинфекция
+Specimens	Пробы
+BoilerRoom	Котельная
+GameOverImpostorDead	В обычной игре экипаж бы победил, так как предатель мертв. В песочнице просто всех оживляют.
+GameOverImpostorKills	В обычной игре предатель\nбы победил, так как экипаж уже не может выиграть. В песочнице просто всех оживляют.
+GameOverTaskWin	В обычной игре экипаж бы победил, так как шкала заданий заполнена. В песочнице просто назначают новые задания.
+GameOverSabotage	В обычной игре предатель\nбы победил, так как саботаж\nдостиг критического уровня.\nВ песочнице саботаж просто\nустраняется.
+HowToPlayText2Switch	Можно играть онлайн в команде от 4 до 15 человек\n\nс членством Nintendo Switch Online или через локальный Wi-Fi!
+VentDirection	Направление в вентиляции
+VentMove	Движение по вентиляции
+MenuNavigate	Навигация
+NsoError	Не удаётся подключиться к сети.
+ErrorServerOverload	Серверы Among Us перегружены.\r\n\r\nПовторите попытку позже.
+ErrorIntentionalLeaving	Вы намеренно отключились от предыдущей игры и не можете присоединиться к новой еще {0} мин.
+ErrorFocusLost	Вы были отключены, так как открыли другое приложение после запуска Among Us.
+ErrorBanned	Вас заблокировали в комнате {0}.\r\n\r\nВ нее нельзя вернуться.
+ErrorKicked	Вас исключили из комнаты {0}.\r\n\r\nЕсли игра еще не началась, вы можете вернуться.
+ErrorBannedNoCode	Вас заблокировали в этой комнате.\r\n\r\nВ нее нельзя вернуться.
+ErrorKickedNoCode	Вас исключили из этой комнаты.\r\n\r\nЕсли игра еще не началась, вы можете вернуться.
+ErrorHacking	Вас заблокировали за взлом игры.\r\n\r\nБольше так не делайте.
+ErrorFullGame	В этой игре уже достаточно участников.\r\n\r\nСпросите владельца, можете ли вы присоединиться к следующему раунду.
+ErrorStartedGame	Эта игра уже началась.\r\n\r\nСпросите владельца, можете ли вы присоединиться к следующему раунду.
+ErrorNotFoundGame	Не удалось найти подходящую игру.
+ErrorInactivity	Игра остановлена со стороны сервера. Скорее всего, игроки были неактивны.
+ErrorGenericOnlineDisconnect	Соединение с сервером разорвано.\r\nЕсли это происходит регулярно, проверьте работу сети.\r\nПроблема также может быть на стороне сервера.
+ErrorGenericLocalDisconnect	Соединение с владельцем комнаты разорвано.\r\n\r\nЕсли это происходит регулярно, проверьте работу сети Wi-Fi.
+ErrorInvalidName	Сервер отклонил ник {0}
+ErrorUnknown	Соединение с сервером разорвано из-за неизвестной ошибки.
+ErrorIncorrectVersion	У вас установлена устаревшая версия игры.\r\n\r\nОбновите приложение, чтобы подключиться к другим игрокам.
+	
+ServerNA	Северная Америка
+ServerEU	Европа
+ServerAS	Азия
+ServerSA	Южная Америка
+LangEnglish	English
+LangFrench	Français
+LangItalian	Italiano
+LangGerman	Deutsch
+LangSpanish	Español
+LangSpanishLATAM	Español (Latinoamérica)
+LangBrazPort	Português (Brasil)
+LangPort	Português
+LangRussian	Русский
+LangJapanese	日本語
+LangKorean	한국어
+LangDutch	Nederlands
+LangFilipino	Bisaya
+PlayerName	Игрок
+MyTablet	Мой планшет
+Headquarters	Штаб
+DownloadTestEstTimeS	Расчетное время: {0} с
+DownloadTestEstTimeMS	Расчетное время: {0} м {1} с
+DownloadTestEstTimeHMS	Расчетное время: {0} ч {1} м {2} с
+DownloadTestEstTimeDHMS	Расчетное время: {0} д {1} ч {2} м {3} с
+DownloadComplete	Завершено
+GrabCoffee	СХОДИТЕ ЗА КОФЕ
+TakeBreak	ОТДОХНИТЕ
+DontNeedWait	ЖДАТЬ НЕ НАДО
+DoSomethingElse	ПРИМИТЕСЬ ПОКА ЗА ДРУГИЕ ДЕЛА
+NodeTB	Узел_TB
+NodeIRO	Узел_IRO
+NodeGI	Узел_GI
+NodePD	Узел_PD
+NodeCA	Узел_CA
+NodeMLG	Узел_MLG
+Vending	ОК
+OtherLanguage	Другой
+ImposterAmtAny	1-3
+	
+VitalsORGN	ОРНЖ
+VitalsBLUE	СИН
+VitalsRED	КРСН
+VitalsBRWN	КРЧ
+VitalsGRN	ЗЕЛ
+VitalsPINK	РОЗ
+VitalsWHTE	БЕЛ
+VitalsYLOW	ЖЛТ
+VitalsBLAK	ЧРН
+VitalsPURP	ФЛТ
+VitalsCYAN	ГОЛ
+VitalsLIME	ЛЙМ
+ColorOrange	ОРНЖ
+ColorBlue	СИН
+ColorRed	КРСН
+ColorBrown	КРЧН
+ColorGreen	ЗЕЛ
+ColorPink	РОЗ
+ColorWhite	БЕЛ
+ColorYellow	ЖЛТ
+ColorBlack	ЧРН
+ColorPurple	ФЛТ
+ColorCyan	ГОЛ
+ColorLime	ЛЙМ
+ColorMaroon	БОРДО
+ColorRose	СИРЕНЕВЫЙ
+ColorBanana	БАНАН
+ColorGray	СЕРЫЙ
+ColorTan	БЕЖЕВЫЙ
+ColorCoral	КОРАЛЛ
+MedID	ID:
+MedC	ЦВЕТ:
+MedHT	РОСТ:
+MedBT	ГК:
+MedWT	ВЕС:
+MedETA	ВРЕМЯ: {0}
+MedHello	ПРИВЕТ!
+LobbySizeWarning	В Among Us можно играть вчетвером, но рекомендуется собрать команду из пяти и больше игроков.\n\nИгры вчетвером быстро заканчиваются, а побеждает в них часто предатель.
+Okay	Ясно
+OkayDontShow	Больше не показывать
+Nevermind	Закрыть
+CamEast	Восток
+CamCentral	Центр
+CamNortheast	Северо-восток
+CamSouth	Юг
+CamSouthwest	Юго-запад
+CamNorthwest	Северо-запад
+LoadingFailed	Ошибка загрузки:
+PetFailFetchData	Не удалось получить данные о питомце
+BadResult	ОШИБКА
+More	ПОВТОРИТЬ
+Processing	Обработка
+ExitGame	Выйти из игры
+WaitingForHost	Ожидание владельца
+LeftGameError	{0} покидает игру из-за ошибки.
+PlayerWasBannedBy	{1} блокирует игрока {0}
+PlayerWasKickedBy	{1} исключает игрока {0}
+Dummy	Манекен
+Bad	ОШИБКА
+Status	Статус: 
+Fine	В ПОРЯДКЕ
+OK	OK
+SecondsAbbv	{0} с
+PetTryOn	Подберите себе образ!
+DataPolicyWhat	Что мы собираем?
+	
+	
+	
+VaultRoom	Хранилище
+Cockpit	Кабина
+Armory	Арсенал
+Kitchen	Кухня
+ViewingDeck	Смотр. палуба
+HallOfPortraits	Портретная галерея
+Medical	Лазарет
+CargoBay	Грузовой отсек
+Ventilation	Вентиляция
+Showers	Душевые
+Engine	Моторы
+Brig	Карцер
+MeetingRoom	Конференц-зал
+Records	Архив
+Lounge	Комната отдыха
+GapRoom	Пролет
+MainHall	Главный зал
+	
+PolishRuby	Полировка рубина
+ResetBreakers	Перезапуск пробок
+Decontaminate	Пройти обработку
+MakeBurger	Сделать бургер
+UnlockSafe	Открыть сейф
+SortRecords	Разобрать записи
+PutAwayPistols	Убрать пистолеты
+PutAwayRifles	Убрать ружья
+FixShower	Починить душ
+CleanToilet	Помыть туалет
+DressMannequin	Одеть манекен
+PickUpTowels	Поднять полотенца
+RewindTapes	Перемотать кассеты
+StartFans	Запустить вентилятор
+DevelopPhotos	Проявить фото
+GetBiggolSword	Добыть Biggol-меч
+StopCharles	Избежать столкновения
+	
+RevealCode	Узнать код
+DirtyHeader	ОСТАЛОСЬ
+AuthLeftOkay	Слева: OK
+AuthRightOkay	Справа: OK
+AuthLeftActive	Слева: АКТИВНО
+AuthRightActive	Справа: АКТИВНО
+AuthLeftNotActive	Слева: НЕАКТИВНО
+AuthRightNotActive	Справа: НЕАКТИВНО
+EngagementScreen	Нажмите любую кнопку, чтобы начать.
+DeleteButton	Удалить
+QuickChat	Быстрый чат
+QCLocationLaptop	Ноутбук
+QCLocationSkeld	Skeld
+QCLocationMira	Mira 
+QCLocationPolus	Polus
+QCSystemsStart	Старт
+QCSystemsKick	Выгнать
+QCCrewI	Я
+QCCrewMe	Меня
+QCCrewNoOne	Никого(никто)
+QCAccAKilledB	{0} убил(-а) игрока: {1}
+QCAccAKilledBNeg	{0} не убивал(-а) игрока: {1}
+QCAccAIsSuspicious	Игрок {0} вызывает подозрение
+QCAccAIsSuspiciousNeg	{0} хороший(-ая)
+QCAccASawBVent	{0} видел(-а) в люке игрока: {1}
+QCAccASawBVentNeg	{0} не видел(-а) в люке игрока: {1}
+QCAccAWasChasingB	{0} гнался(-ась) за игроком: {1}
+QCAccAWasChasingBNeg	{0} не гнался(-ась) за игроком: {1}
+QCAccAIsLying	{0} лжет
+QCAccAIsLyingNeg	{0} говорит правду
+QCAccVoteA	Голосуем против: {0}
+QCAccVoteANeg	Не голосуем против: {0}
+QCAccADidntReport	{0} не сообщил(-а) о трупе
+QCResYes	Да
+QCResNo	Нет
+QCResDontKnow	Не знаю
+QCResDontKnowNeg	Возможно
+QCResAWas	{0} был(-а)
+QCResAWasNeg	{0} не был(-а)
+QCResADid	{0} это сделал(-а)
+QCResADidNeg	{0} этого не делал(-а)
+QCResVote	Голосуйте
+QCResVoteNeg	Воздержитесь
+QCResAWasAtB	Игрок {0} был замечен в: {1}
+QCResAWasAtBNeg	Игрок {0} не был замечен в: {1}
+QCResRip	Покойся с миром
+QCResRipNeg	Вышвыриваем
+QCResLies	Ложь
+QCResLiesNeg	Ясно
+QCQstWhere	Где?
+QCQstWho	Кто?
+QCQstWhoWasWith	Кто был с игроком: {0}?
+QCQstWhatWasADoing	Что делал(-а) {0}?
+QCQstWhoFixedA	Кто чинил: {0}?
+QCQstWhereWasA	Где был(-а) {0}?
+QCQstBodyOrMeeting	У нас труп или это срочное собрание?
+QCStaASawB	{0} видел(-а): {1}
+QCStaAWasWithB	{0} был(-а) с: {1}
+QCStaADidB	{0} делал(-а): {1}
+QCStaASelfReported	{0} сдался(-ась) сам(-а)
+QCStaDoubleKill	Это двойное убийство
+QCStaWasSelfReport	Сознался сам
+QCStaPleaseDoTasks	Возвращайтесь к работе
+QCStaBodyWasInA	Найден труп: {0}
+QCStaACalledMeeting	Созывает собрание: {0}
+QCLocation	Места
+QCSystems	Системы
+QCCrew	Экипаж
+QCAccusation	Обвинения
+QCResponse	Ответы
+QCQuestion	Вопросы
+QCStatements	Заявления
+ChatType	Тип чата
+QuickChatOnly	Только быстрый чат
+FreeChatOnly	Только обычный чат
+FreeOrQuickChat	Быстрый или обычный чат
+DateOfBirth	Дата рождения
+DateOfBirthEnter	Введите свою дату рождения:
+Month	Месяц:
+Day	День:
+Year	Год:
+January	Январь
+February	Февраль
+March	Март
+April	Апрель
+May	Май
+June	Июнь
+July	Июль
+August	Август
+September	Сентябрь
+October	Октябрь
+November	Ноябрь
+December	Декабрь
+Submit	Отправить
+	
+QCAccAKilledB_QCCrewMe_ANY	Я убил(-a): {1}
+QCAccAKilledB_QCCrewMe_QCCrewNoOne	Я никого не убивал(-a)
+QCAccAKilledB_QCCrewMe_QCCrewMe	
+QCAccAKilledB_ANY_QCCrewMe	Меня убил(-a) {0}
+QCAccAKilledB	{0} убил(-a): {1}
+QCAccAKilledB_ANY_QCCrewNoOne	{0} никого не убивал(-a)
+QCAccAKilledB_QCCrewNoOne_QCCrewMe	Меня никто не убивал
+QCAccAKilledB_QCCrewNoOne_ANY	{1} никто не убивал
+QCAccAKilledB_QCCrewNoOne_QCCrewNoOne	Никто никого не убивал
+QCAccAKilledBNeg_QCCrewMe_ANY	Я не убивал(-a) {1}
+QCAccAKilledBNeg_QCCrewMe_QCCrewNoOne	Я никого не убивал(-a)
+QCAccAKilledBNeg_QCCrewMe_QCCrewMe	Я себя не убивал(-a)
+QCAccAKilledBNeg_ANY_QCCrewMe	{0} меня не убивал(-a)
+QCAccAKilledBNeg	{0} не убивал(-a): {1}
+QCAccAKilledBNeg_ANY_QCCrewNoOne	{0} никого не убивал(-a)
+QCAccAKilledBNeg_QCCrewNoOne_QCCrewMe	
+QCAccAKilledBNeg_QCCrewNoOne_ANY	
+QCAccAKilledBNeg_QCCrewNoOne_QCCrewNoOne	
+QCAccAIsSuspicious_QCCrewMe	Я вызываю подозрения
+QCAccAIsSuspicious	{0} вызывает подозрение
+QCAccAIsSuspicious_QCCrewNoOne	Никто не вызывает подозрений
+QCAccAIsSuspiciousNeg_QCCrewMe	Я хороший(-ая)
+QCAccAIsSuspiciousNeg	{0} хороший(-ая)
+QCAccAIsSuspiciousNeg_QCCrewNoOne	Все плохие
+QCAccASawBVent_QCCrewMe_ANY	Я видел в люке: {1}
+QCAccASawBVent_QCCrewMe_QCCrewNoOne	Я никого не видел в люке
+QCAccASawBVent_QCCrewMe_QCCrewMe	
+QCAccASawBVent_ANY_QCCrewMe	{0} видел меня в люке
+QCAccASawBVent	{0} видел в люке: {1}
+QCAccASawBVent_ANY_QCCrewNoOne	{0} никого не видел в люке
+QCAccASawBVent_QCCrewNoOne_QCCrewMe	Никто не видел меня в люке
+QCAccASawBVent_QCCrewNoOne_ANY	Никто не видел в люке: {1}
+QCAccASawBVent_QCCrewNoOne_QCCrewNoOne	Никто никого не видел в люке
+QCAccASawBVentNeg_QCCrewMe_ANY	Я ни разу не видел в люке: {1}
+QCAccASawBVentNeg_QCCrewMe_QCCrewNoOne	Я ни разу никого не видел в люке
+QCAccASawBVentNeg_QCCrewMe_QCCrewMe	
+QCAccASawBVentNeg_ANY_QCCrewMe	{0} ни разу не видел меня в люке
+QCAccASawBVentNeg	{0} ни разу не видел в люке: {1}
+QCAccASawBVentNeg_ANY_QCCrewNoOne	{0} ни разу никого не видел в люке
+QCAccASawBVentNeg_QCCrewNoOne_QCCrewMe	Никто ни разу не видел меня в люке
+QCAccASawBVentNeg_QCCrewNoOne_ANY	Никто ни разу не видел в люке: {1}
+QCAccASawBVentNeg_QCCrewNoOne_QCCrewNoOne	Никто ни разу никого не видел в люке
+QCAccAWasChasingB_QCCrewMe_ANY	Я гнался(-ась) за: {1}
+QCAccAWasChasingB_QCCrewMe_QCCrewNoOne	Я ни за кем не гнался(-ась)
+QCAccAWasChasingB_QCCrewMe_QCCrewMe	
+QCAccAWasChasingB_ANY_QCCrewMe	{0} гнался(-ась) за мной
+QCAccAWasChasingB	{0} гнался(-ась) за: {1}
+QCAccAWasChasingB_ANY_QCCrewNoOne	{0} ни за кем не гнался(--ась)
+QCAccAWasChasingB_QCCrewNoOne_QCCrewMe	Никто за мной не гнался
+QCAccAWasChasingB_QCCrewNoOne_ANY	Никто не гнался за: {1}
+QCAccAWasChasingB_QCCrewNoOne_QCCrewNoOne	Никто ни за кем не гнался
+QCAccAWasChasingBNeg_QCCrewMe_ANY	Я не гнался(-ась) за: {1}
+QCAccAWasChasingBNeg_QCCrewMe_QCCrewNoOne	Я ни за кем не гнался(-ась)
+QCAccAWasChasingBNeg_QCCrewMe_QCCrewMe	
+QCAccAWasChasingBNeg_ANY_QCCrewMe	{0} за мной не гнался(-ась)
+QCAccAWasChasingBNeg	{0} не гнался(-ась) за: {1}
+QCAccAWasChasingBNeg_ANY_QCCrewNoOne	{0} ни за кем не гнался(-ась)
+QCAccAWasChasingBNeg_QCCrewNoOne_QCCrewMe	
+QCAccAWasChasingBNeg_QCCrewNoOne_ANY	
+QCAccAWasChasingBNeg_QCCrewNoOne_QCCrewNoOne	
+QCAccAIsLying_QCCrewMe	Я лгу
+QCAccAIsLying	{0} лжет
+QCAccAIsLying_QCCrewNoOne	Никто не лжет
+QCAccAIsLyingNeg_QCCrewMe	Я говорю правду
+QCAccAIsLyingNeg	{0} говорит правду
+QCAccAIsLyingNeg_QCCrewNoOne	Никто не говорит правду
+QCAccVoteA_QCCrewMe	голосуем против меня
+QCAccVoteA	голосуем против: {0}
+QCAccVoteA_QCCrewNoOne	ни за кого не голосуем
+QCAccVoteANeg_QCCrewMe	не голосуем против меня
+QCAccVoteANeg	не голосуем против: {0}
+QCAccVoteANeg_QCCrewNoOne	
+QCAccADidntReport_QCCrewMe	Я не сообщил(-а) о трупе
+QCAccADidntReport	{0} не сообщил(-а) о трупе
+QCAccADidntReport_QCCrewNoOne	
+QCResAWas_QCCrewMe	Я был(-а)
+QCResAWas	{0} был(-а)
+QCResAWas_QCCrewNoOne	Никто не был
+QCResAWasNeg_QCCrewMe	Я не был(-а)
+QCResAWasNeg	{0} не был(-а)
+QCResAWasNeg_QCCrewNoOne	
+QCResADid_QCCrewMe	Я это сделал
+QCResADid	{0} это сделал
+QCResADid_QCCrewNoOne	Никто этого не делал
+QCResADidNeg_QCCrewMe	Я этого не делал
+QCResADidNeg	{0} этого не делал
+QCResADidNeg_QCCrewNoOne	
+QCResAWasAtB_QCCrewMe_ANY	Я был(-а) в(на): {1}
+QCResAWasAtB	{0} был(-а) в(на): {1}
+QCResAWasAtB_QCCrewNoOne_ANY	Никто не был в: {1}
+QCResAWasAtBNeg_QCCrewMe_ANY	Я не был(-а) в(на): {1}
+QCResAWasAtBNeg	{0} не был(-а) в: {1}
+QCResAWasAtBNeg_QCCrewNoOne_ANY	
+QCQstWhoWasWith_QCCrewMe	кто был со мной?
+QCQstWhoWasWith	кто был с: {0}?
+QCQstWhoWasWith_QCCrewNoOne	кто был один?
+QCQstWhatWasADoing_QCCrewMe	
+QCQstWhatWasADoing	что делал {0}?
+QCQstWhatWasADoing_QCCrewNoOne	
+QCQstWhereWasA_QCCrewMe	
+QCQstWhereWasA	где был(-а) {0}?
+QCQstWhereWasA_QCCrewNoOne	
+QCStaASawB_QCCrewMe_ANY	Я видел(-а): {1}
+QCStaASawB_QCCrewMe_QCCrewNoOne	Я никого не видел(-а)
+QCStaASawB_QCCrewMe_QCCrewMe	
+QCStaASawB_ANY_QCCrewMe	{0} меня видел(-а)
+QCStaASawB	{0} видел(-а): {1}
+QCStaASawB_ANY_QCCrewNoOne	{0} никого не видел(-а)
+QCStaASawB_QCCrewNoOne_QCCrewMe	Никто меня не видел
+QCStaASawB_QCCrewNoOne_ANY	Никто не видел: {1}
+QCStaASawB_QCCrewNoOne_QCCrewNoOne	Никто никого не видел
+QCStaAWasWithB_QCCrewMe_ANY	Я был(-а) с: {1}
+QCStaAWasWithB_QCCrewMe_QCCrewNoOne	Я был(-а) один (одна)
+QCStaAWasWithB_QCCrewMe_QCCrewMe	
+QCStaAWasWithB_ANY_QCCrewMe	{0} был(-а) со мной
+QCStaAWasWithB	{0} был(-а)с: {1}
+QCStaAWasWithB_ANY_QCCrewNoOne	{0} был(-а) один (одна)
+QCStaAWasWithB_QCCrewNoOne_QCCrewMe	Со мной никого не было
+QCStaAWasWithB_QCCrewNoOne_ANY	С {1} никого не было
+QCStaAWasWithB_QCCrewNoOne_QCCrewNoOne	Никого ни с кем не было
+QCStaADidB_QCCrewMe_ANY	Я занимался: {1}
+QCStaADidB	{0} занимался: {1}
+QCStaADidB_QCCrewNoOne_ANY	Никто не занимался: {1}
+QCStaASelfReported_QCCrewMe	Я сдался сам
+QCStaASelfReported	{0} сдался сам
+QCStaASelfReported_QCCrewNoOne	Никто не сдался сам
+QCStaACalledMeeting_QCCrewMe	Я созвал собрание
+QCStaACalledMeeting	{0} созвал собрание
+QCStaACalledMeeting_QCCrewNoOne	Никто не созвал собрание
+QCMore	БОЛЬШЕ
+SecurityLogsSystem	Журнал охраны
+SecurityCamsSystem	Камеры охраны
+AdminMapSystem	Карта админа
+VitalsSystem	Монитор сердечного ритма
+EngagementScreenSignIn	Выполняется вход...
+SaveGameOutOfSpaceConfirm	Продолжить
+EngagementScreen	Нажмите любую кнопку, чтобы начать.
+SaveGameOutOfSpaceMessage	Продолжить без сохранения?
+SaveGameOutOfSpaceConfirm	Продолжить
+SaveGameOutOfSpaceCancel	Повторить попытку
+Success	Успешно!
+Failed	Ошибка!
+ErrorCreate	При создании аккаунта произошла ошибка. Повторите попытку позже.
+SuccessCreate	Аккаунт успешно создан!
+Close	Закрыть
+ErrorLogIn	Во время входа в аккаунт произошла ошибка. Повторите попытку позже.
+SuccessLogIn	Вы успешно вошли в аккаунт!
+AccountInfo	ДАННЫЕ АККАУНТА
+Account	АККАУНТ
+UserName	ИМЯ ПОЛЬЗОВАТЕЛЯ
+Height	Рост
+Weight	Вес
+SignIn	Войти
+CreateAccount	Создать аккаунт
+RequestPermission	Запросить разрешение
+RandomizeName	Случайное имя
+AccountLinking	Связать аккаунты
+ChangeName	Изменить имя
+LogOut	Выйти
+GuardianWait	Дождитесь, когда родитель или опекун даст вам разрешение на вход в свободный чат и смену имени.
+EmailEdit	Изменить адрес электронной почты
+EmailResend	Отправить письмо повторно
+GuestContinue	Продолжить как гость
+GuardianEmailSent	Письмо родителю/опекуну отправлено
+GuardianCheckEmail	Напомните своему родителю или опекуну проверить почту, чтобы получить доступ ко всем функциям игры.
+EditName	Изменить имя
+Name	Имя
+CreateAccountQuestion	Создать аккаунт?
+DoYouWantCreate	Вы хотите создать аккаунт?
+PermissionRequired	Требуется разрешение
+NeedPermissionText	Для совершения этих действий нужно разрешение родителя или опекуна. Мы отправим письмо на электронную почту родителя/опекуна, и, при условии его согласия, вы сможете пользоваться свободным чатом в сетевой игре и изменить имя пользователя. Попросите взрослых помочь!
+GuardianEmailTitle	Адрес электронной почты родителя/опекуна
+Send	Отправить
+NewEmail	Новый адрес электронной почты
+ConfirmEmail	Подтвердить адрес электронной почты
+EditEmail	Изменить адрес электронной почты
+Loading	Загрузка
+Welcome	ДОБРО ПОЖАЛОВАТЬ
+GuardianEmail	[адрес электронной почты опекуна]
+	
+BanButton	БЛОК
+KickButton	ВЫГНАТЬ
+ReportButton	ЖАЛОБА
+ReportConfirmation	Вы отправили жалобу на этого пользователя.
+ReportBadName	Неприемлемое имя
+ReportBadChat	Неприемлемые сообщения
+ReportHacking	Использование читов / взлом игры
+ReportHarassment	Оскорбления / неподобающее поведение
+ReportWhy	Почему вы хотите пожаловаться на этого пользователя?
+DLLNotFoundAccountError	При подключении к онлайн-сервисам возникла проблема. Пока она не будет исправлена, вы можете играть только по локальной сети или в режиме песочницы. Попробуйте еще раз позже.
+ContinueOffline	Игра вне сети
+WantToLogIn	Вы не вошли в аккаунт.
+GoOffline	Выйти из сети
+PlayAsGuest	Играть как гость
+LogInTitle	Войти в аккаунт
+LogInInfoText	— При помощи гостевого аккаунта можно играть по сети, не привязывая свой аккаунт, но его нельзя восстановить после смены устройств или удаления Among Us.\n— После регистрации полноценного аккаунта вы в любой момент сможете войти в него. Если у вас нет аккаунта, он будет создан автоматически.
+LogInInfoTextSwitch	Если у вас нет аккаунта, он будет создан автоматически.
+ControllerDisconnectedMessage	Геймпад отключен
+FollowUs	Подпишитесь на нас!
+	
+QuickChatInstructionsStart	В настройках игры выбрано «Только быстрый чат».
+QuickChatInstructionsChild	Попросите родителя или опекуна дать вам доступ к полному чату.
+QuickChatInstructionsGuest	Для внесения изменений необходимо выполнить вход.
+QuickChatInstructionsFull	Этот параметр можно изменить в меню настроек.
+	
+SwitchEShopBrowseAll	Смотреть все товары в Nintendo eShop
+	
+Download	Скачать
+Upload	Загрузить
+pk05_davehat	Шапка Дейва
+pk05_Ellie	Элли
+pk05_Svenhat	Шапка Свена
+pk05_Burthat	Шапка Берта Кертиса
+pk05_Ellryhat	Ирокез Эллри
+pk05_monocles	Двойной монокль
+pk05_cheesetoppat	Сырный цилиндр
+pk05_Macbethhat	Цилиндр мистера Макбета
+pk05_HenryToppat	Цилиндр Генри
+pk05_EllieToppat	Цилиндр Элли
+pk05_GeoffreyToppat	Цилиндр Джеффри
+	
+	
+InsufficientStorageError	Недостаточно места для скачивания набора файлов. Освободите память на устройстве и попробуйте еще раз.
+NetworkError	Ошибка сети. Проверьте настройки подключения и попробуйте еще раз.
+OtherDownloadError	Произошла ошибка: {0}
+DownloadingLabel	Скачивание {0}
+DownloadSizeLabel	Размер загружаемого файла: {0} МБ
+	
+TimeRemaining	Осталось времени: {0}
+DeadLabel	УБИТЫ
+	
+InviteFriends	Пригласить друзей
+	
+NutriLabel	УДОБР.
+CO2Label	CO2
+RADLabel	РАД.
+WaterLabel	ВОДА
+	
+DoorlogLabel	ЖУРНАЛ
+VitalsLabel	ПУЛЬС
+OptionsLabel	НАСТРОЙКИ
+ProceedLabel	ДАЛЕЕ
+StartLabel	СТАРТ
+UseLabel	ИСП.
+PlayAgain	ЗАНОВО
+QuitLabel	ВЫЙТИ
+ReportLabel	ЗАЯВИТЬ
+SabotageLabel	САБОТАЖ
+VentLabel	ЛЮК
+KillLabel	УБИТ
+DiscussLabel	ОБСУЖДАЕМ!
+SkippedVoting	ВОЗДЕРЖ.
+SkipVoteLabel	ВОЗДЕРЖАТЬСЯ
+EmergencyMeeting	СРОЧНОЕ СОБРАНИЕ
+BodyReported	ОБНАРУЖЕН ТРУП
+SkinLabel	КОСТЮМЫ
+HatLabel	ШАПКИ
+PetLabel	ПИТОМЦЫ
+AnnouncementLabel	ОБЪЯВЛЕНИЯ
+	
+UploadingLabel	ЗАГРУЗКА
+ConnectionLabel	Сигнал:
+NoneLabel	НЕТ
+PoorLabel	СЛАБЫЙ
+GoodLabel	ХОРОШИЙ
+LogLabel	ЖУРНАЛ
+ReadingLabel	ОТЧЕТ
+WeatherDataDownload	ЗАГРУЗКА ОТЧЕТА О ПОГОДЕ
+AirshipBundle	Набор Airship
+PolusBundle	Набор Polus
+PolusSkinBundle	Набор костюмов карты Polus
+MiraBundle	Набор MIRA HQ
+MiraSkinBundle	Набор костюмов MIRA HQ
+PetAlien2	Набор питомцев «Хедкраб»
+PetAlien1	Набор питомцев «Мозгослизень»
+PetAnimal	Набор питомцев «Хомяк»
+PetCrewmate	Набор «Мини-астронавт»
+PetStickmin	Набор питомцев «Stickmin»
+PrisonerSkin	Узник
+Cyborg_RHM	Киборг «Правая рука 2.0»
+CCC_Officer	Глава Центра контроля хаоса
+BeginLabel	ПУСК
+QuietLabel	ТС-С-С!
+VentCleaning	Прочистить люк
+CleanUp	Прочистить
+ProgressLabel	Загружено:
+TermsOfUseTitle	Условия использования
+PPAndToUTitle	Политика конфиденциальности и условия использования
+	
+ErrorNotAuthenticated	Серверы Among Us не смогли аутентифицировать вас.\r\n\nДля игры по сети необходим аккаунт Among Us. Гостевой аккаунт тоже подходит для этого!
+ComePlayDiscord	Давай сыграем в Among Us! 
+ShowAccountSupportID5	Показать ID поддержки аккаунта
+ShowAccountSupportID4	Нажмите еще 4 раза, чтобы увидеть ID
+ShowAccountSupportID3	Не сообщайте никому этот ID
+ShowAccountSupportID2	Не нажимайте во время трансляции
+ShowAccountSupportID1	Я точно хочу увидеть этот ID
+SupportIDLabel	ID: {0}
+YouAreNotOnline	Нет подключения к сети.
+NoDeadBodiesFound	Трупы не найдены
+SupportEmail	Напишите нам по адресу support@innersloth.com, если вы хотите связаться со службой поддержки.
+PerfectLabel	ИДЕАЛЬНО

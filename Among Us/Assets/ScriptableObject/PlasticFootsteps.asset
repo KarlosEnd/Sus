@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e99e81c231a4d34479958a5677deabb8, type: 3}
+  m_Name: PlasticFootsteps
+  m_EditorClassIdentifier:
+  Clips:
+  - {fileID: 8300000, guid: 16278d200f63e1f4ab3cd6d6dd1111af, type: 3}
+  - {fileID: 8300000, guid: 83c704a8d992d7843a952e1597934c2c, type: 3}
+  - {fileID: 8300000, guid: 68df12995c1e4e0409ce01cb0b6b47a9, type: 3}
+  - {fileID: 8300000, guid: d917f53366112f6458b10087f2ab261d, type: 3}
+  - {fileID: 8300000, guid: ad2d265e7665e9049af534f0aa171914, type: 3}

@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b2d28e5017d0d848921d2c59499fc79, type: 3}
+  m_Name: SuitB
+  m_EditorClassIdentifier:
+  IdleFrame: {fileID: 21300928, guid: 9022c4b9dad2d8e4fbbf8a22bf11a9e2, type: 3}
+  IdleAnim: {fileID: 7400000, guid: 6d598ecaa2d99da4aa002dd12babe090, type: 2}
+  RunAnim: {fileID: 7400000, guid: 1cc3c411d0b9d95409c475e70ae00561, type: 2}
+  EnterVentAnim: {fileID: 7400000, guid: 412f9a28d219e22448f2af3550cbaedb, type: 2}
+  ExitVentAnim: {fileID: 7400000, guid: ce0eeedc4d142f449938f0682de07a83, type: 2}
+  ClimbAnim: {fileID: 7400000, guid: 6a5558efb4da3c949a33728e0a6cb40d, type: 2}
+  ClimbDownAnim: {fileID: 7400000, guid: 5ffa72fc3a988944d8f87f9e01ab7c56, type: 2}
+  KillTongueImpostor: {fileID: 7400000, guid: d70c8c3f38c6b9a4fbf87d1b1f8903ee, type: 2}
+  KillTongueVictim: {fileID: 7400000, guid: d4c856b73c6ef94449363b97764f36c1, type: 2}
+  KillShootImpostor: {fileID: 7400000, guid: 5cdcf061f7bf6c8429bf8962dba34dbd, type: 2}
+  KillShootVictim: {fileID: 7400000, guid: f00cc9174cf21ce4bb1214bcc0c1ea5a, type: 2}
+  KillNeckImpostor: {fileID: 7400000, guid: 1265e6b6b86c614429b82a7fa3f83b59, type: 2}
+  KillStabImpostor: {fileID: 7400000, guid: cceb18638aa1c7a489a9d253735ef9f9, type: 2}
+  KillStabVictim: {fileID: 7400000, guid: cdfb165a8597c4542b31eb3630a18b4b, type: 2}
+  KillNeckVictim: {fileID: 7400000, guid: 79dc8fc636589044ea4694ec5f501fca, type: 2}
+  KillRHMVictim: {fileID: 7400000, guid: 8fa125604b7fa0247adb3b22a576c81d, type: 2}
+  EjectFrame: {fileID: 21300464, guid: 9022c4b9dad2d8e4fbbf8a22bf11a9e2, type: 3}
+  SpawnAnim: {fileID: 7400000, guid: eaf2ce605bde37140b51f69dcbeb2d8e, type: 2}
+  IdleLeftAnim: {fileID: 0}
+  RunLeftAnim: {fileID: 0}
+  EnterLeftVentAnim: {fileID: 0}
+  ExitLeftVentAnim: {fileID: 0}
+  SpawnLeftAnim: {fileID: 0}
+  KillAnims: []
+  NotInStore: 0
+  Free: 0
+  RelatedHat: {fileID: 11400000, guid: a3b2e1e46df192246932250f71b13b8a, type: 2}
+  StoreName: Black Suit (includes hat!)
+  ProductId:
+  Order: 0

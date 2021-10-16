@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e99e81c231a4d34479958a5677deabb8, type: 3}
+  m_Name: SnowFootsteps
+  m_EditorClassIdentifier:
+  Clips:
+  - {fileID: 8300000, guid: 2b356256226db1041b6a1ee7834599f5, type: 3}
+  - {fileID: 8300000, guid: 190564a21c21f134cb6645b8c38ac9b2, type: 3}
+  - {fileID: 8300000, guid: 9b016a105d592cc46889a5a8347622ee, type: 3}
+  - {fileID: 8300000, guid: 39fbcac76e3bcab4b855cc0a6341831a, type: 3}
+  - {fileID: 8300000, guid: 29c6eaaaffcd5584694bc62ed034aa64, type: 3}
+  - {fileID: 8300000, guid: b92cc5728f39d5f428c1e8ffcf1ce945, type: 3}
+  - {fileID: 8300000, guid: 67f6cbfcc02a6a546b4631f35eaa17c5, type: 3}

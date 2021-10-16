@@ -1,0 +1,855 @@
+KEY ID	Brazilian Portuguese
+LocalButton	Local
+OnlineButton	Online
+HowToPlayButton	Como jogar
+FreePlayButton	Partida livre
+PublicHeader	Público
+PrivateHeader	Privado
+HostHeader	Anfitrião
+ExitButton	Sair
+BackButton	Voltar
+AvailableGamesLabel	Partidas disponíveis
+CreateGameButton	Criar partida
+FindGameButton	Buscar partida
+EnterCode	Inserir código
+GhostIgnoreTasks	Você morreu. Desfrute do caos.
+GhostDoTasks	Você morreu. Termine as tarefas pra vencer.
+TotalTasksCompleted	Total de tarefas concluidas
+GhostImpostor	Você morreu, mas ainda pode sabotar!
+ImpostorTask	Sabote a galera e mate geral.
+FakeTasks	Tarefas falsas:
+TaskComplete	Tarefa Concluída!
+ExileTextSP	{0} era o Impostor.
+ExileTextSN	{0} não era o Impostor.
+ExileTextPP	{0} era um Impostor.
+ExileTextPN	{0} não era um Impostor.
+NoExileSkip	Ninguém foi ejetado. (Votação pulada)
+NoExileTie	Ninguém foi ejetado. (Empate)
+ExileTextNonConfirm	{0} foi ejetado.
+ImpostorsRemainS	Resta {0} Impostor.
+ImpostorsRemainP	Restam {0} Impostores.
+Hallway	Corredor
+Engines	Motores
+UpperEngine	Motor Superior
+Cafeteria	Cantina
+Weapons	Arsenal
+Reactor	Reator
+Security	Segurança
+MedBay	Enfermaria
+LifeSupp	O2
+Nav	Navegação
+LowerEngine	Motor Inferior
+Electrical	Elétrica
+Admin	Administração
+Storage	Depósito
+Shields	Escudos
+Comms	Comunicação
+Decontamination	Descontaminação
+Launchpad	Plataforma
+LockerRoom	Vestiário
+Laboratory	Laboratório
+Balcony	Sacada
+Office	Escritório
+Greenhouse	Estufa
+DivertPowerTo	Desviar energia para {0}
+AcceptDivertedPower	Aceitar energia desviada
+SubmitScan	Fazer raio-x
+PrimeShields	Acionar escudos
+FuelEngines	Abastecer motores
+ChartCourse	Traçar curso
+StartReactor	Acionar reator
+SwipeCard	Passar cartão
+ClearAsteroids	Detonar asteroides
+DownloadData	Baixar dados
+UploadData	Carregar dados
+InspectSample	Examinar amostra
+EmptyChute	Limpar calha
+EmptyGarbage	Tirar o lixo
+AlignEngineOutput	Alinhar boca do motor
+FixWiring	Consertar fiação
+CalibrateDistributor	Calibrar
+UnlockManifolds	Liberar propulsores
+ResetReactor	Colapso do reator em
+FixLights	Consertar luzes
+CleanO2Filter	Limpar filtro de O2
+FixComms	Comunicadores sabotados
+RestoreOxy	Falta de oxigênio em
+StabilizeSteering	Estabilizar direção
+AssembleArtifact	Montar artefato
+SortSamples	Separar amostras
+MeasureWeather	Avaliar o clima
+EnterIdCode	Inserir ID
+BuyBeverage	Comprar bebida
+ProcessData	Processar dados
+NumImpostorsS	Há <color=#FF1919FF>1 Impostor</color> entre nós
+NumImpostorsP	Há <color=#FF1919FF>{0} Impostores</color> entre nós
+Crewmate	Tripulante
+Impostor	Impostor
+Victory	Vitória
+Defeat	Derrota
+CrewmatesDisconnected	Muitos tripulantes\ndesconectados
+ImpostorDisconnected	Impostor desconectado
+PickAnomaly	Apontar anomalia
+WaterPlantsGetCan	Regador na mão!
+AuthOfficeOkay	Escritório OK
+AuthCommsOkay	Comunicadores OK
+AuthOfficeActive	Escritório ATIVO
+AuthCommsActive	Comunicadores ATIVOS
+AuthOfficeNotActive	Escritório DESATIVADO
+AuthCommsNotActive	Comunicadores DESATIVADOS
+SecLogEntry	{0} passou no sensor {1}
+LogNorth	Norte
+LogSouthEast	Sudeste
+LogSouthWest	Sudoeste
+EnterName	Apelido
+SwipeCardPleaseInsert	Insira o cartao
+SwipeCardPleaseSwipe	Passe o cartao
+SwipeCardBadRead	Falha. Tente de novo.
+SwipeCardTooFast	Muito rápido. De novo.
+SwipeCardTooSlow	Muito devagar. De novo.
+SwipeCardAccepted	Sucesso. Obrigado.
+ReactorHoldToStop	Segure para evitar colapso
+ReactorWaiting	Aguardando segundo usuário
+ReactorNominal	Reator estável
+MeetingWhoIsTitle	Quem é o Impostor?
+MeetingVotingBegins	A votação começa em: {0} s
+MeetingVotingEnds	A votação termina em: {0} s
+MeetingVotingResults	Contagem dos votos
+MeetingProceeds	Continuando em: {0} s
+MeetingHasVoted	{0} votou. Restam {1}.
+HowToPlayText1	Among Us é um jogo de trabalho em equipe e sabotagem.\n\nOs jogadores se dividem entre Tripulantes e Impostores.
+HowToPlayText2	Jogue em grupos de 4 a 15 jogadores online ou pela rede Wi-Fi local!
+HowToPlayText41	O anfitrião controla as regras do jogo.
+HowToPlayText42	Primeiro, você deve determinar com quem quer jogar!\n\nSe quiser jogar com seus amigos online, crie uma partida "privada" e compartilhe o código da sala.\n\nSe quiser jogar com gente do mundo inteiro, crie uma partida "pública".
+HowToPlayText43	Quer mais tarefas? Que tal andar mais rápido? Mais Impostores? Como anfitrião, você pode alterar essas configurações. Mas não deixe de comunicar as alterações aos outros jogadores.
+HowToPlayText44	Se alguém for grosso e/ou enviar spam, o anfitrião pode expulsar o jogador temporariamente como advertência ou banir o jogador da sala.
+HowToPlayTextMap	Os jogadores têm acesso a um mapa pessoal para se orientarem dentro da nave.
+HowToPlayTextCrew1	Objetivo: encher a barra de tarefas do grupo ou descobrir o Impostor.
+HowToPlayTextCrew2	Cumpra tarefas para encher a barra.
+HowToPlayTextCrew3	Reaja às sabotagens do Impostor.
+HowToPlayTextCrew4	Encontrou o Impostor? Reunião de Emergência!
+HowToPlayTextCrew5	Notifique os corpos encontrados.
+HowToPlayTextCrew6	Veja atividades suspeitas no Mapa de Admin e na Segurança.
+HowToPlayTextImp1	Objetivo: eliminar a Tripulação.
+HowToPlayTextImp2	Misture-se à Tripulação.
+HowToPlayTextImp3	Desloque-se pelos dutos.
+HowToPlayTextImp4	Finja que cumpre tarefas.
+HowToPlayTextImp5	Sabote a nave e confunda a Tripulação.
+HowToPlayTextImp6	Feche portas e prenda vítimas.
+HowToPlayTextImp7	Objetivo: eliminar Tripulação entre esperas.
+HowToPlayText5	Ao jogar com amigos no mesmo ambiente físico, não é permitido conversar (para manter o jogo justo entre a Tripulação e o Impostor).\n\nSe um jogador for morto pelo Impostor, ele não pode falar enquanto a partida não acabar.\n\nOs Fantasmas continuam a cumprir tarefas para levar a uma possível vitória da Tripulação.
+HowToPlayText6	Quando alguém notifica um corpo ou convoca uma reunião de emergência, a Tripulação se reúne para discutir o que sabe sobre o Impostor.\n\nOs jogadores podem então conversar abertamente sobre quem suspeitam que seja o Impostor e sobre suas informações. Ao jogar com amigos no mesmo ambiente físico, os Fantasmas não podem falar, pois já sabem quem é o Impostor.\n\nOs Impostores vão tentar provar sua inocência ou acusar outros Tripulantes.
+HowToPlayText7	Após a discussão, vote em quem você acha que é o Impostor.\n\nO mais votado será ejetado da nave, então vote com cuidado!\n\nSe você não tiver informações o suficiente, ou se a Tripulação assim decidir, é possível pular a votação e evitar que um inocente seja ejetado, ganhando tempo para juntar mais informações.
+HowToPlayText81	Pratique no modo Partida Livre!
+HowToPlayText82	Defina suas próprias tarefas como Tripulante ou pratique suas estratégias malignas de Impostor!
+SettingsGeneral	Geral
+SettingsControls	Controles
+SettingsSound	Áudio
+SettingsGraphics	Gráficos
+SettingsData	Dados
+SettingsCensorChat	Censurar bate-papo
+SettingsMusic	Música
+SettingsSFX	Efeitos
+SettingsOn	Sim
+SettingsOff	Não
+SettingsSendTelemetry	Enviar telemetria
+SettingsControlMode	Modo Controle
+SettingsTouchMode	Touch
+SettingsJoystickMode	Controle
+SettingsKeyboardMode	Teclado/Mouse
+SettingsFullscreen	Tela cheia
+SettingsVSync	VSync
+SettingsResolution	Resolução
+SettingsApply	Aplicar
+SettingsPersonalizeAds	Personalizar anúncios
+SettingsLanguage	Idioma
+SettingsJoystickSize	Tamanho
+SettingsMouseMode	Mouse
+MatchMapName	Mapa:
+MatchLanguage	Bate-papo:
+MatchImpostors	Impostores:
+MatchMaxPlayers	Máx. jogadores:
+Cancel	Cancelar
+Confirm	Confirmar
+PlayerColor	Cor
+PlayerHat	Chapéu
+PlayerSkin	Visual
+PlayerPet	Mascote
+GameSettings	Partida
+GameRecommendedSettings	Opções recomendadas
+GameCustomSettings	Opções personalizadas
+GameMapName	Mapa
+GameNumImpostors	nº Impostores
+GameNumMeetings	nº Reuniões de Emergência
+GameDiscussTime	Tempo de discussão
+GameVotingTime	Tempo de votação
+GamePlayerSpeed	Ritmo jogador
+GameCrewLight	Visão Tripulante
+GameImpostorLight	Visão Impostor
+GameKillCooldown	Espera (abate)
+GameKillDistance	Distância (abate)
+GameCommonTasks	nº Tarefas comuns
+GameLongTasks	nº Tarefas longas
+GameShortTasks	nº Tarefas curtas
+GameEmergencyCooldown	Espera (reunião)
+GameSecondsAbbrev	{0}s
+GameConfirmImpostor	Confirmar ejeções
+GameVisualTasks	Tarefas visuais
+GameAnonymousVotes	Votos anônimos
+GameTaskBarMode	Atualizar barra de tarefas
+SettingNormalTaskMode	Sempre
+SettingMeetingTaskMode	Reuniões
+SettingInvisibleTaskMode	Nunca
+Limit	Limite
+RoomCode	Código
+LeaveGame	Sair da partida
+ReturnToGame	Voltar à partida
+LocalHelp	Treta na conexão?\n\n● Confira se todo mundo está conectado na mesma rede Wi-Fi\n● Confira se todo mundo tem a mesma versão do jogo (canto superior esquerdo)\n● Confira se seu sinal de Wi-Fi está forte\n● Às vezes, ter outra pessoa como anfitrião ajuda...\n● Às vezes, reiniciar o aplicativo ajuda...\n● Às vezes, reiniciar o telefone ajuda...\n● O problema continuou? Entre em contato conosco no Discord!
+OnlineHelp	Como funciona?\n\n● Ao assumir o papel de anfitrião, você vai ver o código\nda partida perto do botão Iniciar.\n● Compartilhe o código com seus amigos para criar uma sala privada.\n● Ou toque em Privado para tornar a sala pública e\nexibi-la na opção Buscar partida.\n● O anfitrião pode banir ou expulsar jogadores no bate-papo.\n● O problema continuou? Entre em contato conosco no Discord!
+EmergencyCount	TRIPULANTE {0} AINDA TEM\n\n\n\nREUNIÕES DE EMERGÊNCIA
+EmergencyNotReady	A TRIPULAÇÃO TERÁ QUE ESPERAR\n\n\n\nANTES DA PRÓXIMA EMERGÊNCIA
+EmergencyDuringCrisis	NÃO É POSSÍVEL CONVOCAR \nREUNIÕES DE EMERGÊNCIA NAS CRISES
+EmergencyRequested	REUNIÃO DE EMERGÊNCIA SOLICITADA\nAGUARDANDO ANFITRIÃO
+AdPolicyTitle	Política de anúncios
+AdPolicyText	Podemos usar seus dados pessoais para peneirar anúncios para você? Se clicar em "Sim", nossos parceiros publicitários, como o Google AdMob e o Unity Ads, vão recolher dados e empregar identificadores de dispositivo e cookies para personalizar os seus anúncios automaticamente. Se clicar em "Não", você ainda verá os anúncios não personalizados. Para remover todos os anúncios, é só contratar o serviço Zero Anúncios [httpstore]aqui[], assim não vão mais aparecer anúncios para você e seus amigos quando você for o anfitrião! Para saber mais sobre as práticas de privacidade dos nossos parceiros publicitários, confira a nossa [https://innersloth.com/privacy.php]Política de Privacidade[]. É possível alterar essa decisão a qualquer momento, na seção "Dados" do menu de configurações.
+Accept	Aceitar
+RemoveAds	Remover anúncios
+PlainYes	Sim
+PlainNo	Não
+PrivacyPolicyTitle	Política de Privacidade
+PrivacyPolicyText	A Innersloth processa dados pessoais em Among Us. Leia nossa <link="https://innersloth.com/privacy.php">Política de Privacidade</link> para saber mais sobre nossas práticas em relação à privacidade. Você pode definir suas configurações de dados pessoais no Among Us em "Dados".
+ManageDataButton	Gerenciar coleta de dados
+UnderstandButton	Entendi
+WaterPlants	Regar plantas
+WeatherEta	Tempo: {0} s
+WeatherComplete	Concluído
+RunDiagnostics	Fazer revisão
+SettingShort	Curtas
+SettingMedium	Médias
+SettingLong	Longas
+SamplesPress	Aperte pra iniciar
+SamplesAdding	Adicionando reagente
+SamplesSelect	Aponte a anomalia
+SamplesThanks	Obrigado!
+SamplesComplete	Teste concluído
+AstDestroyed	Detonados: {0}
+TaskTestTitle	Testa-tarefas 2000
+BeginDiagnostics	Conferir Status
+UserLeftGame	{0} saiu da partida.
+GameStarting	Começa em {0}
+ChatRateLimit	Rápido demais. Espere {0} segundos.
+Tasks	Tarefas
+MedscanRequested	Raio-x solicitado
+MedscanWaitingFor	Aguardando {0}
+MedscanCompleted	Raio-x pronto!
+MedscanCompleteIn	Raio-x pronto em {0}
+StatsTitle	Estatísticas
+StatsBodiesReported	Corpos notificados:\t
+StatsEmergenciesCalled	Reuniões de emergência:\t
+StatsTasksCompleted	Tarefas concluídas:\t
+StatsAllTasksCompleted	Todas as tarefas concluídas:\t
+StatsSabotagesFixed	Sabotagens reparadas:\t
+StatsImpostorKills	Abates como Impostor:\t\t
+StatsTimesMurdered	Assassinado x vezes:\t
+StatsTimesEjected	Ejetado x vezes:\t\t
+StatsCrewmateStreak	Tripulante x vezes seguidas:\t
+StatsGamesImpostor	Impostor x vezes:\t
+StatsGamesCrewmate	Tripulante x vezes:\t
+StatsGamesStarted	Partidas iniciadas:\t
+StatsGamesFinished	Partidas finalizadas:\t
+StatsImpostorVoteWins	Vitórias por voto como Impostor:\t
+StatsImpostorKillsWins	Vitórias por abate como Impostor:\t
+StatsImpostorSabotageWins	Vitórias por sabotagem como Impostor:\t
+StatsCrewmateVoteWins	Vitórias por voto como Tripulante:\t
+StatsCrewmateTaskWins	Vitórias por tarefa como Tripulante:\t
+MonitorOxygen	Monitorar árvore
+StoreArtifacts	Guardar artefatos
+FillCanisters	Encher cilindros
+InsertKeys	Inserir chaves
+ResetSeismic	Reiniciar estabilizadores sísmicos
+SeismicHoldToStop	Segure pra ativar estabilizador sísmico
+SeismicNominal	Atividade sísmica estável
+ScanBoardingPass	Ler cartão de embarque
+FixWeatherNode	Arrumar terminal climático
+OpenWaterways	Abrir registro
+ReplaceWaterJug	Encher galão de água
+RepairDrill	Consertar sonda
+AlignTelescope	Alinhar telescópio
+RecordTemperature	Registrar temperatura
+RebootWifi	Reiniciar Wi-Fi
+WifiRebootRequired	Reinicie o sistema
+WifiPleaseWait	Aguarde
+WifiPleaseReturnIn	Volte em {0}
+WifiPleasePowerOn	Ligue o aparelho
+WifiRebootComplete	Sistema reiniciado
+Outside	Exterior
+Dropship	Cápsula
+Decontamination2	Descontaminação
+Specimens	Sala de Amostras
+BoilerRoom	Caldeira
+GameOverImpostorDead	Normalmente, a Tripulação teria vencido com a morte do Impostor. Mas na Partida Livre, revivemos todo mundo.
+GameOverImpostorKills	Normalmente, o Impostor teria vencido, já que a Tripulação não tem mais como vencer. Mas na Partida Livre, revivemos todo mundo.
+GameOverTaskWin	Normalmente, a Tripulação teria vencido com a barra de tarefas cheia. Mas na Partida Livre, distribuímos tarefas novas.
+GameOverSabotage	Normalmente, o Impostor teria vencido graças a uma sabotagem avançada. Em vez disso, remediamos a situação.
+HowToPlayText2Switch	Jogue em grupos de 4 a 15 jogadores online com a sua assinatura Nintendo Switch Online ou por Wi-Fi local!
+VentDirection	Direção do duto
+VentMove	Andar pelo duto
+MenuNavigate	Navegar
+NsoError	Não foi possível conectar à rede.
+ErrorServerOverload	Os servidores de Among Us estão sobrecarregados.\r\n\r\nFoi mal! Tente novamente mais tarde.
+ErrorIntentionalLeaving	Ao sair de propósito de uma partida, você não poderá entrar em outra pelos próximos {0} minutos.
+ErrorFocusLost	Você foi desconectado porque outro aplicativo suspendeu o Among Us.
+ErrorBanned	Você foi banido de {0}.\r\n\r\nVocê não pode mais voltar para essa sala.
+ErrorKicked	Você foi expulso de {0}.\r\n\r\nVocê pode voltar se a sala ainda não tiver começado.
+ErrorBannedNoCode	Você foi banido da sala.\r\n\r\nVocê não pode mais voltar para essa sala.
+ErrorKickedNoCode	Você foi expulso da sala.\r\n\r\nVocê pode voltar se a sala ainda não tiver começado.
+ErrorHacking	Você foi banido por usar hack.\r\n\r\nNão toleramos esse tipo de comportamento.
+ErrorFullGame	A partida em que você tentou entrar está cheia.\r\n\r\nConfira com o anfitrião se você pode entrar na próxima rodada.
+ErrorStartedGame	A partida em que você tentou entrar já começou.\r\n\r\nConfira com o anfitrião se você pode entrar na próxima rodada.
+ErrorNotFoundGame	Não foi possível encontrar a partida que você está procurando.
+ErrorInactivity	O servidor interrompeu essa partida (possivelmente por inatividade).
+ErrorGenericOnlineDisconnect	Você se desconectou do servidor.\r\nSe isso ocorrer com frequência, verifique o sinal da sua rede.\r\nO problema também pode ser no servidor.
+ErrorGenericLocalDisconnect	Você se desconectou do servidor.\r\n\r\nSe isso ocorrer com frequência, verifique o sinal da sua rede Wi-Fi.
+ErrorInvalidName	O servidor não aceitou o nome de usuário: {0}
+ErrorUnknown	Um erro desconhecido desconectou você do servidor.
+ErrorIncorrectVersion	Você está executando uma versão antiga do aplicativo.\r\n\r\nAtualize para poder jogar com outras pessoas.
+	
+ServerNA	América do Norte
+ServerEU	Europa
+ServerAS	Ásia
+ServerSA	América do Sul
+LangEnglish	English
+LangFrench	Français
+LangItalian	Italiano
+LangGerman	Deutsch
+LangSpanish	Español
+LangSpanishLATAM	Español (Latinoamérica)
+LangBrazPort	Português (Brasil)
+LangPort	Português
+LangRussian	Русский
+LangJapanese	日本語
+LangKorean	한국어
+LangDutch	Nederlands
+LangFilipino	Bisaya
+PlayerName	Jogador
+MyTablet	Meu tablet
+Headquarters	Sede
+DownloadTestEstTimeS	Tempo estimado: {0}s
+DownloadTestEstTimeMS	Tempo estimado: {0}m {1}s
+DownloadTestEstTimeHMS	Tempo estimado: {0}hr {1}m {2}s
+DownloadTestEstTimeDHMS	Tempo estimado: {0}d {1}hr {2}m {3}s
+DownloadComplete	Completo
+GrabCoffee	HORA DO CAFE
+TakeBreak	FACA UMA PAUSA
+DontNeedWait	DE UM PASSEIO
+DoSomethingElse	FACA OUTRA COISA
+NodeTB	Nó_TB
+NodeIRO	Nó_IRO
+NodeGI	Nó_GI
+NodePD	Nó_PD
+NodeCA	Nó_CA
+NodeMLG	Nó_MLG
+Vending	AGUARDE
+OtherLanguage	Outro
+ImposterAmtAny	1-3
+	
+VitalsORGN	LRNJ
+VitalsBLUE	AZUL
+VitalsRED	VRML
+VitalsBRWN	MARR
+VitalsGRN	VERD
+VitalsPINK	ROSA
+VitalsWHTE	BRNC
+VitalsYLOW	AMRL
+VitalsBLAK	PRET
+VitalsPURP	ROXO
+VitalsCYAN	CIAN
+VitalsLIME	LIMA
+ColorOrange	LARANJA
+ColorBlue	AZUL
+ColorRed	VERMELHO
+ColorBrown	MARROM
+ColorGreen	VERDE
+ColorPink	ROSA
+ColorWhite	BRANCO
+ColorYellow	AMARELO
+ColorBlack	PRETO
+ColorPurple	ROXO
+ColorCyan	CIANO
+ColorLime	LIMA
+ColorMaroon	BORDÔ
+ColorRose	ROSÉ
+ColorBanana	BANANA
+ColorGray	CINZA
+ColorTan	CREME
+ColorCoral	CORAL
+MedID	ID:
+MedC	C:
+MedHT	AL:
+MedBT	PE:
+MedWT	TS:
+MedETA	TEMPO: {0}
+MedHello	OI!
+LobbySizeWarning	É possível jogar Among Us com 4 jogadores, mas recomendamos 5 ou mais.\n\nJogos com 4 pessoas acabam rápido e, muitas vezes, o Impostor ganha.
+Okay	OK
+OkayDontShow	OK, não \nexibir isso
+Nevermind	Deixa pra lá
+CamEast	Leste
+CamCentral	Centro
+CamNortheast	Nordeste
+CamSouth	Sul
+CamSouthwest	Sudoeste
+CamNorthwest	Noroeste
+LoadingFailed	Falha no carregamento:
+PetFailFetchData	Não foi possível baixar os dados de mascotes
+BadResult	FALHOU
+More	MAIS {0}
+Processing	Processando
+ExitGame	Sair da partida
+WaitingForHost	Aguardando anfitrião
+LeftGameError	{0} saiu da partida devido a um erro.
+PlayerWasBannedBy	{1} baniu {0}
+PlayerWasKickedBy	{1} expulsou {0}
+Dummy	Boneco
+Bad	ERRO
+Status	Status: 
+Fine	CERTO
+OK	OK
+SecondsAbbv	{0}s
+PetTryOn	Experimente algum!
+DataPolicyWhat	O que é coletado?
+	
+	
+	
+VaultRoom	Caixa-forte
+Cockpit	Cabine
+Armory	Armaria
+Kitchen	Cozinha
+ViewingDeck	Deck panorâmico
+HallOfPortraits	Salão de retratos
+Medical	Ala médica
+CargoBay	Cargas
+Ventilation	Ventilação
+Showers	Duchas
+Engine	Casa de máquinas
+Brig	Alojamentos
+MeetingRoom	Sala de reunião
+Records	Sala de arquivos
+Lounge	Saguão
+GapRoom	Sala suspensa
+MainHall	Salão principal
+	
+PolishRuby	Polir rubi
+ResetBreakers	Reiniciar dijuntores
+Decontaminate	Desinfetar
+MakeBurger	Fazer hambúrguer
+UnlockSafe	Abrir cofre
+SortRecords	Arrumar registros
+PutAwayPistols	Guardar pistolas
+PutAwayRifles	Guardar rifles
+FixShower	Arrumar ducha
+CleanToilet	Limpar banheiro
+DressMannequin	Vestir manequim
+PickUpTowels	Recolher toalhas
+RewindTapes	Rebobinar fitas
+StartFans	Ligar ventilador
+DevelopPhotos	Desenvolver fotos
+GetBiggolSword	Pegar espada Biggol
+StopCharles	Desviar da rota de colisão
+	
+RevealCode	Revelar código
+DirtyHeader	SUJO
+AuthLeftOkay	Lado esquerdo OK
+AuthRightOkay	Lado direito OK
+AuthLeftActive	Lado esquerdo ATIVO
+AuthRightActive	Lado direito ATIVO
+AuthLeftNotActive	Lado esquerdo DESATIVADO
+AuthRightNotActive	Lado direito DESATIVADO
+EngagementScreen	Aperte qualquer botão para iniciar.
+DeleteButton	Excluir
+QuickChat	Bate-papo rápido
+QCLocationLaptop	Laptop
+QCLocationSkeld	Skeld
+QCLocationMira	Mira 
+QCLocationPolus	Polus
+QCSystemsStart	Iniciar
+QCSystemsKick	Expulsar
+QCCrewI	Eu
+QCCrewMe	Meu Among
+QCCrewNoOne	Ninguém
+QCAccAKilledB	{0} matou {1}
+QCAccAKilledBNeg	{0} não matou {1}
+QCAccAIsSuspicious	{0} é suspeito(a)
+QCAccAIsSuspiciousNeg	{0} tá de boa
+QCAccASawBVent	{0} viu {1} no duto
+QCAccASawBVentNeg	{0} nunca viu {1} no duto
+QCAccAWasChasingB	{0} perseguiu {1}
+QCAccAWasChasingBNeg	{0} não perseguiu {1}
+QCAccAIsLying	{0} tá mentindo
+QCAccAIsLyingNeg	{0} tá dizendo a verdade
+QCAccVoteA	Votem em {0}
+QCAccVoteANeg	Não votar em {0}
+QCAccADidntReport	{0} não reportou o corpo
+QCResYes	Sim
+QCResNo	Não
+QCResDontKnow	Não sei
+QCResDontKnowNeg	Talvez
+QCResAWas	{0} estava
+QCResAWasNeg	{0} não estava
+QCResADid	{0} fez isso
+QCResADidNeg	{0} não fez isso
+QCResVote	Votar
+QCResVoteNeg	Pular
+QCResAWasAtB	{0} estava em {1}
+QCResAWasAtBNeg	{0} não estava em {1}
+QCResRip	e morreu
+QCResRipNeg	uh, fora
+QCResLies	caô
+QCResLiesNeg	ok
+QCQstWhere	onde?
+QCQstWho	quem?
+QCQstWhoWasWith	Quem estava com {0}?
+QCQstWhatWasADoing	O que {0} fazia?
+QCQstWhoFixedA	Quem consertou {0}?
+QCQstWhereWasA	Onde {0} estava?
+QCQstBodyOrMeeting	É reunião de corpo ou de emergência?
+QCStaASawB	{0} viu {1}
+QCStaAWasWithB	{0} estava com {1}
+QCStaADidB	{0} fez: {1}
+QCStaASelfReported	{0} passou recibo
+QCStaDoubleKill	Foi abate duplo
+QCStaWasSelfReport	Passou recibo
+QCStaPleaseDoTasks	Cumpram suas tarefas
+QCStaBodyWasInA	O corpo estava em {0}
+QCStaACalledMeeting	{0} convocou uma reunião
+QCLocation	Local
+QCSystems	Sistemas
+QCCrew	Tripulação
+QCAccusation	Acusação
+QCResponse	Resposta
+QCQuestion	Pergunta
+QCStatements	Declarações
+ChatType	Tipo de bate-papo
+QuickChatOnly	Só bate-papo rápido
+FreeChatOnly	Só bate-papo livre
+FreeOrQuickChat	Bate-papo rápido ou livre
+DateOfBirth	Data de nascimento
+DateOfBirthEnter	Preencha sua data de nascimento:
+Month	Mês:
+Day	Dia:
+Year	Ano:
+January	Janeiro
+February	Fevereiro
+March	Março
+April	Abril
+May	Maio
+June	Junho
+July	Julho
+August	Agosto
+September	Setembro
+October	Outubro
+November	Novembro
+December	Dezembro
+Submit	Enviar
+	
+QCAccAKilledB_QCCrewMe_ANY	Eu matei {1}
+QCAccAKilledB_QCCrewMe_QCCrewNoOne	Eu não matei ninguém
+QCAccAKilledB_QCCrewMe_QCCrewMe	
+QCAccAKilledB_ANY_QCCrewMe	{0} me matou
+QCAccAKilledB	{0} matou {1}
+QCAccAKilledB_ANY_QCCrewNoOne	{0} não matou ninguém
+QCAccAKilledB_QCCrewNoOne_QCCrewMe	Ninguém me matou
+QCAccAKilledB_QCCrewNoOne_ANY	Ninguém matou {1}
+QCAccAKilledB_QCCrewNoOne_QCCrewNoOne	Ninguém matou ninguém
+QCAccAKilledBNeg_QCCrewMe_ANY	Eu não matei {1}
+QCAccAKilledBNeg_QCCrewMe_QCCrewNoOne	Eu não matei ninguém
+QCAccAKilledBNeg_QCCrewMe_QCCrewMe	Eu não me matei
+QCAccAKilledBNeg_ANY_QCCrewMe	{0} não me matou
+QCAccAKilledBNeg	{0} não matou {1}
+QCAccAKilledBNeg_ANY_QCCrewNoOne	{0} não matou ninguém
+QCAccAKilledBNeg_QCCrewNoOne_QCCrewMe	
+QCAccAKilledBNeg_QCCrewNoOne_ANY	
+QCAccAKilledBNeg_QCCrewNoOne_QCCrewNoOne	
+QCAccAIsSuspicious_QCCrewMe	Eu sou suspeito(a)
+QCAccAIsSuspicious	{0} é suspeito(a)
+QCAccAIsSuspicious_QCCrewNoOne	Ninguém é suspeito
+QCAccAIsSuspiciousNeg_QCCrewMe	Eu tô de boa
+QCAccAIsSuspiciousNeg	{0} tá de boa
+QCAccAIsSuspiciousNeg_QCCrewNoOne	Todo mundo é treta
+QCAccASawBVent_QCCrewMe_ANY	Eu vi {1} no duto
+QCAccASawBVent_QCCrewMe_QCCrewNoOne	Eu não vi ninguém no duto
+QCAccASawBVent_QCCrewMe_QCCrewMe	
+QCAccASawBVent_ANY_QCCrewMe	{0} me viu no duto
+QCAccASawBVent	{0} viu {1} no duto
+QCAccASawBVent_ANY_QCCrewNoOne	{0} não viu ninguém no duto
+QCAccASawBVent_QCCrewNoOne_QCCrewMe	Ninguém me viu no duto
+QCAccASawBVent_QCCrewNoOne_ANY	Ninguém viu {1} no duto
+QCAccASawBVent_QCCrewNoOne_QCCrewNoOne	Ninguém viu ninguém no duto
+QCAccASawBVentNeg_QCCrewMe_ANY	Eu nunca vi {1} no duto
+QCAccASawBVentNeg_QCCrewMe_QCCrewNoOne	Eu nunca vi ninguém no duto
+QCAccASawBVentNeg_QCCrewMe_QCCrewMe	
+QCAccASawBVentNeg_ANY_QCCrewMe	{0} nunca me viu no duto
+QCAccASawBVentNeg	{0} nunca viu {1} no duto
+QCAccASawBVentNeg_ANY_QCCrewNoOne	{0} nunca viu ninguém no duto
+QCAccASawBVentNeg_QCCrewNoOne_QCCrewMe	Ninguém nunca me viu no duto
+QCAccASawBVentNeg_QCCrewNoOne_ANY	Ninguém nunca viu {1} no duto
+QCAccASawBVentNeg_QCCrewNoOne_QCCrewNoOne	Ninguém nunca viu ninguém no duto
+QCAccAWasChasingB_QCCrewMe_ANY	Eu persegui {1}
+QCAccAWasChasingB_QCCrewMe_QCCrewNoOne	Eu não persegui ninguém
+QCAccAWasChasingB_QCCrewMe_QCCrewMe	
+QCAccAWasChasingB_ANY_QCCrewMe	{0} me perseguiu
+QCAccAWasChasingB	{0} perseguiu {1}
+QCAccAWasChasingB_ANY_QCCrewNoOne	{0} não perseguiu ninguém
+QCAccAWasChasingB_QCCrewNoOne_QCCrewMe	Ninguém me perseguiu
+QCAccAWasChasingB_QCCrewNoOne_ANY	Ninguém perseguiu {1}
+QCAccAWasChasingB_QCCrewNoOne_QCCrewNoOne	Ninguém perseguiu ninguém
+QCAccAWasChasingBNeg_QCCrewMe_ANY	Eu não persegui {1}
+QCAccAWasChasingBNeg_QCCrewMe_QCCrewNoOne	Eu não persegui ninguém
+QCAccAWasChasingBNeg_QCCrewMe_QCCrewMe	
+QCAccAWasChasingBNeg_ANY_QCCrewMe	{0} não me perseguiu
+QCAccAWasChasingBNeg	{0} não perseguiu {1}
+QCAccAWasChasingBNeg_ANY_QCCrewNoOne	{0} não perseguiu ninguém
+QCAccAWasChasingBNeg_QCCrewNoOne_QCCrewMe	
+QCAccAWasChasingBNeg_QCCrewNoOne_ANY	
+QCAccAWasChasingBNeg_QCCrewNoOne_QCCrewNoOne	
+QCAccAIsLying_QCCrewMe	Eu tô mentindo
+QCAccAIsLying	{0} tá mentindo
+QCAccAIsLying_QCCrewNoOne	Ninguém tá mentindo
+QCAccAIsLyingNeg_QCCrewMe	Eu tô dizendo a verdade
+QCAccAIsLyingNeg	{0} tá dizendo a verdade
+QCAccAIsLyingNeg_QCCrewNoOne	Ninguém tá dizendo a verdade
+QCAccVoteA_QCCrewMe	Votem em mim
+QCAccVoteA	Votem em {0}
+QCAccVoteA_QCCrewNoOne	Não votem em ninguém
+QCAccVoteANeg_QCCrewMe	Não votem em mim
+QCAccVoteANeg	Não votem em {0}
+QCAccVoteANeg_QCCrewNoOne	
+QCAccADidntReport_QCCrewMe	Eu não reportei o corpo
+QCAccADidntReport	{0} não reportou o corpo
+QCAccADidntReport_QCCrewNoOne	
+QCResAWas_QCCrewMe	Eu estava
+QCResAWas	{0} estava
+QCResAWas_QCCrewNoOne	Ninguém estava
+QCResAWasNeg_QCCrewMe	Eu não estava
+QCResAWasNeg	{0} não estava
+QCResAWasNeg_QCCrewNoOne	
+QCResADid_QCCrewMe	Eu fiz isso
+QCResADid	{0} fez isso
+QCResADid_QCCrewNoOne	Ninguém fez isso
+QCResADidNeg_QCCrewMe	Eu não fiz isso
+QCResADidNeg	{0} não fez isso
+QCResADidNeg_QCCrewNoOne	
+QCResAWasAtB_QCCrewMe_ANY	Eu estava em {1}
+QCResAWasAtB	{0} estava em {1}
+QCResAWasAtB_QCCrewNoOne_ANY	Ninguém estava em {1}
+QCResAWasAtBNeg_QCCrewMe_ANY	Eu não estava em {1}
+QCResAWasAtBNeg	{0} não estava em {1}
+QCResAWasAtBNeg_QCCrewNoOne_ANY	
+QCQstWhoWasWith_QCCrewMe	Quem estava comigo?
+QCQstWhoWasWith	Quem estava com {0}?
+QCQstWhoWasWith_QCCrewNoOne	Quem estava sozinho(a)?
+QCQstWhatWasADoing_QCCrewMe	
+QCQstWhatWasADoing	O que {0} fazia?
+QCQstWhatWasADoing_QCCrewNoOne	
+QCQstWhereWasA_QCCrewMe	
+QCQstWhereWasA	Onde {0} estava?
+QCQstWhereWasA_QCCrewNoOne	
+QCStaASawB_QCCrewMe_ANY	Eu vi {1}
+QCStaASawB_QCCrewMe_QCCrewNoOne	Eu não vi ninguém
+QCStaASawB_QCCrewMe_QCCrewMe	
+QCStaASawB_ANY_QCCrewMe	{0} me viu
+QCStaASawB	{0} viu {1}
+QCStaASawB_ANY_QCCrewNoOne	{0} não viu ninguém
+QCStaASawB_QCCrewNoOne_QCCrewMe	Ninguém me viu
+QCStaASawB_QCCrewNoOne_ANY	Ninguém viu {1}
+QCStaASawB_QCCrewNoOne_QCCrewNoOne	Ninguém viu ninguém
+QCStaAWasWithB_QCCrewMe_ANY	Eu estava com {1}
+QCStaAWasWithB_QCCrewMe_QCCrewNoOne	Eu estava sozinho(a)
+QCStaAWasWithB_QCCrewMe_QCCrewMe	
+QCStaAWasWithB_ANY_QCCrewMe	{0} estava comigo
+QCStaAWasWithB	{0} estava com {1}
+QCStaAWasWithB_ANY_QCCrewNoOne	{0} estava sozinho(a)
+QCStaAWasWithB_QCCrewNoOne_QCCrewMe	Não tinha ninguém comigo
+QCStaAWasWithB_QCCrewNoOne_ANY	Não tinha ninguém com {1}
+QCStaAWasWithB_QCCrewNoOne_QCCrewNoOne	Não tinha ninguém com ninguém
+QCStaADidB_QCCrewMe_ANY	Eu fiz: {1}
+QCStaADidB	{0} fez: {1}
+QCStaADidB_QCCrewNoOne_ANY	Ninguém fez: {1}
+QCStaASelfReported_QCCrewMe	Eu passei recibo
+QCStaASelfReported	{0} passou recibo
+QCStaASelfReported_QCCrewNoOne	Ninguém passou recibo
+QCStaACalledMeeting_QCCrewMe	Eu convoquei a reunião
+QCStaACalledMeeting	{0} convocou a reunião
+QCStaACalledMeeting_QCCrewNoOne	Ninguém convocou a reunião
+QCMore	MAIS
+SecurityLogsSystem	Registros de Segurança
+SecurityCamsSystem	Câmeras de Segurança
+AdminMapSystem	Mapa de Admin
+VitalsSystem	Monitor de Sinais Vitais
+EngagementScreenSignIn	Entrando...
+SaveGameOutOfSpaceConfirm	Continuar
+EngagementScreen	Aperte qualquer botão para iniciar.
+SaveGameOutOfSpaceMessage	Quer continuar sem salvar?
+SaveGameOutOfSpaceConfirm	Continuar
+SaveGameOutOfSpaceCancel	Tentar de novo
+Success	Sucesso!
+Failed	Erro!
+ErrorCreate	Alguma coisa deu errado na criação da sua conta. Tente novamente mais tarde.
+SuccessCreate	Sua conta está criada!
+Close	Fechar
+ErrorLogIn	Alguma coisa deu errado no acesso à sua conta. Tente novamente mais tarde.
+SuccessLogIn	Você entrou na sua conta!
+AccountInfo	INFORMAÇÕES DA CONTA
+Account	CONTA
+UserName	NOME DE USUÁRIO
+Height	Altura
+Weight	Peso
+SignIn	Entrar
+CreateAccount	Criar Conta
+RequestPermission	Solicitar Permissão
+RandomizeName	Gerar Nome
+AccountLinking	Vinculação de Conta
+ChangeName	Alterar Nome
+LogOut	Sair
+GuardianWait	Aguarde a permissão do(a) seu(ua) Tutor(a) para usar o Bate-papo Livre e alterar seu nome de usuário.
+EmailEdit	Editar E-mail
+EmailResend	Reenviar E-mail
+GuestContinue	Entrar como Convidado
+GuardianEmailSent	E-mail para Tutor(a) enviado
+GuardianCheckEmail	Não deixe de lembrar seu(ua) Tutor(a) de conferir o e-mail para desbloquear todas as funcionalidades do jogo
+EditName	Editar Nome
+Name	Nome
+CreateAccountQuestion	Criar Conta?
+DoYouWantCreate	Você quer criar uma conta?
+PermissionRequired	Permissão Necessária
+NeedPermissionText	Teremos que pedir permissão ao(à) seu(ua) tutor(a) via e-mail para continuar. Se ele(a) disser que sim, você poderá usar o bate-papo livre online e alterar seu nome de usuário. Peça a um adulto para te ajudar!
+GuardianEmailTitle	E-mail do(a) Tutor(a)
+Send	Enviar
+NewEmail	Novo E-mail
+ConfirmEmail	Confirmar E-mail
+EditEmail	Editar E-mail
+Loading	Carregando
+Welcome	BOAS-VINDAS
+GuardianEmail	[e-mail do seu tutor]
+	
+BanButton	BANIR
+KickButton	EXPULSAR
+ReportButton	NOTIFICAR
+ReportConfirmation	Você abriu queixa contra o usuário.
+ReportBadName	Nome inapropriado
+ReportBadChat	Conversas inapropriadas
+ReportHacking	Hack/Trapaça
+ReportHarassment	Assédio/Comportamento impróprio
+ReportWhy	Qual é o motivo da acusação?
+DLLNotFoundAccountError	Por algum motivo, você não está conseguindo se conectar aos serviços online. Até que isso se resolva, você só poderá jogar nos modos Local e Partida Livre. Tente novamente mais tarde.
+ContinueOffline	Jogar offline
+WantToLogIn	Você não está conectado a uma conta
+GoOffline	Ficar offline
+PlayAsGuest	Jogar como Convidado
+LogInTitle	Entrar na sua conta
+LogInInfoText	– Contas Convidadas permitem que você jogue online sem se vincular a uma conta, mas não é possível recuperá-las em caso de troca de dispositivo ou de desinstalação do Among Us.\n– Criando uma conta, você pode acessá-la sempre que quiser. Caso você ainda não tenha uma conta, ela será criada automaticamente.
+LogInInfoTextSwitch	Caso você ainda não tenha uma conta, ela será criada automaticamente.
+ControllerDisconnectedMessage	Controle desconectado
+FollowUs	Siga a gente!
+	
+QuickChatInstructionsStart	Seu bate-papo do jogo está configurado como "Só Bate-papo Rápido".
+QuickChatInstructionsChild	Você terá que pedir permissão aos seus responsáveis para ganhar acesso ao Bate-papo Completo.
+QuickChatInstructionsGuest	Entre na sua conta para realizar a alteração.
+QuickChatInstructionsFull	É possível alterar isso no menu Configurações.
+	
+SwitchEShopBrowseAll	Confira os itens na Nintendo eShop
+	
+Download	Download
+Upload	Upload
+pk05_davehat	Boné do Dave
+pk05_Ellie	Ellie
+pk05_Svenhat	Chapéu do Sven
+pk05_Burthat	Chapéu do Burt
+pk05_Ellryhat	Moicano de Ellry
+pk05_monocles	Monóculo Duplo
+pk05_cheesetoppat	Chapéu de Queijo
+pk05_Macbethhat	Cartola do Sr. Macbeth
+pk05_HenryToppat	Cartola do Henry
+pk05_EllieToppat	Cartola da Ellie
+pk05_GeoffreyToppat	Cartola do Geoffrey
+	
+	
+InsufficientStorageError	Espaço de armazenamento insuficiente para baixar o pacote de utilidades. Libere espaço no seu dispositivo e tente novamente.
+NetworkError	Erro de rede. Verifique suas configurações de rede e tente novamente.
+OtherDownloadError	Erro: {0}
+DownloadingLabel	Baixando {0}
+DownloadSizeLabel	Tamanho do download: {0} MB
+	
+TimeRemaining	Tempo restante: {0}
+DeadLabel	MORTO
+	
+InviteFriends	Convidar Amigos
+	
+NutriLabel	NUTRI
+CO2Label	CO2
+RADLabel	RAD
+WaterLabel	ÁGUA
+	
+DoorlogLabel	PORTARIA
+VitalsLabel	VITAIS
+OptionsLabel	PERSONALIZAR
+ProceedLabel	CONTINUAR
+StartLabel	INICIAR
+UseLabel	USAR
+PlayAgain	JOGAR NOVAMENTE
+QuitLabel	SAIR
+ReportLabel	NOTIFICAR
+SabotageLabel	SABOTAR
+VentLabel	DUTO
+KillLabel	ABATIDO
+DiscussLabel	DISCUSSÃO!
+SkippedVoting	PULOU A VOTAÇÃO
+SkipVoteLabel	PULAR VOTO
+EmergencyMeeting	REUNIÃO DE EMERGÊNCIA
+BodyReported	CORPO NOTIFICADO
+SkinLabel	VISUAIS
+HatLabel	CHAPÉUS
+PetLabel	MASCOTES
+AnnouncementLabel	ANÚNCIOS
+	
+UploadingLabel	ENVIANDO
+ConnectionLabel	Conexão:
+NoneLabel	NULA
+PoorLabel	RUIM
+GoodLabel	BOA
+LogLabel	HISTÓRICO
+ReadingLabel	TEMPERATURA
+WeatherDataDownload	BAIXANDO DADOS CLIMÁTICOS
+AirshipBundle	Pacote Airship
+PolusBundle	Pacote Polus
+PolusSkinBundle	Pacote de Visuais do Mapa Polus
+MiraBundle	Pacote MIRA HQ
+MiraSkinBundle	Pacote de Visuais de MIRA HQ
+PetAlien2	Pacote de Mascote: Bedcrab
+PetAlien1	Pacote de Mascote: Cérebro de Lesma
+PetAnimal	Pacote de Mascote: Hamster
+PetCrewmate	Pacote do Minitripulante
+PetStickmin	Pacote de Mascotes: Stickmin
+PrisonerSkin	Prisioneiro
+Cyborg_RHM	Braço Direito Renascido
+CCC_Officer	Chefe do Centro de Contenção do Caos
+BeginLabel	INICIAR
+QuietLabel	XIU!
+VentCleaning	Limpar Duto
+CleanUp	Limpar
+ProgressLabel	Andamento:
+TermsOfUseTitle	Termos de Uso
+PPAndToUTitle	Política de Privacidade e Termos de Uso
+	
+ErrorNotAuthenticated	Não foi possível autenticar você nos servidores de Among Us.\r\n\nÉ necessário ter uma conta de Among Us para jogar online (pode ser uma Conta Convidada)!
+ComePlayDiscord	Venha jogar Among Us comigo! 
+ShowAccountSupportID5	Exibir ID de suporte da conta
+ShowAccountSupportID4	Aperte mais quatro vezes para exibir
+ShowAccountSupportID3	Não compartilhe essa ID
+ShowAccountSupportID2	Não clique no meio da transmissão
+ShowAccountSupportID1	Mostre a ID para mim sem falta
+SupportIDLabel	ID de suporte: {0}
+YouAreNotOnline	Você não está conectado.
+NoDeadBodiesFound	Nenhum corpo encontrado
+SupportEmail	Em caso de dúvida, entre em contato pelo e-mail support@innersloth.com.
+PerfectLabel	PERFEITO
