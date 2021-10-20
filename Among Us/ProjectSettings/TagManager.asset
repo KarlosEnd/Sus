@@ -4,9 +4,9 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - HudCam
+  - Bullet
   - DeadBody
-  - NoSnow
+  - HudCam
   layers:
   - Default
   - TransparentFX
@@ -16,15 +16,15 @@ TagManager:
   - UI
   - 
   - 
-  - Players
-  - Ship
-  - Shadow
-  - Objects
-  - ShortObjects
-  - IlluminatedBlocking
-  - Ghost
-  - UICollide
-  - DrawShadows
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
   - 
   - 
   - 
@@ -43,4 +43,10 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3681883441
+    locked: 0
+  - name: Front
+    uniqueID: 4000034985
     locked: 0
