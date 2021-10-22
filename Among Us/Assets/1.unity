@@ -68649,8 +68649,8 @@ MonoBehaviour:
           m_BoolArgument: 0
         m_CallState: 2
       - m_Target: {fileID: 1318355167}
-        m_TargetAssemblyTypeName: Launcher, Assembly-CSharp
-        m_MethodName: connect
+        m_TargetAssemblyTypeName: SusOnline, Assembly-CSharp
+        m_MethodName: Connect
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -74458,7 +74458,7 @@ GameObject:
   - component: {fileID: 1318355168}
   - component: {fileID: 1318355167}
   m_Layer: 0
-  m_Name: Online
+  m_Name: SusOnline_
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -74473,7 +74473,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1318355166}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6ea44b50e7a26bd449132ae24285e504, type: 3}
+  m_Script: {fileID: 11500000, guid: f3a1bfe62ae14cb4e94a89955da8ab5b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!4 &1318355168
@@ -74484,7 +74484,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1318355166}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 3.9086947, y: -13.388116, z: -11.652003}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -79693,7 +79693,7 @@ MonoBehaviour:
           m_BoolArgument: 0
         m_CallState: 2
       - m_Target: {fileID: 1318355167}
-        m_TargetAssemblyTypeName: Launcher, Assembly-CSharp
+        m_TargetAssemblyTypeName: SusOnline, Assembly-CSharp
         m_MethodName: CreateRoom
         m_Mode: 1
         m_Arguments:

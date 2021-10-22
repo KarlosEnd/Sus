@@ -35,14 +35,16 @@ public class PlayerController : MonoBehaviour
         animator.SetFloat("y", direction.y);
 
 
+        var scale = transform.localScale;
         if (direction.x < 0)
         {
-            spriteRenderer.flipX = true;
+            scale.x = -0.35f;
         }
         else if (direction.x > 0)
         {
-            spriteRenderer.flipX = false;
+            scale.x = 0.35f;
         }
+        transform.localScale = scale;
 
 
         // rb.velocity.Set(Input.GetAxisRaw("Horizontal")*vel*Time.deltaTime, Input.GetAxisRaw("Vertical")*vel*Time.deltaTime);
