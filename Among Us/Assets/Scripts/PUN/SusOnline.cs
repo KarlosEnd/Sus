@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using Photon.Pun;
+using UnityEngine.SceneManagement;
 
 public class SusOnline : MonoBehaviourPunCallbacks
 {
@@ -24,7 +25,10 @@ public class SusOnline : MonoBehaviourPunCallbacks
     public void CreateRoom()
     {
         if (PhotonNetwork.InLobby)
-        PhotonNetwork.JoinRandomOrCreateRoom();
+        {
+            SceneManager.LoadScene(1);
+            PhotonNetwork.JoinRandomOrCreateRoom();
+        }
     }
 
     public override void OnConnectedToMaster()
@@ -36,6 +40,7 @@ public class SusOnline : MonoBehaviourPunCallbacks
     public override void OnCreatedRoom()
     {
         print("CreatedRoom");
+        
     }
 
     public override void OnJoinedRoom()

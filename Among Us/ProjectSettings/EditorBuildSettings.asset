@@ -8,4 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/1.unity
     guid: fd65275f35cf6ef4ba06abb98a6d58e6
+  - enabled: 1
+    path: Assets/GameOnline.unity
+    guid: 1ee18e272f645e04e80368b34cb9857b
   m_configObjects: {}
